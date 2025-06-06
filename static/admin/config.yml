@@ -110,7 +110,7 @@ collections:
     label: "Courses"
     folder: "content/courses"
     path: "{{slug}}/index"
-    media_folder: ""
+    media_folder: "content/courses/assets"
     public_folder: ""
     create: true
     slug: "{{slug}}"
