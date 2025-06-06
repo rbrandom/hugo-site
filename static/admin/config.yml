@@ -111,7 +111,7 @@ collections:
     folder: "content/courses"
     path: "{{slug}}/index"
     media_folder: "content/courses/assets"
-    public_folder: ""
+    public_folder: "content/courses/assets"
     create: true
     slug: "{{slug}}"
     editor:
