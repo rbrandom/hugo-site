@@ -159,3 +159,5 @@ Logical Expressivism and Expressivist Logic
 ##### Supplementary Material
 
 + ["Semantic Inferentialism and Logical Expressivism" (Chapter 1 of Articulating Reasons).](meeting6/Brandom-AR.pdf)
+
+test
