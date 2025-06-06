@@ -14,7 +14,6 @@ cover:
   alt: Reasons for Logic, Logic for Reasons
   relative: false
 files_note: ''
-disableAnchoredHeadings: false
 aliases:
   - /courses/course2/slides4.pdf
   - /courses/course2/slides1.pdf
@@ -29,6 +28,7 @@ aliases:
   - /courses/course2/quiz3.pdf
   - /courses/course2/quiz4.pdf
   - /courses/course1/ps1.pdf
+disableAnchoredHeadings: false
 editPost:
   URL: https://github.com/pmichaillat/hugo-website
   Text: Course portal
@@ -134,7 +134,7 @@ Bimodal Conceptual Realism
 
 The Open Structure of Material Reason Relations
 
-![](meeting5/Explicitator.jpg)
+![A lattice with explicitation paths](meeting5/Explicitator.jpg "Explicitation paths")
 
 ##### Suggested reading
 
