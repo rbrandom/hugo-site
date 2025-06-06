@@ -1,0 +1,165 @@
+# Decap CMS Configuration
+backend:
+  name: github
+  repo: nedhw/bob-demo-hugo # Replace with your actual GitHub username/repo (format: username/repo-name)
+  branch: main # The branch you want to use for the CMS
+
+# Enable local testing (comment this out for production)
+# local_backend: true
+
+# Site settings
+site_url: https://brandom-demo.netlify.app # Your production site URL
+display_url: https://brandom-demo.netlify.app
+logo_url: /bob-leipzig.jpg # Optional logo to display in the CMS
+
+# Media and public folder configuration
+media_folder: "static/images"
+public_folder: "/images"
+media_library:
+  name: uploadcare
+  config:
+    publicKey: # Your uploadcare public key (optional)
+
+# Editorial workflow (optional)
+# publish_mode: editorial_workflow
+
+# Collections configuration
+collections:
+  # Books collection
+  - name: "books"
+    label: "Books"
+    folder: "content/books"
+    path: "{{slug}}/index"
+    media_folder: ""
+    public_folder: ""
+    create: true
+    slug: "{{slug}}"
+    editor:
+      preview: true
+    fields:
+      - {label: "Title", name: "title", widget: "string", required: true}
+      - {label: "Publication Date", name: "date", widget: "datetime", format: "YYYY-MM-DD", required: true}
+      - {label: "Last Modified", name: "lastmod", widget: "datetime", format: "YYYY-MM-DD", required: false}
+      - {label: "Tags", name: "tags", widget: "list", allow_add: true, required: false}
+      - {label: "Authors", name: "author", widget: "list", allow_add: true, required: true}
+      - {label: "Description", name: "description", widget: "text", required: false}
+      - {label: "Summary", name: "summary", widget: "text", required: false}
+      - label: "Cover"
+        name: "cover"
+        widget: "object"
+        required: false
+        fields:
+          - {label: "Image", name: "image", widget: "image", required: false}
+          - {label: "Alt Text", name: "alt", widget: "string", required: false}
+          - {label: "Relative Path", name: "relative", widget: "boolean", default: false, required: false}
+      - label: "Edit Post"
+        name: "editPost"
+        widget: "object"
+        required: false
+        collapsed: true
+        fields:
+          - {label: "URL", name: "URL", widget: "string", required: false}
+          - {label: "Text", name: "Text", widget: "string", required: false}
+      - {label: "Body", name: "body", widget: "markdown", required: true}
+        
+  # Papers collection
+  - name: "papers"
+    label: "Papers"
+    folder: "content/papers"
+    path: "{{slug}}/index"
+    media_folder: ""
+    public_folder: ""
+    create: true
+    slug: "{{slug}}"
+    editor:
+      preview: true
+    fields:
+      - {label: "Title", name: "title", widget: "string", required: true}
+      - {label: "Publication Date", name: "date", widget: "datetime", format: "YYYY-MM-DD", required: true}
+      - {label: "Last Modified", name: "lastmod", widget: "datetime", format: "YYYY-MM-DD", required: false}
+      - {label: "Tags", name: "tags", widget: "list", allow_add: true, required: false}
+      - {label: "Authors", name: "author", widget: "list", allow_add: true, required: true}
+      - {label: "Description", name: "description", widget: "text", required: false}
+      - {label: "Summary", name: "summary", widget: "text", required: false}
+      - label: "Cover"
+        name: "cover"
+        widget: "object"
+        required: false
+        fields:
+          - {label: "Image", name: "image", widget: "image", required: false}
+          - {label: "Alt Text", name: "alt", widget: "string", required: false}
+          - {label: "Relative Path", name: "relative", widget: "boolean", default: false, required: false}
+      - label: "Edit Post"
+        name: "editPost"
+        widget: "object"
+        required: false
+        collapsed: true
+        fields:
+          - {label: "URL", name: "URL", widget: "string", required: false}
+          - {label: "Text", name: "Text", widget: "string", required: false}
+      - {label: "Body", name: "body", widget: "markdown", required: true}
+      - label: "Files"
+        name: "files_note"
+        widget: "markdown"
+        required: false
+        minimal: true
+        hint: "Note: To add PDF files, upload them first, then reference them in your markdown using relative links"
+          
+  # Courses collection
+  - name: "courses"
+    label: "Courses"
+    folder: "content/courses"
+    path: "{{slug}}/index"
+    media_folder: ""
+    public_folder: ""
+    create: true
+    slug: "{{slug}}"
+    editor:
+      preview: true
+    fields:
+      - {label: "Title", name: "title", widget: "string", required: true}
+      - {label: "Course Date", name: "date", widget: "datetime", format: "YYYY-MM-DD", required: true}
+      - {label: "Last Modified", name: "lastmod", widget: "datetime", format: "YYYY-MM-DD", required: false}
+      - {label: "Tags", name: "tags", widget: "list", allow_add: true, required: false}
+      - {label: "Instructor", name: "author", widget: "list", allow_add: true, required: false}
+      - {label: "Description", name: "description", widget: "text", required: false}
+      - {label: "Summary", name: "summary", widget: "text", required: false}
+      - label: "Cover"
+        name: "cover"
+        widget: "object"
+        required: false
+        fields:
+          - {label: "Image", name: "image", widget: "image", required: false}
+          - {label: "Alt Text", name: "alt", widget: "string", required: false}
+          - {label: "Relative Path", name: "relative", widget: "boolean", default: false, required: false}
+      - {label: "Body", name: "body", widget: "markdown", required: true}
+      - label: "Files"
+        name: "files_note"
+        widget: "markdown"
+        required: false
+        minimal: true
+        hint: "Note: To add course materials, upload them first, then reference them in your markdown using relative links"
+          
+  # Individual pages
+  - name: "pages"
+    label: "Pages"
+    files:
+      - name: "location"
+        label: "Location"
+        file: "content/location.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string", required: true}
+          - {label: "Body", name: "body", widget: "markdown", required: true}
+      - name: "officehours"
+        label: "Office Hours"
+        file: "content/officehours.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string", required: true}
+          - {label: "Body", name: "body", widget: "markdown", required: true}
+      - name: "archive"
+        label: "Archive"
+        file: "content/archive.md"
+        fields:
+          - {label: "Title", name: "title", widget: "string", required: true}
+          - {label: "Body", name: "body", widget: "markdown", required: true}
+
