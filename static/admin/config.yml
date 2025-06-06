@@ -13,8 +13,8 @@ display_url: https://spaceofreasons.netlify.app
 logo_url: /bob-leipzig.jpg # Optional logo to display in the CMS
 
 # Media and public folder configuration
-media_folder: "static/images"
-public_folder: "/images"
+media_folder: "content/courses/assets"
+public_folder: "content/courses/assets"
 media_library:
   name: uploadcare
   config:
