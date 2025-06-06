@@ -1,15 +1,15 @@
 # Decap CMS Configuration
 backend:
   name: github
-  repo: nedhw/bob-demo-hugo # Replace with your actual GitHub username/repo (format: username/repo-name)
+  repo: rbrandom/hugo-site # Replace with your actual GitHub username/repo (format: username/repo-name)
   branch: main # The branch you want to use for the CMS
 
 # Enable local testing (comment this out for production)
 # local_backend: true
 
 # Site settings
-site_url: https://brandom-demo.netlify.app # Your production site URL
-display_url: https://brandom-demo.netlify.app
+site_url: https://spaceofreasons.netlify.app # Your production site URL
+display_url: https://spaceofreasons.netlify.app
 logo_url: /bob-leipzig.jpg # Optional logo to display in the CMS
 
 # Media and public folder configuration
