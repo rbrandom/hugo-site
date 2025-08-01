@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Frege on Brandom Demo Site</title>
+    <link>http://localhost:1313/tags/frege/</link>
+    <description>Recent content in Frege on Brandom Demo Site</description>
+    <generator>Hugo -- 0.146.5</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/frege/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Frege in Context</title>
+      <link>http://localhost:1313/courses/frege2025/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/courses/frege2025/</guid>
+      <description>Wednesdays at 1pm in 1008B, Cathedral of Learning</description>
+    </item>
+  </channel>
+</rss>

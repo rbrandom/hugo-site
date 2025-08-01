@@ -6,8 +6,15 @@
     <description>Recent content in Courses on Brandom Demo Site</description>
     <generator>Hugo -- 0.146.5</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 06 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/courses/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Frege in Context</title>
+      <link>http://localhost:1313/courses/frege2025/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/courses/frege2025/</guid>
+      <description>TBD</description>
+    </item>
     <item>
       <title>Test course</title>
       <link>http://localhost:1313/courses/test-course/</link>
