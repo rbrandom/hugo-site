@@ -84,6 +84,10 @@ showToc: true
 ### [Passages from the *Grundlagen*](<Grundlagen Passages b.pdf>)   
 
 
+### Supplementary Reading:
+
+### [Brandom "The Significance of Complex Numbers for Frege's Philosophy of Mathematics](<>)   
+
 
 ## <font color="orange"> **Week 5.** </font> October 1, 2025:  "Function and Concept" (1891), "Concept and Object" (1892), and "What is a Function?" (1904).
 ###  Read: 
