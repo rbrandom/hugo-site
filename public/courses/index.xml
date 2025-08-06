@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Courses on Brandom Demo Site</title>
+    <title>Courses on Bob Brandom</title>
     <link>http://localhost:1313/courses/</link>
-    <description>Recent content in Courses on Brandom Demo Site</description>
+    <description>Recent content in Courses on Bob Brandom</description>
     <generator>Hugo -- 0.146.5</generator>
     <language>en</language>
     <lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0000</lastBuildDate>
@@ -20,7 +20,10 @@
       <link>http://localhost:1313/courses/test-course/</link>
       <pubDate>Fri, 06 Jun 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/courses/test-course/</guid>
-      <description>&lt;p&gt;Dummy text&lt;/p&gt;</description>
+      <description>&lt;p&gt;Dummy text&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;./week1/McD-test.pdf&#34;&gt;McD&lt;/a&gt; - McD test&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Language and the Structure of Reasons</title>

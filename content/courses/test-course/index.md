@@ -10,3 +10,4 @@ cover: null
 files_note: ''
 ---
 Dummy text
+- [McD](./week1/McD-test.pdf) - McD test
