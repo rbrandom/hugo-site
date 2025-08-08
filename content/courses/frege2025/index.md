@@ -176,6 +176,8 @@ showToc: true
 
 ## <font color="orange"> **Week 12.** </font> December 3, 2025:  Conclusion
 
+ <center>  <img src="FregeRB.JPG" width="50%" height="50%" alt="Frege"> </center> 
+
 
 
 
