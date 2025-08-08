@@ -15,6 +15,9 @@ files_note: ''
 disableAnchoredHeadings: false
 showToc: true
 ---
+
+
+
  <center>  <img src="Frege 1.jpg" width="50%" height="50%" alt="Frege"> </center>  
 
 #  <center> Frege in Context  </center>
@@ -172,6 +175,9 @@ showToc: true
 
 
 ## <font color="orange"> **Week 12.** </font> December 3, 2025:  Conclusion
+
+
+
 
 
 
