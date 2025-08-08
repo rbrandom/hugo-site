@@ -86,7 +86,10 @@ showToc: true
 
 ### Supplementary Reading:
 
-### [Brandom "The Significance of Complex Numbers for Frege's Philosophy of Mathematics"](<content/courses/frege2025/Brandom Significance of Complex Numbers for Freges Philosophy of Mathematics.pdf>)   
+### [Brandom "The Significance of Complex Numbers for Frege's Philosophy of Mathematics"](<Brandom Significance of Complex Numbers for Freges Philosophy of Mathematics.pdf>)
+ 
+
+
 
 
 ## <font color="orange"> **Week 5.** </font> October 1, 2025:  "Function and Concept" (1891), "Concept and Object" (1892), and "What is a Function?" (1904).
