@@ -44,6 +44,10 @@ showToc: true
 
 ### [Danielle Macbeth, *Realizing Reason* (2014)](<Macbeth Realizing Reason A Narrative of Truth and Knowing.pdf>) 
 
+### [Passages from Kant's *Logic*](<Kant Logic Notes 25-8-10 c.pdf>)
+
+
+
 ## <font color="orange"> **Week 2.** </font>  September 3, 2025:  *Begriffsshrift* (1879)    
 
 ### Read: 
@@ -200,3 +204,6 @@ showToc: true
 
 
 
+
+
+[def]: <K>
