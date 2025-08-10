@@ -38,7 +38,7 @@ showToc: true
 
 ### [Kite of Ampliativity](<Kite 25-8-5.pdf>) 
 
-### Resources for Context: 
+### Background Resources for Context: 
 
 ### [Alberto Coffa, *The Semantic Tradition from Kant to Carnap: To the Vienna Station* (1991)](<The Semantic Tradition from Kant to Carnap To the Vienna Station by J. Alberto Coffa.pdf>) 
 
@@ -47,6 +47,7 @@ showToc: true
 ### [Passages from Kant's *Logic*](<Kant Logic Notes 25-8-10 c.pdf>)
 
 
+### [Bolzano's *Theory of Science*](<Rolf George Bolzano theory of Science selections.pdf>)
 
 ## <font color="orange"> **Week 2.** </font>  September 3, 2025:  *Begriffsshrift* (1879)    
 
