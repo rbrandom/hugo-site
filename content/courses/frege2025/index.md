@@ -34,11 +34,12 @@ showToc: true
 
 ## <font color="orange"> **Week 1.** </font>    August 27, 2025:  Introduction  
 
-### Weekly Materials:
+### <font color="green">Weekly Materials:</font> 
 
 ### [Kite of Ampliativity](<Kite 25-8-5.pdf>) 
 
-###  Background Resources for Introduction:
+### <font color="green"> Background Resources for Introduction:</font>
+
 
 ### [Michael Beaney *Frege Reader* Introduction, pp. 1-14.](<Beaney Frege Reader.pdf>)
 
@@ -47,7 +48,7 @@ showToc: true
 
 
 
-###  Background Resources for Context:
+### <font color="green"> Background Resources for Context:</font>
 
 ### [Alberto Coffa, *The Semantic Tradition from Kant to Carnap: To the Vienna Station* (1991)](<The Semantic Tradition from Kant to Carnap To the Vienna Station by J. Alberto Coffa.pdf>) 
 
@@ -60,20 +61,20 @@ showToc: true
 
 ## <font color="orange"> **Week 2.** </font>  September 3, 2025:  *Begriffsshrift* (1879)    
 
-### Read: 
+### <font color="green">Read:</font> 
 
 ### [*Begriffsschrift* Intro, §§1-12](<Frege_Begriffsschrift van H searchable.pdf>) 
 
 ### ["Boole's Logical Calculus and the Concept-Script" (in *PW*), esp pp. 9-21, 32-39, 46.](<Frege_Posthumous Writings searchable.pdf>)  
 
-###  Supplementary: 
+###  <font color="green">Supplementary:</font> 
 
 ### [Danielle Macbeth, *Frege's Logic* (2005), Chs 1-3, pp. 1-109).](<Macbeth Freges Logic.pdf>) 
 
 
 ##  September 10, 2025: <font color="red"> **NO CLASS!**</font>
 
-### Read: 
+### <font color="green">Read:</font> 
 ### [*Die Grundlagen der Arithmetik (1884)*](<Gottlob Frege - The Foundations of Arithmetic searchable.pdf>)  
 
 ![Frege](<Frege 3.jpg>)
@@ -82,10 +83,10 @@ showToc: true
 ###  Concepts and Objects-as-Countables.  
 ### Singular terms, sortals, and recognition statements. 
 
-### Read: 
+### <font color="green">Read:</font>  
 ### [*Grundlagen §1-75.*](<Gottlob Frege - The Foundations of Arithmetic searchable.pdf>)   
 
-### Weekly Materials:
+### <font color="green"> Weekly Materials: </font> 
 
 ### [Passages from the *Grundlagen*](<Grundlagen Passages b.pdf>)   
 
@@ -93,48 +94,49 @@ showToc: true
 ## <font color="orange"> **Week 4.** </font> September 24, 2025:  *Grundlagen* II (1884).
 ###  New Objects from Old Concepts: Abstraction
 
-### Read: 
+### <font color="green"> Read: </font> 
 ### [*Grundlagen §76-109.*](<Gottlob Frege - The Foundations of Arithmetic searchable.pdf>)   
 
-### Weekly Materials:
+### <font color="green"> Weekly Materials: </font>
 
 ### [Passages from the *Grundlagen*](<Grundlagen Passages b.pdf>)   
 
 
-### Supplementary Reading:
+### <font color="green"> Supplementary Reading: </font>
 
 ### [Brandom "The Significance of Complex Numbers for Frege's Philosophy of Mathematics"](<Brandom Significance of Complex Numbers for Freges Philosophy of Mathematics.pdf>)
  
 
 
-
-
 ## <font color="orange"> **Week 5.** </font> October 1, 2025:  "Function and Concept" (1891), "Concept and Object" (1892), and "What is a Function?" (1904).
-###  Read: 
+
+### <font color="green"> Read: </font>
+
 ### ["Function and Concept," pp. 21-41 and "Concept and Object," pp. 42-56, and "What is a Function?" pp. 107-116, all in Geach and Black.](<The Philosophical Writings of Gottlob Frege Geach and Black 1960 searchable.pdf>)
 
 
 ##  October 8, 2025: <font color="red"> **NO CLASS!**</font>
 
-### Read: 
+### <font color="green"> Read: </font>
+
 ### [Danielle Macbeth "Diagrammatic Reasoning" (proof of *BgS* Theorem 133)](<Macbeth Diagrammatic Reasoning in BGS.pdf>)
 ### [Danielle Macbeth *Realizing Reason*, selections.](<Macbeth Realizing Reason A Narrative of Truth and Knowing.pdf>)
 
 
 
 ## <font color="orange"> **Week 6.** </font> October 15, 2025: *Sinn* und *Bedeutung*
-### Read: 
+### <font color="green"> Read: </font>
 ### ["On Sense and Reference" (1892), GB pp. 56-78](<The Philosophical Writings of Gottlob Frege Geach and Black 1960 searchable.pdf>)  
 
 ### ["Comments on *Sinn* und *Bedeutung*" (1892)](<Frege - Reader Beaney searchable.pdf>)  
 
 ## <font color="orange"> **Week 7.** </font> October 22, 2025: Bernard **Bolzano** (1781-1848)
 
-### Read: 
+### <font color="green"> Read: </font>
 
 ### [Bolzano, *Theory of Science* (*Wissenschaftslehre*) (1837), selections.](<Rolf George Bolzano theory of Science selections.pdf>)
 
-### Weekly Materials:    
+### <font color="green"> Weekly Materials:   </font> 
 
 ### [Key Passages from Bolzano's *Wissenschaftslehre*](<Quotes from Bolzanos WL 25-8-3 f.pdf>)
 
@@ -149,12 +151,13 @@ showToc: true
 
 
 
+### <font color="green"> Read: </font>
 
-### Read: 
 
 ## <font color="orange"> **Week 9.** </font> November 5, 2025: Late Philosophy of Logic
 
-### Read: 
+### <font color="green"> Read: </font>
+
 
 ### ["Logic" (PW 1-8),](<Frege_Posthumous Writings searchable.pdf>)
 
@@ -170,7 +173,8 @@ showToc: true
 
 ## <font color="orange"> **Week 10.** </font> November 12, 2025: Late Essays
 
-### Read: 
+### <font color="green"> Read: </font>
+
 ### ["Thought" (1918) (Beaney 325-345),"Negation" (1918) (Beaney 346-361).](<Beaney Frege Reader.pdf>)
 
 ### ["Logical Generality" (1923) (PW 258-262).](<Frege_Posthumous Writings searchable.pdf>)
@@ -178,13 +182,15 @@ showToc: true
 
 ## <font color="orange"> **Week 11.** </font> November 19, 2025: *Grundgesetze der Arithmetik* (1893)
 
-### Read: 
+### <font color="green"> Read: </font>
+
 ### [Selections from *Grundgesetze*](<The Philosophical Writings of Gottlob Frege Geach and Black 1960 searchable.pdf>)
 
 
 ##  November 26, 2025: <font color="red"> **NO CLASS.  Thanksgiving Holiday!**</font>
 
-### Read: 
+### <font color="green"> Read: </font>
+
 ### [Danielle Macbeth, *Realizing Reason*, selections.](<Macbeth Realizing Reason A Narrative of Truth and Knowing.pdf>)
 
 
