@@ -38,7 +38,16 @@ showToc: true
 
 ### [Kite of Ampliativity](<Kite 25-8-5.pdf>) 
 
-### Background Resources for Context: 
+###  Background Resources for Introduction:
+
+### [Michael Beaney *Frege Reader* Introduction, pp. 1-14.](<Beaney Frege Reader.pdf>)
+
+
+### [P.T. Geach, 'Ascriptivism' (1960)](<Geach-Ascriptivism-1960.pdf>)
+
+
+
+###  Background Resources for Context:
 
 ### [Alberto Coffa, *The Semantic Tradition from Kant to Carnap: To the Vienna Station* (1991)](<The Semantic Tradition from Kant to Carnap To the Vienna Station by J. Alberto Coffa.pdf>) 
 
