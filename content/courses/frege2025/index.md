@@ -104,6 +104,14 @@ showToc: true
 
 ### <font color="green"> Supplementary Reading: </font>
 
+### [Hale and Wright"The Metaontology of Abstraction" (2009)](<Wright-Crispin and Hale_abstraction as implicit definition.pdf>)
+
+### [Roy Cook "Hume's Big Brother: Counting Concepts and the Bad Company Objection"](<Cook on bad company objection.pdf.pdf>)
+
+
+### [Brandom "Frege's Technical Concepts" (2002)](<Brandom Freges Technical Concepts.pdf>)
+
+
 ### [Brandom "The Significance of Complex Numbers for Frege's Philosophy of Mathematics"](<Brandom Significance of Complex Numbers for Freges Philosophy of Mathematics.pdf>)
  
 
