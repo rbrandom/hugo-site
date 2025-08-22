@@ -44,9 +44,6 @@ showToc: true
 ### [Michael Beaney *Frege Reader* Introduction, pp. 1-14.](<Beaney Frege Reader.pdf>)
 
 
-### [P.T. Geach, 'Ascriptivism' (1960)](<Geach-Ascriptivism-1960.pdf>)
-
-
 
 ### <font color="green"> Background Resources for Context:</font>
 
@@ -70,6 +67,15 @@ showToc: true
 ###  <font color="green">Supplementary:</font> 
 
 ### [Danielle Macbeth, *Frege's Logic* (2005), Chs 1-3, pp. 1-109).](<Macbeth Freges Logic.pdf>) 
+
+
+###  <font color="green">Background Reading:</font> 
+
+### [P.T. Geach, 'Ascriptivism' (1960)](<Geach-Ascriptivism-1960.pdf>)
+
+### [Brandom, "Semantic Inferentialism and Logical Expressivism" (*Articulating Reasons*, Chapter One)](<Brandom Articulating Reasons An Introduction to Inferentialism.pdf>)
+
+
 
 
 ##  September 10, 2025: <font color="red"> **NO CLASS!**</font>
