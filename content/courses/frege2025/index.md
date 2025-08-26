@@ -36,6 +36,8 @@ showToc: true
 
 ### <font color="green">Weekly Materials:</font> 
 
+### [Handout for Week 1](<Week 1 Handout 25-8-26 c.pdf>)
+
 ### [Kite of Ampliativity](<Kite 25-8-5.pdf>) 
 
 ### <font color="green"> Background Resources for Introduction:</font>
