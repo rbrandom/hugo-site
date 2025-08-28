@@ -45,6 +45,7 @@ showToc: true
 
 ### [Video of Week 1](<https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9646253e-e21b-4262-bdb4-b347000363dd>) 
 
+### [Audio of Week 1](<https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c0370fb8-da34-4830-bff3-b34701222dd3>) 
 
 
 ### <font color="green"> Background Resources for Introduction:</font>
