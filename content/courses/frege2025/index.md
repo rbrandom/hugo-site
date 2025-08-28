@@ -73,6 +73,13 @@ showToc: true
 
 ### ["Boole's Logical Calculus and the Concept-Script" (in *PW*), esp pp. 9-21, 32-39, 46.](<Frege_Posthumous Writings searchable.pdf>)  
 
+### <font color="green"> Weekly Materials: </font> 
+
+### [Passages from *Begriffsschrift*](<BgS Passages 25-8-28 d.pdf>)
+
+### [Passages from "Boole's Logical Calculus and the Concept-Script" [1880-81]](<Boole Essay Passages 25-8-28 e.pdf>)
+
+
 ###  <font color="green">Supplementary:</font> 
 
 ### [Danielle Macbeth, *Frege's Logic* (2005), Chs 1-3, pp. 1-109).](<Macbeth Freges Logic.pdf>) 
