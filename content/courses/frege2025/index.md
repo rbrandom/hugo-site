@@ -40,6 +40,13 @@ showToc: true
 
 ### [Kite of Ampliativity](<Kite 25-8-5.pdf>) 
 
+### [Some Quotations and References from Lecture](<Some Quotations from Week One 25-8-28 c.pdf>) 
+
+
+### [Video of Week 1](<https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9646253e-e21b-4262-bdb4-b347000363dd>) 
+
+
+
 ### <font color="green"> Background Resources for Introduction:</font>
 
 
