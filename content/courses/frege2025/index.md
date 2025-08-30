@@ -76,6 +76,8 @@ showToc: true
 
 ### <font color="green"> Weekly Materials: </font> 
 
+### [Handout for Week 2](<Handout for Week 2 25-8-30 i.pdf>)
+
 ### [Passages from *Begriffsschrift*](<BgS Passages 25-8-28 d.pdf>)
 
 ### [Passages from "Boole's Logical Calculus and the Concept-Script" [1880-81]](<Boole Essay Passages 25-8-28 e.pdf>)
