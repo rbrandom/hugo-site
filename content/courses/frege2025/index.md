@@ -66,7 +66,7 @@ showToc: true
 
 ### [Bolzano's *Theory of Science*](<Rolf George Bolzano theory of Science selections.pdf>)
 
-## <font color="orange"> **Week 2.** </font>  September 3, 2025:  *Begriffsshrift* (1879)    
+## <font color="orange"> **Week 2.** </font>  September 3, 2025:  *Begriffsschrift* (1879)    
 
 ### <font color="green">Read:</font> 
 
