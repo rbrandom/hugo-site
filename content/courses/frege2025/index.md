@@ -82,6 +82,10 @@ showToc: true
 
 ### [Passages from "Boole's Logical Calculus and the Concept-Script" [1880-81]](<Boole Essay Passages 25-8-28 e.pdf>)
 
+### [Video of Week 2](<https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e636a1dc-b55e-411e-bf83-b34e00089501>) 
+
+### [Audio of Week 2](<https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=507695ac-488c-4728-af9b-b34f013df219>)
+ 
 
 ###  <font color="green">Supplementary:</font> 
 
@@ -93,8 +97,6 @@ showToc: true
 ### [P.T. Geach, 'Ascriptivism' (1960)](<Geach-Ascriptivism-1960.pdf>)
 
 ### [Brandom, "Semantic Inferentialism and Logical Expressivism" (*Articulating Reasons*, Chapter One)](<Brandom Articulating Reasons An Introduction to Inferentialism.pdf>)
-
-
 
 
 ##  September 10, 2025: <font color="red"> **NO CLASS!**</font>
@@ -115,6 +117,9 @@ showToc: true
 
 ### [Passages from the *Grundlagen*](<Grundlagen Passages b.pdf>)   
 
+### <font color="green"> Supplementary Reading: </font>
+
+### [Brandom, "What are Singular Terms, and Why are there Any?" (*Articulating Reasons*, Chapter Four)](<Brandom Articulating Reasons An Introduction to Inferentialism.pdf>)
 
 ## <font color="orange"> **Week 4.** </font> September 24, 2025:  *Grundlagen* II (1884).
 ###  New Objects from Old Concepts: Abstraction
