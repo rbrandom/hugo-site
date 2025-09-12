@@ -85,6 +85,8 @@ showToc: true
 ### [Video of Week 2](<https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e636a1dc-b55e-411e-bf83-b34e00089501>) 
 
 ### [Audio of Week 2](<https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=507695ac-488c-4728-af9b-b34f013df219>)
+
+### [Audio of Week 2 After the Break (not on video or other audio)](<https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ccfe0a8a-2902-42e9-bef2-b356010e56fe>)
  
 
 ###  <font color="green">Supplementary:</font> 
