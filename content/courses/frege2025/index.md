@@ -86,7 +86,7 @@ showToc: true
 
 ### [Audio of Week 2](<https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=507695ac-488c-4728-af9b-b34f013df219>)
 
-### [Audio of Week 2 After the Break (not on video or other audio)](<https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ccfe0a8a-2902-42e9-bef2-b356010e56fe>)
+### [Audio of Week 2 After the Break (not on video or other audio--Sorry about the technical glitch!)](<https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ccfe0a8a-2902-42e9-bef2-b356010e56fe>)
  
 
 ###  <font color="green">Supplementary:</font> 
@@ -117,7 +117,15 @@ showToc: true
 
 ### <font color="green"> Weekly Materials: </font> 
 
-### [Passages from the *Grundlagen*](<Grundlagen Passages b.pdf>)   
+### [Passages from the *Grundlagen*](<Grundlagen Passages b.pdf>)
+
+### [Handout for Week 3](<Handout for Week 3 25-9-16 e.pdf>)
+
+### [Video of Week 3](<https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7d7fa255-acd3-44da-af9b-b35c01328ffa>) 
+
+### [Audio of Week 3](<https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6efc66ea-ea1b-44ce-a5e8-b35c016c174c>)
+
+### [Bob's Notes for Week 3](<Some early GL arguments 25-9-17 i.pdf>)
 
 ### <font color="green"> Supplementary Reading: </font>
 
