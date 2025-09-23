@@ -141,6 +141,7 @@ showToc: true
 
 ### [Passages from the *Grundlagen*](<Grundlagen Passages b.pdf>)   
 
+### [Handout for Week 4](<Handout for Week 4 25-9-23 j.pdf>)
 
 ### <font color="green"> Supplementary Reading: </font>
 
