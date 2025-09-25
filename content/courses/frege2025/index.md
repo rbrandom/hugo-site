@@ -141,7 +141,11 @@ showToc: true
 
 ### [Passages from the *Grundlagen*](<Grundlagen Passages b.pdf>)   
 
-### [Handout for Week 4](<Handout for Week 4 25-9-23 j.pdf>)
+### [Handout for Week 4](<Handout for Week 4 25-9-24 e.pdf>)
+
+### [Video of Week 4](<https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ce2464f8-1bca-4537-af58-b363014426d4>) 
+
+### [Audio of Week 4](<https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=93bb6264-4ee0-45c1-81f1-b3630187425c>)
 
 ### <font color="green"> Supplementary Reading: </font>
 
