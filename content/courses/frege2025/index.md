@@ -167,6 +167,9 @@ showToc: true
 
 ### ["Function and Concept," pp. 21-41 and "Concept and Object," pp. 42-56, and "What is a Function?" pp. 107-116, all in Geach and Black.](<The Philosophical Writings of Gottlob Frege Geach and Black 1960 searchable.pdf>)
 
+### <font color="green"> Weekly Materials: </font>
+
+### [Handout for Week 5](<Handout for Week 5 25-9-28 c.pdf>)
 
 ##  October 8, 2025: <font color="red"> **NO CLASS!**</font>
 
