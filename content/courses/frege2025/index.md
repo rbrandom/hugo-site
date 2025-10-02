@@ -171,12 +171,18 @@ showToc: true
 
 ### [Handout for Week 5](<Handout for Week 5 25-9-28 c.pdf>)
 
+### [Bob's Notes for Week 5](<Week 5 notes 25-10-1 s.pdf>)
+
+### [Video of Week 5](<https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=009156e8-cd63-4e7f-b50c-b36a00e7ab75>) 
+
+### [Audio of Week 5](<https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d935ffbe-6272-49bb-a00f-b36a0138a6c8>)
+
 ##  October 8, 2025: <font color="red"> **NO CLASS!**</font>
 
 ### <font color="green"> Read: </font>
 
 ### [Danielle Macbeth "Diagrammatic Reasoning" (proof of *BgS* Theorem 133)](<Macbeth Diagrammatic Reasoning in BGS.pdf>)
-### [Danielle Macbeth *Realizing Reason*, selections.](<Macbeth Realizing Reason A Narrative of Truth and Knowing.pdf>)
+### [Danielle Macbeth *Realizing Reason*. Chapter 8, sections 8.4 through 8.6](<Macbeth Realizing Reason A Narrative of Truth and Knowing.pdf>)
 
 
 
