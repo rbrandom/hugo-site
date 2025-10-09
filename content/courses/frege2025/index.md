@@ -192,6 +192,7 @@ showToc: true
 
 ### ["Comments on *Sinn* und *Bedeutung*" (1892)](<Frege - Reader Beaney searchable.pdf>)  
 
+
 ### <font color="green"> Weekly Materials: </font>
 
 ### [Passages from "Concept and Object"](<Concept and Object passages 25-10-10 a.pdf>)
