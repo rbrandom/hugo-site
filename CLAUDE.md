@@ -14,7 +14,7 @@ This is a Hugo-based academic website using the PaperMod theme, designed for aca
 
 ### Build and Deploy  
 - `hugo` - Build static site to `public/` directory
-- Built site is automatically deployed to Netlify when pushed to main branch
+- Site is automatically deployed on Netlify when pushed to main branch. Note that Netlify builds the site using Hugo on their own backend for deployment rather than reading any files from `public/` directory.
 
 ### Content Management
 - `hugo new courses/course-name/index.md` - Create new course entry
@@ -45,20 +45,16 @@ Each course uses bundle structure (index.md + assets in same folder).
 - Generated images and resources in `resources/_gen/`
 - Built site output in `public/` (ignored in git)
 
+### Git Configuration
+- `.gitignore` excludes `public/` directory and `.DS_Store` files
+- Hugo build output is ignored locally but Netlify builds the site on deployment
+
 ## Content Types
 
-### Courses  
+### Courses
 - Located in `content/courses/course-name/`
 - Meeting folders (`meeting1/`, `meeting2/`, etc.) contain session materials
 - PDFs for handouts, notes, readings organized by week/meeting
-
-## Content Management System
-
-### Sveltia CMS
-- CMS configuration in `static/admin/config.yml`
-- Manages only Courses collection after simplification
-- Access via `/admin` route when deployed
-- Known issue: CMS prepends `https://` to relative links - use `./filename.pdf` syntax to prevent this
 
 ## Development Notes
 
