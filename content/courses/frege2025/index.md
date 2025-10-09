@@ -192,6 +192,13 @@ showToc: true
 
 ### ["Comments on *Sinn* und *Bedeutung*" (1892)](<Frege - Reader Beaney searchable.pdf>)  
 
+### <font color="green"> Weekly Materials: </font>
+
+### [Passages from "Concept and Object"](<Concept and Object passages 25-10-10 a.pdf>)
+
+### [Passages from "On Sense and Reference"](<USB passages 25-10-10 c.pdf>)
+
+
 ## <font color="orange"> **Week 7.** </font> October 22, 2025: Bernard **Bolzano** (1781-1848)
 
 ### <font color="green"> Read: </font>
