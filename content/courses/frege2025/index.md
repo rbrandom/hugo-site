@@ -199,6 +199,8 @@ showToc: true
 
 ### [Passages from "On Sense and Reference"](<USB passages 25-10-10 c.pdf>)
 
+### [Passages from "Comments on USB"](<Passages from Comments on USB 25-10-10 c.pdf>)
+
 
 ## <font color="orange"> **Week 7.** </font> October 22, 2025: Bernard **Bolzano** (1781-1848)
 
