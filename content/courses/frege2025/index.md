@@ -201,6 +201,8 @@ showToc: true
 
 ### [Passages from "Comments on USB"](<Passages from Comments on USB 25-10-10 c.pdf>)
 
+### [Handout for Week 6](<Freges Mature Metavocabulary 25-10-12 i.pdf>)
+
 
 ## <font color="orange"> **Week 7.** </font> October 22, 2025: Bernard **Bolzano** (1781-1848)
 
