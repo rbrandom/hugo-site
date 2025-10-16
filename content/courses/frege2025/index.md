@@ -203,6 +203,9 @@ showToc: true
 
 ### [Handout for Week 6](<Freges Mature Metavocabulary 25-10-12 i.pdf>)
 
+### [Video of Week 6](<https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b1cf7a7d-9bd2-4b4e-be49-b378001f19c1>) 
+
+### [Audio of Week 6](<https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0c95fca8-7d61-4bbc-8cae-b37800de3c07>)
 
 ## <font color="orange"> **Week 7.** </font> October 22, 2025: Bernard **Bolzano** (1781-1848)
 
@@ -214,6 +217,9 @@ showToc: true
 
 ### [Key Passages from Bolzano's *Wissenschaftslehre*](<Quotes from Bolzanos WL 25-8-3 f.pdf>)
 
+### <font color="green"> Supplementary Reading: </font>
+
+### [Bernard Bolzano: His Life and Work, by Paul Rusnock and Jan Sebestik [OUP, 2019]](<https://academic-oup-com.pitt.idm.oclc.org/book/34996/chapter/298689484>)
 
 
 ![Bernardo Bolzano](bolzano.png)
