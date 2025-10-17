@@ -203,23 +203,34 @@ showToc: true
 
 ### [Handout for Week 6](<Freges Mature Metavocabulary 25-10-12 i.pdf>)
 
+### [Summary of the Computational Inferential Reading of Sinn](<Summary of Computational Inferential Reading of Sinn 25-10-17 a.pdf>)
+
+
 ### [Video of Week 6](<https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b1cf7a7d-9bd2-4b4e-be49-b378001f19c1>) 
 
 ### [Audio of Week 6](<https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0c95fca8-7d61-4bbc-8cae-b37800de3c07>)
+
 
 ## <font color="orange"> **Week 7.** </font> October 22, 2025: Bernard **Bolzano** (1781-1848)
 
 ### <font color="green"> Read: </font>
 
-### [Bolzano, *Theory of Science* (*Wissenschaftslehre*) (1837), selections.](<Rolf George Bolzano theory of Science selections.pdf>)
+
+### [Suggestions for which sections of WL to read](<Suggestions for reading Bolzano WL 25-10-17 a.pdf>)
+
+
+### [Bolzano, *Theory of Science* (*Wissenschaftslehre*) (1837)](<Rolf George Bolzano theory of Science.pdf>) 
 
 ### <font color="green"> Weekly Materials:   </font> 
 
 ### [Key Passages from Bolzano's *Wissenschaftslehre*](<Quotes from Bolzanos WL 25-8-3 f.pdf>)
 
-### <font color="green"> Supplementary Reading: </font>
+### <font color="green"> Supplementary Materials: </font>
 
-### [Bernard Bolzano: His Life and Work, by Paul Rusnock and Jan Sebestik [OUP, 2019]](<https://academic-oup-com.pitt.idm.oclc.org/book/34996/chapter/298689484>)
+
+### [Bernard Bolzano: His Life and Work, by Paul Rusnock and Jan Sebestik [OUP, 2019], Chapter 6: Logic](<Rusnock and Sebastic-chapter-7.pdf>)
+
+### [Bernard Bolzano's Logic: Annotated Bibliography of English works](<Bernard_Bolzano_s_Logic_Annotated_biblio.pdf>)
 
 
 ![Bernardo Bolzano](bolzano.png)
