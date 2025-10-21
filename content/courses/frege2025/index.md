@@ -225,6 +225,9 @@ showToc: true
 
 ### [Key Passages from Bolzano's *Wissenschaftslehre*](<Quotes from Bolzanos WL 25-8-3 f.pdf>)
 
+### [Handout for Week 7](<Handout for Week 7 25-10-21 a.pdf>)
+
+
 ### <font color="green"> Supplementary Materials: </font>
 
 
