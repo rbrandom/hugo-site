@@ -227,6 +227,10 @@ showToc: true
 
 ### [Handout for Week 7](<Handout for Week 7 25-10-21 a.pdf>)
 
+### [Video of Week 7](<https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=79f09e16-749c-4766-9785-b37f000dc767>) 
+
+### [Audio of Week 7](<https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=639d18c1-3bab-45fa-ab12-b37f00ff9912>)
+
 
 ### <font color="green"> Supplementary Materials: </font>
 
@@ -234,6 +238,8 @@ showToc: true
 ### [Bernard Bolzano: His Life and Work, by Paul Rusnock and Jan Sebestik [OUP, 2019], Chapter 6: Logic](<Rusnock and Sebastic-chapter-7.pdf>)
 
 ### [Bernard Bolzano's Logic: Annotated Bibliography of English works](<Bernard_Bolzano_s_Logic_Annotated_biblio.pdf>)
+
+### [Introduction to *A New Anti-Kant*, LaPointe and Tolley (eds. & trans.)](<Introduction_to_New_Anti_Kant.pdf>)
 
 
 ![Bernardo Bolzano](bolzano.png)
