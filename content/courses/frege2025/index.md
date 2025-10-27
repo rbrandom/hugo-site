@@ -253,6 +253,9 @@ showToc: true
 
 ### <font color="green"> Read: </font>
 
+### <font color="green"> Supplementary Materials: </font>
+
+### [Michael Friedman *Kant and the Exact Sciences*, Chapter 1: Geometry](<Friedman_kant-and-the-exact-sciences Chapter 1.pdf>)
 
 ## <font color="orange"> **Week 9.** </font> November 5, 2025: Late Philosophy of Logic
 
