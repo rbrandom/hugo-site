@@ -251,7 +251,13 @@ showToc: true
 
 
 
-### <font color="green"> Read: </font>
+### <font color="green"> Read: No further readings for this week.</font>
+
+### <font color="green"> Weekly Materials:   </font> 
+
+
+### [Handout for Week 8](<Handout for Week 8 25-10-28 b.pdf>)
+
 
 ### <font color="green"> Supplementary Materials: </font>
 
