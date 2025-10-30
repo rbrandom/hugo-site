@@ -256,12 +256,19 @@ showToc: true
 ### <font color="green"> Weekly Materials:   </font> 
 
 
-### [Handout for Week 8](<Handout for Week 8 25-10-28 b.pdf>)
+### [Handout for Week 8](<Handout for Week 8 25-10-28 d.pdf>)
+
+### [Video of Week 8](<https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=54112aeb-02a9-4e29-8790-b3860018edae>) 
+
+### [Audio of Week 8](<https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b2485fd6-cede-4511-92b4-b38600e2393d>)
 
 
 ### <font color="green"> Supplementary Materials: </font>
 
 ### [Michael Friedman *Kant and the Exact Sciences*, Chapter 1: Geometry](<Friedman_kant-and-the-exact-sciences Chapter 1.pdf>)
+
+### [Danielle Macbeth *Realizing Reason* Chapter 2: Ancient Greek Diagrammatic Practice](<Macbeth Realizing Reason A Narrative of Truth and Knowing Chapter 2 Greek Diagrammatic Geometry a.pdf>)
+
 
 ## <font color="orange"> **Week 9.** </font> November 5, 2025: Late Philosophy of Logic
 
