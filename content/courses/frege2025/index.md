@@ -287,6 +287,14 @@ showToc: true
 
 ### ["My Basic Logical Insights" (Beaney 322-324), "Notes for Ludwig Darmstaedter" (Beaney 362-367).](<Beaney Frege Reader.pdf>)
 
+### <font color="green"> Weekly Materials:   </font> 
+
+### [Some Frege Passages from Late Logic Fragments](<Some Frege Passages 25-11-2 d.pdf>)
+
+### <font color="green"> Supplementary Materials: </font>
+
+### [Brandom *Making It Explicit* Chapter 6, Sections I and II](<MIE Chapter 6 Sections I and II.pdf>)
+
 ## <font color="orange"> **Week 10.** </font> November 12, 2025: Late Essays
 
 ### <font color="green"> Read: </font>
