@@ -291,6 +291,9 @@ showToc: true
 
 ### [Some Frege Passages from Late Logic Fragments](<Some Frege Passages 25-11-2 d.pdf>)
 
+### [Handout for Week 9](<Handout for Week 9 25-11-4 i.pdf>)
+
+
 ### <font color="green"> Supplementary Materials: </font>
 
 ### [Brandom *Making It Explicit* Chapter 6, Sections I and II](<MIE Chapter 6 Sections I and II.pdf>)
