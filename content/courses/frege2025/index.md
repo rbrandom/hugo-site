@@ -291,7 +291,11 @@ showToc: true
 
 ### [Some Frege Passages from Late Logic Fragments](<Some Frege Passages 25-11-2 d.pdf>)
 
-### [Handout for Week 9](<Handout for Week 9 25-11-4 i.pdf>)
+### [Handout for Week 9](<Handout for Week 9 25-11-6 d.pdf>)
+
+### [Video of Week 9](<https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e7d3adbb-17d2-4daa-ab63-b38d002131e9>) 
+
+### [Audio of Week 9](<https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=26d358be-e4e0-40c4-8f7a-b38d0104aa27>)
 
 
 ### <font color="green"> Supplementary Materials: </font>
