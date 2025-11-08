@@ -311,6 +311,12 @@ showToc: true
 ### ["Logical Generality" (1923) (PW 258-262).](<Frege_Posthumous Writings searchable.pdf>)
   
 
+### <font color="green"> Weekly Materials:   </font> 
+
+### [Passages from "The Thought" (1918)](<Passages from the Thought 25-11-8 g.pdf>)
+### [Passages from "Negation" (1919)](<Passages from Frege Negation 25-11-8 e.pdf>)
+
+
 ## <font color="orange"> **Week 11.** </font> November 19, 2025: *Grundgesetze der Arithmetik* (1893)
 
 ### <font color="green"> Read: </font>
