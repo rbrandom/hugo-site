@@ -315,6 +315,7 @@ showToc: true
 
 ### [Passages from "The Thought" (1918)](<Passages from the Thought 25-11-8 g.pdf>)
 ### [Passages from "Negation" (1919)](<Passages from Frege Negation 25-11-8 e.pdf>)
+### [Handout for Week 10](<Handout for Week 10 25-11-11 c.pdf>)
 
 
 ## <font color="orange"> **Week 11.** </font> November 19, 2025: *Grundgesetze der Arithmetik* (1893)
