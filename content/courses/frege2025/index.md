@@ -317,6 +317,10 @@ showToc: true
 ### [Passages from "Negation" (1919)](<Passages from Frege Negation 25-11-8 e.pdf>)
 ### [Handout for Week 10](<Handout for Week 10 25-11-11 c.pdf>)
 
+### [Video of Week 10](<https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7b8ef2a4-1cbe-496a-9cc3-b39400f03dd7>) 
+
+### [Audio of Week 10](<https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=54376528-51f2-41b7-b582-b394011f69a6>)
+
 
 ## <font color="orange"> **Week 11.** </font> November 19, 2025: *Grundgesetze der Arithmetik* (1893)
 
