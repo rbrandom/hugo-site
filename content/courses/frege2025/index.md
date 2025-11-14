@@ -326,7 +326,19 @@ showToc: true
 
 ### <font color="green"> Read: </font>
 
-### [Selections from *Grundgesetze*](<The Philosophical Writings of Gottlob Frege Geach and Black 1960 searchable.pdf>)
+
+### [*Grundgesetze* Section 10 and crucial footnote-- 3 page focus of Week 11](<BasicLaws-Ebert and Rossberg Section 10.pdf>) 
+
+
+
+### [Brandom "Frege's Technical Concepts" pp. 262-276 (about Section 10 and crucial footnote)](<Brandom Freges Technical Concepts.pdf>) 
+
+
+### [Selections from *Grundgesetze* Geach and Black pp. 137-172](<The Philosophical Writings of Gottlob Frege Geach and Black 1960 searchable.pdf>)
+
+### <font color="green"> Supplementary Materials: </font>
+
+### [Bruno Bentzen "Frege on Referentiality and Julius Caesar in *Grundgesetze* Section 10"](<bentzen2019frege.pdf>)
 
 
 ##  November 26, 2025: <font color="red"> **NO CLASS.  Thanksgiving Holiday!**</font>
