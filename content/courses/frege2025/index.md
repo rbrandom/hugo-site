@@ -330,11 +330,17 @@ showToc: true
 ### [*Grundgesetze* Section 10 and crucial footnote-- 3 page focus of Week 11](<BasicLaws-Ebert and Rossberg Section 10.pdf>) 
 
 
-
 ### [Brandom "Frege's Technical Concepts" pp. 262-276 (about Section 10 and crucial footnote)](<Brandom Freges Technical Concepts.pdf>) 
 
 
 ### [Selections from *Grundgesetze* Geach and Black pp. 137-172](<The Philosophical Writings of Gottlob Frege Geach and Black 1960 searchable.pdf>)
+
+### <font color="green"> Weekly Materials:   </font> 
+
+### [Handout for Week 11](<Handout for Week 11 25-11-18 a.pdf>)
+
+### [*Grundgesetze* Section 10 and crucial footnote-- 3 page focus of Week 11](<BasicLaws-Ebert and Rossberg Section 10.pdf>) 
+
 
 ### <font color="green"> Supplementary Materials: </font>
 
