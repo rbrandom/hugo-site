@@ -337,9 +337,14 @@ showToc: true
 
 ### <font color="green"> Weekly Materials:   </font> 
 
-### [Handout for Week 11](<Handout for Week 11 25-11-18 a.pdf>)
+### [Handout for Week 11](<Handout for Week 11 25-11-19 a.pdf>)
+
 
 ### [*Grundgesetze* Section 10 and crucial footnote-- 3 page focus of Week 11](<BasicLaws-Ebert and Rossberg Section 10.pdf>) 
+
+### [Video of Week 11](<https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=055604d1-14b1-4d36-b0b1-b39b00e5b007>) 
+
+### [Audio of Week 11](<https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f68d6be8-5a01-4f23-860f-b39b01084de1>)
 
 
 ### <font color="green"> Supplementary Materials: </font>
