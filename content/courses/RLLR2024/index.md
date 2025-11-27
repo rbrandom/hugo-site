@@ -143,6 +143,8 @@ The Open Structure of Material Reason Relations
 
 Logical Expressivism and Expressivist Logic
 
+##### Suggested reading
+
 [_Reasons for Logic, Logic for Reasons_ (2024)](meeting6/RLLR-3.pdf) - Chapter 3.
 
 ##### Supplementary Material
@@ -152,6 +154,7 @@ Logical Expressivism and Expressivist Logic
 - [Brandom "From Logical Expressivism to Expressivist Logics"](meeting6/Brandom-FLETEL.pdf)
 
 ##### Meeting 6 materials
+
 - [Handout for Meeting 6](meeting6/Week6-handout.pdf)
 - [Video of Meeting 6](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3a21e4e4-04e4-40e8-b1d6-b210014e0244)
 - [Bob's Notes for Meeting 6](meeting6/Week6-notes.pdf)
