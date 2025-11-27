@@ -1,7 +1,7 @@
 ---
 title: Language and the Structure of Reasons
 date: 2024-08-16
-lastmod: 2024-07-12
+lastmod: 2025-11-27
 tags:
   - logic
   - inferentialism
@@ -148,7 +148,10 @@ Logical Expressivism and Expressivist Logic
 ##### Supplementary Material
 
 - ["Semantic Inferentialism and Logical Expressivism" (Chapter 1 of Articulating Reasons).](meeting6/Brandom-AR.pdf)
+- [_Substructural Content_ Dan Kaplan's Pitt Ph.D. Dissertation 2022.](meeting6/Kaplan-diss.pdf)
+- [Brandom "From Logical Expressivism to Expressivist Logics"](meeting6/Brandom-FLETEL.pdf)
 
-test
-
-test 2
+##### Meeting 6 materials
+- [Handout for Meeting 6](meeting6/Week6-handout.pdf)
+- [Video of Meeting 6](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3a21e4e4-04e4-40e8-b1d6-b210014e0244)
+- [Bob's Notes for Meeting 6](meeting6/Week6-notes.pdf)
