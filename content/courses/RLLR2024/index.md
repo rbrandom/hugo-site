@@ -256,3 +256,34 @@ Dissecting Reason Relations with a Substitutional Scalpel
 - [Handout for Meeting 11](meeting11/Week11-handout.pdf)
 - [Introductory Notes for Meeting 11](meeting11/Week11-notes.pdf)
 - [Video of Meeting 11](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=787d4615-8b8a-4b3f-b579-b22f00f34aee)
+
+---
+
+### **No Class November 27, 2024:**
+
+Thanksgiving Holiday Break
+
+---
+
+## Meeting 12: December 4, 2024
+
+Cutting Finer than Substitution: Token Recurrence Structures <br>
+Conclusion
+
+![Diagram of Implicitation-Space Semantics](meeting12/Hlobil-diagram.png "Implicitation-Space Semantics")
+
+##### Suggested reading
+
+- ["Anaphora: The Structure of Token Repeatables", Chapter 7 of _Making It Explicit_.](meeting12/Brandom_MIE-PartTwo.pdf)
+- [_Reasons for Logic, Logic for Reasons_, Chapter 6, Conclusion.](meeting12/RLLR-Chapter6.pdf)
+
+##### Supplementary
+
+- [Brandom: "Reference Explained Away" (1984)](meeting12/Brandom_Reference-Explained-Away.pdf)
+- [_Reasons for Logic, Logic for Reasons_, Endmatter (Bibliography and Index).](meeting12/RLLR_Bibliography-and-Index.pdf)
+
+##### Meeting 12 materials
+
+- [Handout for Meeting 12](meeting12/Week12-handout.pdf)
+- [Notes for Meeting 12](meeting12/Week12-notes.pdf)
+- [Video of Meeting 12](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=46835d6e-0f48-4017-b65d-b23c015c53bc)
