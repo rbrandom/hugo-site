@@ -187,9 +187,9 @@ The Metaphysics of Normativity and the Social Dimension of Discursive Practice
 
 ##### Supplementary
 
-- ["A Social Route from Reasoning to Representing" (Chapter 5 of _Articulating Reasons_)](meeting8/Brandom_AR_5.pdf)
-- ["Ascribing Propositional Attitudes" (Chapter 8 of _Making It Explicit_)](meeting8/Brandom_MIE_Ch8.pdf)
-- [Appendix on iterated _de re/de dicto_ ascriptions of propositional attitude, from _Making It Explicit_](meeting8/Brandom_MIE_Ch8_appendix.pdf)
+- ["A Social Route from Reasoning to Representing" (Chapter 5 of _Articulating Reasons_).](meeting8/Brandom_AR_5.pdf)
+- ["Ascribing Propositional Attitudes" (Chapter 8 of _Making It Explicit_.)](meeting8/Brandom_MIE_Ch8.pdf)
+- [Appendix on iterated _de re/de dicto_ ascriptions of propositional attitude, from _Making It Explicit_.](meeting8/Brandom_MIE_Ch8_appendix.pdf)
 
 ##### Meeting 8 materials
 
@@ -197,3 +197,62 @@ The Metaphysics of Normativity and the Social Dimension of Discursive Practice
 - [Outline of Meeting 8](meeting8/Week8-outline.pdf)
 - [Video of Meeting 8](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fbd497a6-5c21-49bd-ac6e-b219016dce9c)
 - [Bob's Notes for Meeting 8](meeting8/Week8-notes.pdf)
+
+## Meeting 9: November 6, 2024
+
+Empirical and Historical Dimensions of Conceptual Content: <br>
+Normative Governance and Subjunctive Tracking. Recollection and Explicitation.
+
+##### Suggested reading
+
+["Representation, Expression, and Recollection" (Lecture 2 of Brentano Lectures--2019)](meeting9/Brandom-Brentano2.pdf)
+
+##### Supplementary
+
+- ["A Speculative Synthesis" _Reasons for Logic, Logic for Reasons_, Epilogue.](meeting9/RLLR_Epilogue.pdf)
+
+##### Meeting 9 materials
+
+- [Handout for Meeting 9](meeting9/Week9-handout.pdf)
+- [Video of Meeting 9](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f54dac31-cebd-4fd9-a866-b2210037d78d)
+- [Bob's Notes for Meeting 9](meeting9/Week9-notes.pdf)
+
+## Meeting 10: November 13, 2024
+
+Semantically Significant Essentially Subsentential Structure I: <br>
+What Are Singular Terms, and Why Are There Any?
+
+##### Suggested reading
+
+- ["What Are Singular Terms, and Why Are There Any?" (Chapter 4 of _Articulating Reasons_).](meeting10/Brandom-AR-Ch4.pdf)
+- ["Substituton: What Are Singular Terms, and Why Are There Any", Chapter 6 of _MIE_.](meeting10/Brandom-MIE-Ch6.pdf)
+
+##### Meeting 10 materials
+
+- [Handout for Meeting 10](meeting10/Week10-handout.pdf)
+- [Video of Meeting 9](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=eb961c4e-4496-457c-828c-b227017b5bc1)
+
+## Meeting 11: November 20, 2024
+
+Semantically Significant Essentially Subsentential Structure (and Substructure) II: <br>
+Dissecting Reason Relations with a Substitutional Scalpel
+
+##### Suggested reading
+
+- [Van Fraassen "Quantification as an Act of Mind" (1982)](meeting11/Fraassen-Quantification.pdf)
+- [Brandom "Singular Terms and Sentential Sign Designs" (1987)](meeting11/Brandom-SingularTerms.pdf)
+- [Hlobil "Subsentential Syntax (ROLE Note 192)" (2024)](meeting11/Hlobil-Subsentential_syntax.pdf)
+
+##### Supplementary
+
+- [Fine: "Neutral Relations" (2000)](meeting11/Fine_Neutral-Relations.pdf)
+- [Macbride: "Neutral Relations Revisited" (2007)](meeting11/Macbride_Neutral-Relations.pdf)
+- [Quine: "Shoenfinkel on the Building-Blocks of Mathematical Logic" (1924)](meeting11/Quine-Schonfinkel.pdf)
+- [Brandom: A Binary Sheffer Operator that Does the Work of Quantifiers and Sentential Connectives" (1979)](meeting11/Brandom_Binary-Sheffer-Operator.pdf)
+- [Brandom: "The Significance of Complex Numbers for Frege's Philosophy of Mathematics" (2002)](meeting11/Brandom_Complex-Numbers.pdf)
+
+##### Meeting 11 materials
+
+- [Handout for Meeting 11](meeting11/Week11-handout.pdf)
+- [Introductory Notes for Meeting 11](meeting11/Week11-notes.pdf)
+- [Video of Meeting 11](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=787d4615-8b8a-4b3f-b579-b22f00f34aee)
