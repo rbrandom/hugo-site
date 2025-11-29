@@ -32,12 +32,12 @@ Philosophy, Norms, and Reasons. Two Traditions in the Philosophy of Language.
 
 ##### Suggested reading
 
-[What Is Philosophy?](meeting1/Commitments.pdf) – Lecture 1 in _Commitments and Concepts_, pp. 3-21.
+[What Is Philosophy? (Lecture 1 in _Commitments and Concepts_, pp. 3-21).](meeting1/Commitments.pdf)
 
 ##### Supplementary
 
-- [_Articulating Reasons_](meeting1/Articulating.pdf) - Introduction, pp. 1-35
-- [_Reasons for Logic, Logic for Reasons_ (2024)](meeting1/RLLR-front.pdf) - Front Matter
+- [_Articulating Reasons_ Introduction, pp. 1-35](meeting1/Articulating.pdf)
+- [_Reasons for Logic, Logic for Reasons_ (2024), Front Matter](meeting1/RLLR-front.pdf)
 
 ##### Meeting 1 Materials
 
@@ -47,17 +47,17 @@ Philosophy, Norms, and Reasons. Two Traditions in the Philosophy of Language.
 
 Vocabularies and Metavocabularies
 
-![](meeting2/Pragmatic.png)
+![Diagram of Meaning-Use](meeting2/Pragmatic.png "Meaning-Use Diagram #1: Pragmatic Metavocabulary")
 
 ##### Suggested reading
 
-[_Reasons for Logic, Logic for Reasons_ (2024)](meeting2/RLLR-intro.pdf) - Intro
+[_Reasons for Logic, Logic for Reasons_ (2024), Introduction.](meeting2/RLLR-intro.pdf)
 
 ##### Supplementary
 
-- ["Vocabularies of Pragmatism"](meeting2/Brandom-Rorty.pdf) - Chapter 8 of _Rorty and His Critics_ (2000), pp. 156-182.
-- ["Extending the Project of Analysis"](meeting2/BSD.pdf) - Chapter 1 of _Between Saying and Doing_ (2008).
-- [Rorty - "Private Irony and Liberal Hope"](meeting2/Rorty-CIS.pdf) - Chapter 4 of _Contingency, Irony, and Solidarity_ (1989)
+- ["Vocabularies of Pragmatism" Chapter 8 of _Rorty and His Critics_ (2000), pp. 156-182.](meeting2/Brandom-Rorty.pdf)
+- ["Extending the Project of Analysis" Chapter 1 of _Between Saying and Doing_ (2008).](meeting2/BSD.pdf)
+- [Rorty "Private Irony and Liberal Hope" Chapter 4 of _Contingency, Irony, and Solidarity_ (1989](meeting2/Rorty-CIS.pdf)
 
 ##### Meeting 2 Materials
 
@@ -72,7 +72,7 @@ A Minimal Two-Sorted Deontic Bilateral Normative Pragmatic Metavocabulary for Re
 
 ##### Suggested reading
 
-[_Reasons for Logic, Logic for Reasons_ (2024)](meeting3/RLLR-1.pdf) - Chapter 1.
+[_Reasons for Logic, Logic for Reasons_ (2024), Chapter 1.](meeting3/RLLR-1.pdf)
 
 ##### Supplementary
 
@@ -89,7 +89,7 @@ A Minimal Two-Sorted Deontic Bilateral Normative Pragmatic Metavocabulary for Re
 - [Handout for Meeting 3](meeting3/Week3-notes.pdf)
 - [Video of Week 3 Meeting](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=565f3290-5e6b-4645-808a-b1e80160d139)
 - [Bob's Notes for Week 3](meeting3/Week3-notes.pdf)
-- [Announcement of imminent international meeting on RLLR and related books.](https://sce-cse.recherche.usherbrooke.ca/2024-annual-booklaunch/)
+- [Announcement of imminent international meeting on _RLLR_ and related books.](https://sce-cse.recherche.usherbrooke.ca/2024-annual-booklaunch/)
 
 ## Meeting 4: September 18, 2024
 
@@ -97,12 +97,12 @@ Bimodal Conceptual Realism
 
 ##### Suggested reading
 
-- ["A Tune Beyond Us, Yet Ourselves" (2024)](meeting4/Brandom-ATBUYO.pdf)
-- [_Reasons for Logic, Logic for Reasons_ (2024)](meeting4/RLLR-4.pdf) - Chapter 4.
+- ["A Tune Beyond Us, Yet Ourselves" (2024).](meeting4/Brandom-ATBUYO.pdf)
+- [_Reasons for Logic, Logic for Reasons_ (2024), Chapter 4.](meeting4/RLLR-4.pdf)
 
 ##### Supplementary
 
-- [Hlobil, "Laws of Thought and Laws of Truth as Two Sides of One Coin" (2021)](meeting4/Hlobil-Laws.pdf)
+- [Hlobil, "Laws of Thought and Laws of Truth as Two Sides of One Coin" (2021).](meeting4/Hlobil-Laws.pdf)
 - [Fine, "A Theory of Truthmaker Content I: Conjunction, Disjunction, and Negation" (2017).](meeting4/Fine-TM1.pdf)
 - [Fine, "A Theory of Truthmaker Content II: Subject-Matter, Common Content, Remainder and Ground" (2017).](meeting4/Fine-TM2.pdf)
 
@@ -110,12 +110,18 @@ Bimodal Conceptual Realism
 
 - [Outline for Meeting 4](meeting4/Week4-outline.pdf)
 - [Handout for Meeting 4](meeting4/Week4-handout.pdf)
-- [Video of Week 4 Meeting](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5d842cdc-dc45-4724-967e-b1ef01514a47)
+- [Video of Meeting 4](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5d842cdc-dc45-4724-967e-b1ef01514a47)
 - [Bob's Notes for Week 4](meeting4/Week4-notes.pdf)
+
+---
 
 ## Facilities Cancellation September 25, 2024
 
+---
+
 ## No Class October 2, 2024
+
+---
 
 ## Meeting 5: October 9, 2024
 
@@ -125,7 +131,7 @@ The Open Structure of Material Reason Relations
 
 ##### Suggested reading
 
-[_Reasons for Logic, Logic for Reasons_ (2024)](meeting3/RLLR-1.pdf) - Chapter 2.
+[_Reasons for Logic, Logic for Reasons_ (2024), Chapter 2.](meeting3/RLLR-1.pdf)
 
 ##### Supplementary
 
@@ -145,11 +151,11 @@ Logical Expressivism and Expressivist Logic
 
 ##### Suggested reading
 
-[_Reasons for Logic, Logic for Reasons_ (2024)](meeting6/RLLR-3.pdf) - Chapter 3.
+[_Reasons for Logic, Logic for Reasons_ (2024), Chapter 3.](meeting6/RLLR-3.pdf)
 
 ##### Supplementary
 
-- ["Semantic Inferentialism and Logical Expressivism" (Chapter 1 of Articulating Reasons).](meeting6/Brandom-AR.pdf)
+- ["Semantic Inferentialism and Logical Expressivism" (Chapter 1 of _Articulating Reasons_).](meeting6/Brandom-AR.pdf)
 - [_Substructural Content_ Dan Kaplan's Pitt Ph.D. Dissertation 2022.](meeting6/Kaplan-diss.pdf)
 - [Brandom "From Logical Expressivism to Expressivist Logics"](meeting6/Brandom-FLETEL.pdf)
 
@@ -167,7 +173,7 @@ Implication-Space Semantics: The Pure Theory of Conceptual Roles
 
 ##### Suggested reading
 
-[_Reasons for Logic, Logic for Reasons_ (2024)](meeting7/RLLR-5.pdf) - Chapter 5.
+[_Reasons for Logic, Logic for Reasons_ (2024), Chapter 5.](meeting7/RLLR-5.pdf)
 
 ##### Meeting 7 materials
 
@@ -230,7 +236,7 @@ What Are Singular Terms, and Why Are There Any?
 ##### Meeting 10 materials
 
 - [Handout for Meeting 10](meeting10/Week10-handout.pdf)
-- [Video of Meeting 9](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=eb961c4e-4496-457c-828c-b227017b5bc1)
+- [Video of Meeting 10](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=eb961c4e-4496-457c-828c-b227017b5bc1)
 
 ## Meeting 11: November 20, 2024
 
