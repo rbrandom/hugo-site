@@ -259,7 +259,7 @@ Dissecting Reason Relations with a Substitutional Scalpel
 
 ---
 
-### **No Class November 27, 2024:**
+## No Class November 27, 2024
 
 Thanksgiving Holiday Break
 
