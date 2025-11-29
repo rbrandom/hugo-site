@@ -127,17 +127,17 @@ The Open Structure of Material Reason Relations
 
 [_Reasons for Logic, Logic for Reasons_ (2024)](meeting3/RLLR-1.pdf) - Chapter 2.
 
+##### Supplementary
+
+- [Price, "Why 'Not'?"](meeting5/Price-WN.pdf)
+- [Brandom "An Introduction to Hegelian Logic and Metaphysics"](meeting5/Brandom-UOSTN.pdf)
+- [Hlobil "Choosing your Nonmonotonic Logic: A Shopper's Guide"](meeting5/Hlobil-NL.pdf)
+
 ##### Meeting 5 materials
 
 - [Handout for Meeting 5](meeting5/Week5-handout.pdf)
 - [Video of Meeting 5](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=584cfd9a-c499-48cf-b975-b205011dbc1a)
 - [Bob's Notes for Meeting 5](meeting5/Week5-notes.pdf)
-
-##### Supplementary Material
-
-- [Price, "Why 'Not'?"](meeting5/Price-WN.pdf)
-- [Brandom "An Introduction to Hegelian Logic and Metaphysics"](meeting5/Brandom-UOSTN.pdf)
-- [Hlobil "Choosing your Nonmonotonic Logic: A Shopper's Guide"](meeting5/Hlobil-NL.pdf)
 
 ## Meeting 6: October 16, 2024
 
@@ -147,7 +147,7 @@ Logical Expressivism and Expressivist Logic
 
 [_Reasons for Logic, Logic for Reasons_ (2024)](meeting6/RLLR-3.pdf) - Chapter 3.
 
-##### Supplementary Material
+##### Supplementary
 
 - ["Semantic Inferentialism and Logical Expressivism" (Chapter 1 of Articulating Reasons).](meeting6/Brandom-AR.pdf)
 - [_Substructural Content_ Dan Kaplan's Pitt Ph.D. Dissertation 2022.](meeting6/Kaplan-diss.pdf)
@@ -158,3 +158,42 @@ Logical Expressivism and Expressivist Logic
 - [Handout for Meeting 6](meeting6/Week6-handout.pdf)
 - [Video of Meeting 6](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3a21e4e4-04e4-40e8-b1d6-b210014e0244)
 - [Bob's Notes for Meeting 6](meeting6/Week6-notes.pdf)
+
+## Meeting 7: October 23, 2024
+
+Implication-Space Semantics: The Pure Theory of Conceptual Roles
+
+![A diagram of implicitation-space conceptual role MMV](meeting7/Implicitation.jpg "Implicitation-Space")
+
+##### Suggested reading
+
+[_Reasons for Logic, Logic for Reasons_ (2024)](meeting7/RLLR-5.pdf) - Chapter 5.
+
+##### Meeting 7 materials
+
+- [Handout for Meeting 7](meeting7/Week7-handout.pdf)
+- [Video of Meeting 7](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d58cbcbf-ab09-4dea-a697-b214015d6688)
+- [Bob's Notes for Meeting 7](meeting7/Week7-notes.pdf)
+
+## Meeting 8: October 30, 2024
+
+The Metaphysics of Normativity and the Social Dimension of Discursive Practice
+
+![A tree of normative pragmatics](meeting8/normative-pragmatics.jpg "Normaive Pragmatics")
+
+##### Suggested reading
+
+["The Fine Structure of Autonomy and Recognition" (Lecture 1 of Brentano Lectures--2019)](meeting8/Brandom-Brentano1.pdf)
+
+##### Supplementary
+
+- ["A Social Route from Reasoning to Representing" (Chapter 5 of _Articulating Reasons_)](meeting8/Brandom_AR_5.pdf)
+- ["Ascribing Propositional Attitudes" (Chapter 8 of _Making It Explicit_)](meeting8/Brandom_MIE_Ch8.pdf)
+- [Appendix on iterated _de re/de dicto_ ascriptions of propositional attitude, from _Making It Explicit_](meeting8/Brandom_MIE_Ch8_appendix.pdf)
+
+##### Meeting 8 materials
+
+- [Handout for Meeting 8](meeting8/Week8-handout.pdf)
+- [Outline of Meeting 8](meeting8/Week8-outline.pdf)
+- [Video of Meeting 8](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fbd497a6-5c21-49bd-ac6e-b219016dce9c)
+- [Bob's Notes for Meeting 8](meeting8/Week8-notes.pdf)
