@@ -21,7 +21,7 @@ editPost:
   Text: Course portal
 showToc: true
 ---
-## Introduction
+## Course Description
 
 The course will offer an overview of the inferentialist strategy of understanding meaning in the sense of conceptual content in terms of the role linguistic expressions play in reasoning—from its historical origins in classical rationalism to the most recent results in formal implication-space semantics. Along the way we will read chunks of _Making It Explicit_, _Between Saying and Doing_, and Pitt Ph.D. (2016) Ulf Hlobil’s and Bob Brandom’s jointly authored 2024 book _Reasons for Logic, Logic for Reasons_. Central topics include the relations between pragmatics and semantics (theories of use and theories of meaning) and the relations between inferentialist and representationalist semantics (the latter represented by Kit Fine’s hyperintensional truth-maker semantics).
 
