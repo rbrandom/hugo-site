@@ -62,7 +62,7 @@ Vocabularies and Metavocabularies
 ##### Meeting 2 Materials
 
 - [Handout for Meeting 2](meeting2/Week2-notes.pdf)
-- [Video of Week 2 Meeting](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a09ca9db-7580-4936-b56a-b1e2017eeb72)
+- [Video of Meeting 2](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a09ca9db-7580-4936-b56a-b1e2017eeb72)
 - [Bob's Notes for Week 2](meeting2/Week2-notes.pdf)
 - [Announcement of imminent international meeting on RLLR and related books.](https://sce-cse.recherche.usherbrooke.ca/2024-annual-booklaunch/)
 
@@ -87,7 +87,7 @@ A Minimal Two-Sorted Deontic Bilateral Normative Pragmatic Metavocabulary for Re
 ##### Meeting 3 materials
 
 - [Handout for Meeting 3](meeting3/Week3-notes.pdf)
-- [Video of Week 3 Meeting](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=565f3290-5e6b-4645-808a-b1e80160d139)
+- [Video of Meeting 3](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=565f3290-5e6b-4645-808a-b1e80160d139)
 - [Bob's Notes for Week 3](meeting3/Week3-notes.pdf)
 - [Announcement of imminent international meeting on _RLLR_ and related books.](https://sce-cse.recherche.usherbrooke.ca/2024-annual-booklaunch/)
 
@@ -194,7 +194,7 @@ The Metaphysics of Normativity and the Social Dimension of Discursive Practice
 ##### Supplementary
 
 - ["A Social Route from Reasoning to Representing" (Chapter 5 of _Articulating Reasons_).](meeting8/Brandom_AR_5.pdf)
-- ["Ascribing Propositional Attitudes" (Chapter 8 of _Making It Explicit_.)](meeting8/Brandom_MIE_Ch8.pdf)
+- ["Ascribing Propositional Attitudes" (Chapter 8 of _Making It Explicit_).](meeting8/Brandom_MIE_Ch8.pdf)
 - [Appendix on iterated _de re/de dicto_ ascriptions of propositional attitude, from _Making It Explicit_.](meeting8/Brandom_MIE_Ch8_appendix.pdf)
 
 ##### Meeting 8 materials
