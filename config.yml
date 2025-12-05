@@ -20,7 +20,7 @@ menu:
 params:
     description: "Distinguished Professor of Philosophy - University of Pittsburgh."
     author: Bob Brandom
-    # googleAnalyticsID: "G-XXXXX"
+    googleAnalyticsID: "G-5KYSW2VWX8"
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: false
