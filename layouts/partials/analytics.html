@@ -44,5 +44,36 @@
         });
       });
     });
+
+    // Track all outbound link clicks (external links)
+    document.querySelectorAll('a[href^="http"]').forEach(function(link) {
+      link.addEventListener('click', function(e) {
+        var linkUrl = this.href;
+        var linkText = this.textContent.trim();
+        var linkDomain = new URL(linkUrl).hostname;
+        var currentDomain = window.location.hostname;
+
+        // Only track if it's an external link (not same domain)
+        // And exclude Panopto (already tracked separately)
+        if (linkDomain !== currentDomain && !linkUrl.includes('panopto.com')) {
+          // Categorize common external sites
+          var siteCategory = 'Other';
+          if (linkUrl.includes('wikipedia.org')) siteCategory = 'Wikipedia';
+          else if (linkUrl.includes('philpeople.org')) siteCategory = 'PhilPeople';
+          else if (linkUrl.includes('scholar.google.com')) siteCategory = 'Google Scholar';
+          else if (linkUrl.includes('zoom.us')) siteCategory = 'Zoom';
+          else if (linkUrl.includes('github.com')) siteCategory = 'GitHub';
+
+          // Send event to Google Analytics
+          gtag('event', 'outbound_click', {
+            'event_category': 'Outbound Link',
+            'event_label': linkDomain,
+            'link_text': linkText,
+            'link_url': linkUrl,
+            'site_category': siteCategory
+          });
+        }
+      });
+    });
   });
 </script>
