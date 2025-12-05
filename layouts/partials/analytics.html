@@ -7,3 +7,42 @@
 
   gtag('config', '{{ .Site.Params.GoogleAnalyticsID }}');
 </script>
+
+<!-- Panopto Link Click Tracking & PDF Download Tracking -->
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    // Track all Panopto video/audio link clicks
+    document.querySelectorAll('a[href*="panopto.com"]').forEach(function(link) {
+      link.addEventListener('click', function(e) {
+        var linkUrl = this.href;
+        var linkText = this.textContent.trim();
+        var videoType = linkText.toLowerCase().includes('audio') ? 'Audio' : 'Video';
+
+        // Send event to Google Analytics
+        gtag('event', 'panopto_click', {
+          'event_category': 'Video',
+          'event_label': linkText,
+          'video_type': videoType,
+          'video_url': linkUrl
+        });
+      });
+    });
+
+    // Track all PDF download clicks
+    document.querySelectorAll('a[href$=".pdf"]').forEach(function(link) {
+      link.addEventListener('click', function(e) {
+        var pdfUrl = this.href;
+        var pdfName = pdfUrl.split('/').pop(); // Extract filename from URL
+        var linkText = this.textContent.trim() || pdfName;
+
+        // Send event to Google Analytics
+        gtag('event', 'pdf_download', {
+          'event_category': 'Download',
+          'event_label': pdfName,
+          'link_text': linkText,
+          'file_url': pdfUrl
+        });
+      });
+    });
+  });
+</script>
