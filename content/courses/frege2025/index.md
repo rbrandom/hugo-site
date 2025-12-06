@@ -354,12 +354,23 @@ showToc: true
 
 ##  November 26, 2025: <font color="red"> **NO CLASS.  Thanksgiving Holiday!**</font>
 
+## <font color="orange"> **Week 12.** </font> December 3, 2025:  Conclusion
+
 ### <font color="green"> Read: </font>
 
-### [Danielle Macbeth, *Realizing Reason*, selections.](<Macbeth Realizing Reason A Narrative of Truth and Knowing.pdf>)
+
+### [Brandom "The Significance of Complex Numbers for Frege's Philosophy of Mathematics".](<Brandom Significance of Complex Numbers for Freges Philosophy of Mathematics.pdf>)
 
 
-## <font color="orange"> **Week 12.** </font> December 3, 2025:  Conclusion
+### <font color="green"> Weekly Materials:   </font> 
+
+### [Handout for Week 12](<Handout for Week 12 25-12-3 f.pdf>)
+
+### [Bob's Notes for Week 12](<Week 12 Notes 25-12-3 j.pdf>)
+
+### [Video of Week 12](<https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b668af65-e5f5-4fd5-b809-b3a90040a42f>) 
+
+### [Audio of Week 12](<https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1cb46a8a-8358-4ba2-a5e6-b3aa0112f936>)
 
  <center>  <img src="FregeRB.JPG" width="50%" height="50%" alt="Frege"> </center> 
 
