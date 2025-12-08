@@ -8,7 +8,7 @@ tags:
   - representationalism
 author: Bob Brandom
 description: The course will offer an overview of the inferentialist strategy of understanding meaning in the sense of conceptual content in terms of the role linguistic expressions play in reasoning.
-summary: The course will offer an overview of the inferentialist strategy of understanding meaning in the sense of conceptual content in terms of the role linguistic expressions play in reasoning—from its historical origins in classical rationalism to the most recent results in formal implication-space semantics. Along the way we will read chunks of *Making It Explicit*, *Between Saying and Doing*, and Pitt Ph.D. (2016) Ulf Hlobil’s and Bob Brandom’s jointly authored 2024 book *Reasons for Logic, Logic for Reasons*.
+summary: Wednesdays at 1pm in 1008B, Cathedral of Learning
 cover:
   image: RLLR-cover.jpg
   alt: Reasons for Logic, Logic for Reasons
@@ -17,8 +17,8 @@ files_note: ''
 aliases: ''
 disableAnchoredHeadings: false
 editPost:
-  URL: https://github.com/pmichaillat/hugo-website
-  Text: Course portal
+  URL: /courses/
+  Text: All Courses
 showToc: true
 ---
 ## Course Description

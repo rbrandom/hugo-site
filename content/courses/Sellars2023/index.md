@@ -1,31 +1,28 @@
 ---
-title: Sellars as Metaphysician
+title: "Sellars as Metaphysician: Norms and Nature, Appearance and Reality"
 date: 2023-08-16
 lastmod: 2025-11-27
 tags:
   - Sellars
   - Metaphysics
-  
+
 author: Bob Brandom
 description: Wilfrid Sellars was both the most systematic and the most historically minded philosopher of his generation. He was also the most important heir to the neo-Kantian tradition represented in America by his predecessors and heroes C.I. Lewis and Rudolph Carnap. This seminar looks at his mature system as a whole, in the shape he gave it in his 1965 John Locke Lectures, *Science and Metaphysics*. Sellars from the beginning took the greatest philosophical challenge to be describing the relations between norms governing discursive behavior and nature as specified by the best natural sciences. A particular focus is his astonishing metaphysics, which combines scientific realism with transcendental idealism. At its core, it will be argued, is his radical metalinguistic nominalism, which is worked out technically with still unrivalled precision.
-summary: Wilfrid Sellars was both the most systematic and the most historically minded philosopher of his generation. This seminar looks at his mature system as a whole, in the shape he gave it in his 1965 John Locke Lectures, *Science and Metaphysics*. Sellars from the beginning took the greatest philosophical challenge to be describing the relations between norms governing discursive behavior and nature as specified by the best natural sciences. A particular focus is his astonishing metaphysics, which combines scientific realism with transcendental idealism. At its core, it will be argued, is his radical metalinguistic nominalism, which is worked out technically with still unrivalled precision.
-
+summary: Thursdays at 1pm in 1008A, Cathedral of Learning
 cover:
-  image: Sellars-in-mid-'50s.jpg
-  alt: Sellars
+  image: Sellars-1955-resized.jpg
+  alt: Sellars as Metaphysician
   relative: false
 files_note: ''
 aliases: ''
 disableAnchoredHeadings: false
 editPost:
-  URL: https://github.com/pmichaillat/hugo-website
-  Text: Course portal
+  URL: /courses/
+  Text: All Courses
 showToc: true
 ---
 
 ## Course Overview
-
-Sellars as Metaphysician: Norms and Nature, Appearance and Reality
 
 Wilfrid Sellars was both the most systematic and the most historically minded philosopher of his
 generation. He was also the most important heir to the neo-Kantian tradition represented in
