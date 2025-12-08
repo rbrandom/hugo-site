@@ -10,7 +10,7 @@ author: Bob Brandom
 description: Sellars
 summary: Sellars
 cover:
-  image: Sellars-1955.jpg
+  image: Sellars-in-mid-'50s.jpg
   alt: Sellars
   relative: false
 files_note: ''
@@ -30,9 +30,9 @@ Sellars as Metaphysician: Norms and Nature, Appearance and Reality (2023)
 
 ## Week 1: August 31, 2023
 
-##### Introduction to the Course
+Introduction to the Course
 
-##### Sellars's Synoptic Metaphysical Vision in Neo-Kantian Context
+Sellars's Synoptic Metaphysical Vision in Neo-Kantian Context
 
 [Read Brandom, _From Empiricism to Expressivism_, Introduction, pp. 1-29.](Sellars-texts/FEE.pdf)
 
