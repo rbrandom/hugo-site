@@ -1,0 +1,343 @@
+﻿@charset "utf-8";
+
+/* CSS Document */
+
+
+body {
+
+	background-image: url("https://sites.pitt.edu/~rbrandom/Courses/2023%20Sellars/blue-texture.jpg");
+	background-size: cover; 	
+	background-color: lightblue;
+}
+
+header {
+  color: darkblue;	
+  text-align: center;
+	font-size: 40px;
+	font-weight: bolder;
+}
+
+header2 {
+  color: yellowgreen;	
+  text-align: center;
+	font-size: 40px;
+	font-weight: bolder;
+}
+
+header3 {
+  color: ivory;	
+  text-align: center;
+	font-size: 45px;
+	font-weight: bolder;
+}
+
+
+h1 {
+  color: darkblue;
+  text-align: center;
+	font-size: 35px;
+}
+
+h2 {
+  color: darkslateblue;
+  text-align: center;		
+}
+
+h3 {
+  	color: darkgoldenrod;
+  	text-align: center;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+  	font-size: 21px;
+	font-weight: bold;
+}
+
+h4 {
+	text-align: left;
+	color: mediumblue;
+	font-size: 20px;
+	
+}
+
+h5 {
+	
+	text-align: left;
+	font: normal;
+	color: black;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-size: 16px;
+}
+
+h5-c {
+	
+	text-align: center;
+	font: normal;
+	color: black;
+	font-family: Times;
+	font-size: 16px;
+}
+
+h-ind {
+	
+	text-align: left;
+	text-indent: 40px;
+	font: normal;
+	color: black;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-size: 16px;
+}
+
+
+p5 {
+	
+	text-align:left;
+	font: normal;
+	color: black;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-size: 18px;
+}
+
+
+
+
+h6 {
+	
+	text-align: left;
+	font: bolder;
+	color: darkgreen;
+	line-height: 5px;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-size: 19px;
+	
+}
+
+h6-c {
+	
+	text-align: center;
+	font: bolder;
+	color: darkgreen;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-size: 20px;
+	
+}
+
+
+h7 {
+	text-align: left;
+	color:cyan; 
+	font-size: 20px;
+	
+}
+
+h8 {
+	text-align: left;
+	color:darkblue; 
+	font-size: 20px;
+	
+}
+
+h9 {	
+	font: normal;
+	text-align:center;
+	color:darkblue;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-size: 18px;
+}
+
+
+
+nav {
+	color: darkred;
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	font-size: 30px;
+}
+
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+}
+
+	main {
+	text-align: center;	
+		
+}
+
+	footer {
+	text-align: center;	
+		
+}
+
+cover-image {
+	height: 50px;
+	object-fit: scale-down;
+	
+}
+
+.site_nav {
+	background-color:burlywood;
+	width: 230px;
+	height: 575px;
+	border: thick solid #130A8A;
+	padding: 40px;
+	margin: 20px;
+	position:fixed; left: 60px; top: 195px;
+	font: Times;
+	font-size: 20px;
+		
+}
+
+
+.list_o_texts {
+	
+	background-color: antiquewhite;
+	width: 910px;
+	height: 5250px;
+	border: thick solid green;
+	padding: 50px;
+	margin: 20px;
+	position: absolute; left: 580px; top: 195px;
+	font: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+		
+}
+
+
+.list_o_interviews {
+	
+	background-color: antiquewhite;
+	width: 600px;
+	height: 1100px;
+	border: thick solid green;
+	padding: 50px;
+	margin: 20px;
+	position: absolute; left: 580px; top: 195px;
+	font: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+		
+}
+
+.list_o_videos {
+	
+	background-color: antiquewhite;
+	width: 950px;
+	height: 3450px;
+	border: thick solid green;
+	padding: 50px;
+	margin: 20px;
+	position: absolute; left: 475px; top: 195px;
+	font: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+		
+}
+
+.contact_info {
+	
+	background-color: antiquewhite;
+	width: 600px;
+	height: 320px;
+	border: thick solid green;
+	padding: 50px;
+	margin: 20px;
+	position: absolute; left: 650px; top: 140px;
+	font: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+		
+}
+
+.list_o_courses {
+	
+	background-color: antiquewhite;
+	width: 600px;
+	height: 900px;
+	border: thick solid green;
+	padding: 50px;
+	margin: 20px;
+	position: absolute; left: 575px; top: 175px;
+	font: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+		
+}
+
+
+.course_materials {
+	
+	background-color: antiquewhite;
+	width: 600px;
+	height: 2900px;
+	border: thick solid green;
+	padding: 50px;
+	margin: 20px;
+	position: absolute; left: 850px; top: 150px;
+	line-height: 25%;
+	font: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	text-align: left
+	
+		
+}
+
+
+.wide_course_materials {
+	
+	background-color: antiquewhite;
+	width: 900px;
+	height: 3900px;
+	border: thick solid green;
+	padding: 50px;
+	margin: 20px;
+	position: absolute; left: 780px; top: 150px;
+	line-height: 25%;
+	font: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	text-align: left
+	
+		
+}
+
+.wide_course_materials_left {
+	
+	background-color: antiquewhite;
+	width: 900px;
+	height: 3900px;
+	border: thick solid green;
+	padding: 50px;
+	margin: 20px;
+	position: absolute; left: 580px; top: 150px;
+	line-height: 25%;
+	font: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	text-align: left
+	
+		
+}
+
+
+.wide_course_materials_flush_left {
+	
+	background-color: antiquewhite;
+	width: 900px;
+	height: 10900px;
+	border: thick solid green;
+	padding: 50px;
+	margin: 20px;
+	position: absolute; left: 50px; top: 75px;
+	line-height: 25%;
+	font: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	text-align: left
+	
+		
+}
+
+
+
+
+
+.narrow_course_materials {
+	
+	background-color: antiquewhite;
+	width: 310px;
+	height: 1900px;
+	border: thick solid green;
+	padding: 50px;
+	margin: 20px;
+	position: absolute; left: 950px; top: 150px;
+	line-height: 25%;
+	font: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	text-align: left
+	
+		
+}
+
+

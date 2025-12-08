@@ -19,6 +19,13 @@ This is a Hugo-based academic website using the PaperMod theme, designed for aca
 ### Content Management
 - `hugo new courses/course-name/index.md` - Create new course entry
 
+### HTML to Markdown Conversion
+
+- A conversion tool is available in `tools/html-to-md/` for converting HTML files to Markdown
+- Requires Go to be installed (download from golang.org)
+- See `tools/html-to-md/README.md` for detailed usage instructions
+- Common usage: `cd tools/html-to-md && go run main.go input.html output.md`
+
 ## Site Architecture
 
 ### Content Structure
