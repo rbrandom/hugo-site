@@ -98,12 +98,12 @@ Normative Inferential Functionalism
 Epistemology: The Myth of the Given and 'Looks'-talk
 
 - [Read Sellars, "Empiricism and the Philosophy of Mind" (EPM--1956), §1-§38](Sellars-texts/SellarsEmpPhilMind.pdf)
-- [Read Brandom, Study Guide to *EPM* (through §38)**](Sellars-texts/EPMGuide11496a.pdf)
+- [Read Brandom, Study Guide to *EPM* (through §38)](Sellars-texts/EPMGuide11496a.pdf)
 
 ##### Week 3 Materials
 
 - [Passages from *Empiricism and the Philosophy of Mind*](Week-by-week-materials/Passages-from-EPM.pdf)
-- [Plan for Week 3**](Week-by-week-materials/Week-3-Plan-23-9-14-a.pdf)
+- [Plan for Week 3](Week-by-week-materials/Week-3-Plan-23-9-14-a.pdf)
 - [Brandom's notes for Week 3. Epistemology: The Myth of the Given and 'Looks'-talk.](Week-by-week-materials/Week-3-Notes-Mark-2-23-9-14-i.pdf)
 - [Video of Meeting 3. Epistemology: The Myth of the Given and 'Looks'-talk.](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=523ae234-1082-4c9a-a473-b07e0147e4e9)
 - [Audio of Meeting 3. Epistemology: The Myth of the Given and 'Looks'-talk.](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e5362932-2669-480d-965d-b07e01757224)
@@ -112,19 +112,19 @@ Epistemology: The Myth of the Given and 'Looks'-talk
 
 - [Read Sellars Carus Lectures (1981) Lecture I: "The Lever of Archimedes"](Sellars-texts/Sellars-Carus-Lectures.pdf)
 - [Brandom "The Centrality of Sellars's 2-Ply Account of Observation to *EPM*" (Chapter 2 of *FEE*)](Sellars-texts/FEE.pdf)
-- [Simonelli "How to be a Hyper-Inferentialist"**](Week-by-week-materials/Simonelli---Hyperinferentialism.pdf)
+- [Simonelli "How to be a Hyper-Inferentialist"](Week-by-week-materials/Simonelli---Hyperinferentialism.pdf)
 
 ## Week 4: September 21, 2023
 
 Theoretical Entities in the Philosophy of Mind
 
 - [Read Sellars "Empiricism and the Philosophy of Mind" (EPM--1956), §39-§63.](Sellars-texts/SellarsEmpPhilMind.pdf)
-- [Read Sellars "Phenomenalism".**](Sellars-texts/Phenomenalism.pdf)
+- [Read Sellars "Phenomenalism".](Sellars-texts/Phenomenalism.pdf)
 
 ##### Week 4 Materials
 
 - [Handout for Meeting 4: More passages from *EPM*, and from "Phenomenalism".](Week-by-week-materials/Handout-for-Week-4-More-EPM-Passages-plus-Phenomenalism-passages--23-9-16.pdf)
-- [Plan for Week 4**](Week-by-week-materials/Week-4-Plan-23-9--20-b.pdf)
+- [Plan for Week 4](Week-by-week-materials/Week-4-Plan-23-9--20-b.pdf)
 - [Brandom's notes for Meeting 4: Theoretical Entities in the Philosophy of Mind](Week-by-week-materials/Week-4-Notes-Mark-3-23-9-21-d.pdf)
 - [Video of Meeting 4: Theoretical Entities in the Philosophy of Mind](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=36b00bf0-a083-475c-bfb8-b0840166f3bb)
 - [Audio of Meeting 4: Theoretical Entities in the Philosophy of Mind](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c3a77965-256f-44ca-a8c4-b085000d44e1)
@@ -134,7 +134,7 @@ Theoretical Entities in the Philosophy of Mind
 - [McDowell, "Why is Sellars's Essay called *Empiricism* and the Philosophy of Mind?" Essay 12 in *Having the World in View*.](Sellars-texts/McDowell-Having-the-World-in-View--Sellars-Essays.pdf)
 - [Brandom "Pragmatism, Inferentialism, and Modality in Sellars's Arguments Against Empiricism", Essay 3 in *FEE*.](Sellars-texts/FEE.pdf)
 - [Brandom "No Experience Necessary: Empiricism, Non-inferential Knowledge, and Secondary Qualities"](Week-by-week-materials/NEN104e.pdf)
-- [Brandom "Fighting Skepticism with Skepticism" (1999)**](Week-by-week-materials/Fighting-Skepticism-with-Skepticism.pdf)
+- [Brandom "Fighting Skepticism with Skepticism" (1999)](Week-by-week-materials/Fighting-Skepticism-with-Skepticism.pdf)
 
 ## Week 5: September 28, 2023
 
@@ -194,8 +194,8 @@ Sellars's Pragmatic Metalinguistic Expressivism about Alethic Modality
 
 ##### Supplementary Material
 
-- [Brandom, "From Hume and Quine to Kant and Sellars",Chapter 4 of *FEE*.](Sellars-texts/FEE.pdf)
-- [Brandom, "Modal Expressivism and Modal Realism: Together Again",Chapter 5 of *FEE*.](Sellars-texts/FEE.pdf)
+- [Brandom, "From Hume and Quine to Kant and Sellars", Chapter 4 of *FEE*.](Sellars-texts/FEE.pdf)
+- [Brandom, "Modal Expressivism and Modal Realism: Together Again", Chapter 5 of *FEE*.](Sellars-texts/FEE.pdf)
 - [Geach, "Ascriptivism" (1960)](Week-by-week-materials/Geach-Ascriptivism-1960.pdf)
 
 ## Week 8: October 19, 2023
@@ -271,7 +271,7 @@ More on Picturing: *Science and Metaphysics* Part 3
 
 ##### Week 11 Materials
 
-- [Handout for Meeting 11: Picturing Diagram"](Week-by-week-materials/Picturing-1-23-7-26-b.jpg)
+- [Handout for Meeting 11: Picturing Diagram](Week-by-week-materials/Picturing-1-23-7-26-b.jpg)
 - [Handout for Meeting 11: Passages from Seibarth's "The Role of Languagings in Sellars..."](Week-by-week-materials/Passages-from-Seiberth-on-Languagings-23-11-5-d.pdf)
 - [Notes for Meeting 11: Conceptual Appearances, Transcendental Semantics, and Picturing](Week-by-week-materials/Week-11-Notes-Series-2-23-11-10-a.pdf)
 - [Video of Meeting 11: Conceptual Appearances, Transcendental Semantics, and Picturing](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ef3f23dc-b39e-44cd-9663-b0b5017c2bc1)
@@ -309,7 +309,7 @@ Description, Fact-Stating, and Two Bifurcation Principles
 
 ![](Week-by-week-materials/Nested-Descriptive-Circles-d.jpg)
 
-- [Read Brandom, "Modal Expressivism and Modal Realism: Together Again",Chapter 5 of *FEE*.](Sellars-texts/FEE.pdf)
+- [Read Brandom, "Modal Expressivism and Modal Realism: Together Again", Chapter 5 of *FEE*.](Sellars-texts/FEE.pdf)
 
 ##### Week 13 Materials
 
