@@ -34,6 +34,8 @@ the best natural sciences. A particular focus is his astonishing metaphysics, wh
 scientific realism with transcendental idealism. At its core, it will be argued, is his radical
 metalinguistic nominalism, which is worked out technically with still unrivalled precision.
 
+![Diagram of Sellars's "Synoptic Vision"](Sellars-Overall-Diagram-Mark-3-23-7-29-a.jpg "Synoptic Vision of Sellars")
+
 ## Week 1: August 31, 2023
 
 Introduction to the Course
