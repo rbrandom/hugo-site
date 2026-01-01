@@ -246,7 +246,9 @@ Bimodal Conceptual Realism and Intrinsic Conceptual Role Semantics
 - [Video of Meeting 10: Bimodal Conceptual Realism and Intrinsic Conceptual Role Semantics](https://youtu.be/MHhZ9YiRxoI)
 - [Audio of Meeting 10: Bimodal Conceptual Realism and Intrinsic Conceptual Role Semantics](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8cff1a52-3e5c-4ba5-80bb-af4200084d81)
 
-![](images/Rational_MVs_Mark_2_b.jpg)
+<p align="center">
+  <img src="images/Rational_MVs_Mark_2_b.jpg" alt="Rational MVs">
+</p>
 
 ## Original Recipe: Week 10
 
