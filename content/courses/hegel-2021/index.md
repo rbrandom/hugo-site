@@ -24,11 +24,11 @@ showToc: true
 ---
 <p style="font-size: 1.25em; font-weight: bold;">A Twentyfirst Century Semantic Recollection of Hegel's <em>Phenomenology of Spirit</em></p>
 
-![](images/Brandom_cover1024_1.jpg)
+<p align="center"><img src="images/Brandom_cover1024_1.jpg" width="64%"></p>
 
 * * *
 
-[Syllabus](pdfs/Hegel_Syllabus_Fall_2021_21-8-15_a.docx)
+<p align="center"><a href="pdfs/Hegel_Syllabus_Fall_2021_21-8-15_a.docx">Syllabus</a></p>
 
 * * *
 
@@ -97,6 +97,8 @@ Overview of a Pragmatist, Semantic Reading of the _Phenomenology_
 ## Week 3. September 14, 2021
 
 Hegel's _Introduction_ to the _PG_. Critique of Representationalism and Sketch of an Alternate Approach
+
+<p align="center"><img src="images/hegel12.jpg"></p>
 
 - [Read _Phenomenology_ Introduction.](pdfs/Dove_Translation_of_the_Introduction_to_the_Phenomenology.doc)
 

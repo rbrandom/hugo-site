@@ -26,9 +26,13 @@ showToc: true
 
 ![](images/Mandala_of_Metavocabularies_22-8-12_a.jpg)
 
----
+***
 
-## Week 1. **August 31, 2022:**
+<p align="center"><a href="pdfs/Syllabus_for_website_22-8-21_b.pdf">Syllabus</a></p>
+
+***
+
+## Week 1. August 31, 2022
 
 Introduction to the Course
 
@@ -49,7 +53,7 @@ A Metarationalist Perspective on Language, Logic, and Meaning
 - [Brandom "Asserting".](pdfs/Asserting.pdf)
 - [Brandom "On the Structure of Reasons: Pragmatics, Semantics, and Logic".](pdfs/OSRPSL_21-8-9_d.pdf)
 
-## Week 2. **September 7, 2022:**
+## Week 2. September 7, 2022
 
 Pragmatics I
 
@@ -73,7 +77,7 @@ Normative Pragmatic Metavocabularies for Autonomous Discursive Practices
 - [Hlobil "Anti-Normativism Evaluated"](pdfs/Hlobil_on_AntiNormativism.pdf)
 - [Ginsborg "Normativity and Concepts"](pdfs/Ginsborg_on_Normativity_and_Concepts.pdf)
 
-## Week 3. **September 14, 2022:**
+## Week 3. September 14, 2022
 
 Pragmatics II
 
@@ -93,7 +97,7 @@ A Deepened Normative Bilateralism and Reason Relations
 
 [Restall "Multiple Conclusions"](pdfs/Restall_Multiple_Conclusions.pdf)
 
-## Week 4. **September 21, 2022:**
+## Week 4. September 21, 2022
 
 Reason Relations I
 
@@ -115,7 +119,7 @@ The Open Structure of Non-Logical Reason Relations
 - [Tarski, 3 essays on logical consequence.**](pdfs/Tarski_Logi_Semantic_Metamathematics-Chs-III_V_XVI.pdf)
 - [Simonelli, "Why Must Incompatibility Be Symmetric?"**](pdfs/simonelli_why_must_incompatibility_be_symmetric.pdf)
 
-## Week 5. **September 28, 2022:**
+## Week 5. September 28, 2022
 
 Reason Relations II
 
@@ -139,7 +143,7 @@ Metavocabularies
 - [_Reasons for Logic, Logic for Reasons_, Introduction.](pdfs/Brandom_Intro_to_RLLR_22-8-14_a.pdf)
 - [Ripley "On the 'transitivity' of consequence relations"](pdfs/Ripley_on_transitivity.pdf)
 
-## Week 6. **October 5, 2022:**
+## Week 6. October 5, 2022
 
 Logic I
 
@@ -161,7 +165,7 @@ Logical Expressivism. Sequent Calculi and NM-MS
 - [Brandom _Between Saying and Doing_, Chapter Two](pdfs/Brandom_Chap_2_of_Between_Saying_and_Doing.pdf)
 - [Kaplan Pitt Dissertation 2021 "Substructural Content" pp. 1-39.](pdfs/Kaplan-Pitt-DissertationDraft-2021-12-09.pdf)
 
-## Week 7. **October 12, 2022:**
+## Week 7. October 12, 2022
 
 Logic II
 
@@ -184,7 +188,7 @@ With Special Guest Star: Dan Kaplan
 
 [Brandom "Reasoning, Reason Relations, and Semantics"](pdfs/RRRSC_21-10-19_c.pdf)
 
-## Week 8. **October 19, 2022:**
+## Week 8. October 19, 2022
 
 Semantics I
 
@@ -206,7 +210,7 @@ With Special Guest Star: Ulf Hlobil
 
 [Fine, "A Theory of Truthmaker Content I"**](pdfs/Fine_2017_ATheoryOfTruthmakerContent-I-Con.pdf)
 
-## Week 9. **October 26, 2022:**
+## Week 9. October 26, 2022
 
 Semantics II
 
@@ -229,7 +233,7 @@ With Special Guest Star: Dan Kaplan
 
 [Simonelli, "Simply Substructural Semantics"](pdfs/simonelli_simply_substructural_semantics_powerpoint_handout.pdf)
 
-## New and Improved: Week 10. **November 2, 2022:**
+## New and Improved: Week 10. November 2, 2022
 
 Bimodal Conceptual Realism and Intrinsic Conceptual Role Semantics
 
@@ -263,7 +267,7 @@ It is immaterial. See the New and Improved Week 10.
 
 [Brandom, "Sellars's Metalinguistic Expressive Nominalism" (from _From Empiricism to Expressivism_).](pdfs/Brandom_SMEN.pdf)
 
-## Week 11. **November 9, 2022:**
+## Week 11. November 9, 2022
 
 Metalinguistic Expressivism
 
@@ -281,7 +285,7 @@ Alethic Modal Metavocabularies
 - [Video of Meeting 11: Alethic Modal Vocabulary](https://youtu.be/WnSlDC5Tk1g) -
 - [Audio of Meeting 11: Alethic Modal Vocabulary](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=80dadf8a-af57-4d5f-baaa-af49002876d3)
 
-## Week 12. **November 16, 2021:**
+## Week 12. November 16, 2021
 
 Representation, Description, and Fact Stating
 
@@ -300,7 +304,7 @@ Covariant Tracking and Normative Governance
 
 Thanksgiving Holiday Break
 
-## Week 13. **November 30, 2022:**
+## Week 13. November 30, 2022
 
 Ongoing Projects
 
@@ -315,7 +319,7 @@ Dialogic Pragmatics and Monadologics
 - [User-friendly front end for DP1 Python program: dp\_inquiry.py](pdfs/dp_inquiry.py)
 - [Basic Python DP1 program: dpmain.py**](pdfs/dpmain.py)
 
-## Week 14. **December 7, 2022:**
+## Week 14. December 7, 2022
 
 Conclusion
 

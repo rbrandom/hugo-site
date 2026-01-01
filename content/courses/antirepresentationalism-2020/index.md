@@ -12,7 +12,7 @@ description:
 summary: Tuesdays 1:15pm to 3:45pm, on Zoom
 cover:
   image:
-  alt: Sellars as Metaphysician
+  alt: Anti-Representationalism
   relative: false
 files_note: ''
 aliases: ''
@@ -26,7 +26,7 @@ showToc: true
 
 * * *
 
-[Syllabus](pdfs/Syllabus_2695_20-8-10_a.docx)
+<p align="center"><a href="pdfs/Syllabus_2695_20-8-10_a.docx">Syllabus</a></p>
 
 * * *
 
