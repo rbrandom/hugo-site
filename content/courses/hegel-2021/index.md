@@ -22,7 +22,7 @@ editPost:
   Text: All Courses
 showToc: true
 ---
-<p style="font-size: 1.25em; font-weight: bold;">A Twentyfirst Century Semantic Recollection of Hegel's <em>Phenomenology of Spirit</em></p>
+<p style="font-size: 1.25em; font-weight: bold; text-align: center;">A Twentyfirst Century Semantic Recollection of Hegel's <em>Phenomenology of Spirit</em></p>
 
 <p align="center"><img src="images/Brandom_cover1024_1.jpg" width="64%"></p>
 
