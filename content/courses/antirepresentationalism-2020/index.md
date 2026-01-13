@@ -11,7 +11,7 @@ author: Bob Brandom
 description:
 summary: Tuesdays 1:15pm to 3:45pm, on Zoom
 cover:
-  image:
+  image: images/Rorty_5.jpeg
   alt: Anti-Representationalism
   relative: false
 files_note: ''

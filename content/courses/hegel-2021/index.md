@@ -22,9 +22,8 @@ editPost:
   Text: All Courses
 showToc: true
 ---
-<p style="font-size: 1.25em; font-weight: bold; text-align: center;">A Twentyfirst Century Semantic Recollection of Hegel's <em>Phenomenology of Spirit</em></p>
 
-<p align="center"><img src="images/Brandom_cover1024_1.jpg" width="64%"></p>
+<p style="font-size: 1.25em; font-weight: bold; text-align: center;">A Twentyfirst Century Semantic Recollection of Hegel's <em>Phenomenology of Spirit</em></p>
 
 * * *
 
@@ -35,6 +34,8 @@ showToc: true
 ## Week 1. August 31, 2021
 
 Introduction to the Course: Why Read Hegel Now? And How?
+
+<p align="center"><img src="images/Suhrkamp_Cover_3.jpg" width="64%"></p>
 
 - [Read Brandom, "Hermeneutic Practices and Theories of Meaning" (2004).](pdfs/Hermeneutic_Practices_and_Theories_of_Meaning.pdf)
 - [Read Marshall, "Implications of Brandom's Inferentialism for Intellectual History" (2013).](pdfs/Marshall_Implications_of_Inferentialism_for_Intellectual_History.pdf)
@@ -68,6 +69,8 @@ Introduction to the Course: Why Read Hegel Now? And How?
 
 Overview of a Pragmatist, Semantic Reading of the _Phenomenology_
 
+<p align="center"><img src="images/Brandom_cover1024_1.jpg" width="64%"></p>
+
 - [Read _A Spirit of Trust_ Introduction.](pdfs/ST_Intro.pdf)
 - [Read Brandom, Precis of _A Spirit of Trust_ ( _PPR_ forthcoming).](pdfs/Precis_of_A_Spirit_of_Trust_20-6-17_c.docx)
 - [Read Brandom, APA Author-Meets-Critics Precis of _A Spirit of Trust_.](pdfs/APA_Precis_of_A_Spirit_of_Trust_s.docx)
@@ -98,7 +101,7 @@ Overview of a Pragmatist, Semantic Reading of the _Phenomenology_
 
 Hegel's _Introduction_ to the _PG_. Critique of Representationalism and Sketch of an Alternate Approach
 
-<p align="center"><img src="images/hegel12.jpg"></p>
+<p align="center"><img src="images/Hegel_image.jpg" width="80%"></p>
 
 - [Read _Phenomenology_ Introduction.](pdfs/Dove_Translation_of_the_Introduction_to_the_Phenomenology.doc)
 
@@ -132,6 +135,8 @@ Hegel's _Introduction_ to the _PG_. Critique of Representationalism and Sketch o
 ## Week 4. September 21, 2021
 
 _Consciousness_ I: Two Varieties of Empiricism: Phenomenalist and Observational
+
+ <p align="center"><img src="images/Hegel-by-Kugler-retouched-500x383.jpg" width="80%"></p>
 
 • Read _Phenomenology_ Chapter 1: _Sense Certainty_
 
@@ -200,6 +205,8 @@ _Consciousness_ II: Theoretical Entities and Conceptual Holism
 ## Week 6. October 5, 2021
 
  _Self-Consciousness_ From Autonomy to Recognition
+
+<p align="center"><img src="images/hegel12.jpg" width="50%"></p>
 
  • Read _Phenomenology_ Chapter 4
 
@@ -280,6 +287,8 @@ _Reason_: Practical Agency
 
  From Traditional to Modern _Geist_
 
+ <p align="center"><img src="images/220px-Hegel_portrait_by_Schlesinger_1831.jpg" width="60%"></p>
+
  • Read _Phenomenology_ Chapter 6 A: _The True Spirit. The Sittlich Order._
 
  • Read _A Spirit of Trust_ Chapter 13
@@ -334,6 +343,8 @@ _Reason_: Practical Agency
 
  Transition to Post-Modernity: Confession, Forgiveness, and Trust
 
+ <p align="center"><img src="images/Hegel_5.jpg" width="90%"></p>
+
  • Read _Phenomenology_ Chapter 6 C: _Spirit that is Certain of Itself. Morality._
 
  • Read _A Spirit of Trust_ Chapter 15, 16
@@ -365,6 +376,8 @@ _Reason_: Practical Agency
 
  Substance as Subject and Absolute Knowing
 
+<p align="center"><img src="images/Hegel_portrait.jpg" width="80%"></p>
+
  • Read _Phenomenology_ _Preface_
 
  • Read _Phenomenology_ Chapter 8: _Absolute Knowing_
@@ -389,6 +402,8 @@ _Reason_: Practical Agency
 ## Week 12. November 30, 2021
 
 ##### From the _Phenomenology_ to the _Science of Logic_
+
+ ![](images/system-wissenschaften.gif)
 
 - [Read _The Science of Logic_: _Begriffslogik_. The Idea.](pdfs/SL_Notion_Idea.doc)
 - [Read _A Spirit of Trust_ Conclusion.](pdfs/ST_Conclusion.pdf)
@@ -423,5 +438,3 @@ _Reason_: Practical Agency
 - [Some Hegel links to texts](pdfs/Some_Hegel_links_21-11-3_a.pdf)
 - [Thomas Carlyle's _Sartor Resartus_](pdfs/Sartor-Resartus.pdf)
 - [Video of All 18 Humboldt Lectures At Once (!)](https://www.youtube.com/watch?v=p8i8ANmQqlg)
-
-![](images/system-wissenschaften.gif)
