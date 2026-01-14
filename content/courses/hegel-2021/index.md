@@ -27,7 +27,7 @@ showToc: true
 
 * * *
 
-<p align="center"><a href="pdfs/Hegel_Syllabus_Fall_2021_21-8-15_a.docx">Syllabus</a></p>
+<p align="center"><a href="pdfs/Hegel_Syllabus_Fall_2021_21-8-15_a.pdf">Syllabus</a></p>
 
 * * *
 
@@ -43,7 +43,7 @@ Introduction to the Course: Why Read Hegel Now? And How?
 
 ##### Week 1 Materials
 
-- [Brandom's Seminar Notes for Week 1](pdfs/Week_1_Notes_Mark_2_21-8-31_j.docx)
+- [Brandom's Seminar Notes for Week 1](pdfs/Week_1_Notes_Mark_2_21-8-31_j.pdf)
 - [Video of Seminar Meeting Week 1](https://youtu.be/va1sDoPRTAU)
 - [Audio of Seminar Meeting Week 1](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=80188d20-e0e2-4906-82ef-adab00f2a10f)
 
@@ -72,8 +72,8 @@ Overview of a Pragmatist, Semantic Reading of the _Phenomenology_
 <p align="center"><img src="images/Brandom_cover1024_1.jpg" width="64%"></p>
 
 - [Read _A Spirit of Trust_ Introduction.](pdfs/ST_Intro.pdf)
-- [Read Brandom, Precis of _A Spirit of Trust_ ( _PPR_ forthcoming).](pdfs/Precis_of_A_Spirit_of_Trust_20-6-17_c.docx)
-- [Read Brandom, APA Author-Meets-Critics Precis of _A Spirit of Trust_.](pdfs/APA_Precis_of_A_Spirit_of_Trust_s.docx)
+- [Read Brandom, Precis of _A Spirit of Trust_ ( _PPR_ forthcoming).](pdfs/Precis_of_A_Spirit_of_Trust_20-6-17_c.pdf)
+- [Read Brandom, APA Author-Meets-Critics Precis of _A Spirit of Trust_.](pdfs/APA_Precis_of_A_Spirit_of_Trust_s.pdf)
 
 ##### Week 2 Materials
 
@@ -103,7 +103,7 @@ Hegel's _Introduction_ to the _PG_. Critique of Representationalism and Sketch o
 
 <p align="center"><img src="images/Hegel_image.jpg" width="80%"></p>
 
-- [Read _Phenomenology_ Introduction.](pdfs/Dove_Translation_of_the_Introduction_to_the_Phenomenology.doc)
+- [Read _Phenomenology_ Introduction.](pdfs/Dove_Translation_of_the_Introduction_to_the_Phenomenology.pdf)
 
   • Read _A Spirit of Trust_ Chapters 1, 2, 3
 
@@ -123,12 +123,12 @@ Hegel's _Introduction_ to the _PG_. Critique of Representationalism and Sketch o
 ##### Supplementary Material
 
 - ["Sketch of a Program for a Critical Reading of Hegel" from _Wiedererinnerter Idealismus_(2015).](pdfs/Sketch_of_a_Program.pdf)
-- [Lecture text: Humboldt Lecture 1.](pdfs/KR1_CRSPK_11-5-29_a_rev_15-12-16_a.doc)
-- [Handout: Humboldt Lecture 1.](pdfs/KR1-CRSPK-Handout-a.docx)
-- [Lecture text: Humboldt Lecture 2.](pdfs/KR2-REE-11-5-31-b-rev-15-12-13-f.docx)
-- [Handout: Humboldt Lecture 2.](pdfs/KR2_REE_Handout_b_2015.doc)
-- [Lecture text: Humboldt Lecture 3.](pdfs/KR3_PDBR_11-6-1_a_rev_15-12-16_f.doc)
-- [Handout: Humboldt Lecture 3.](pdfs/KR3_FPDBR_Handout_b.doc)
+- [Lecture text: Humboldt Lecture 1.](pdfs/KR1_CRSPK_11-5-29_a_rev_15-12-16_a.pdf)
+- [Handout: Humboldt Lecture 1.](pdfs/KR1-CRSPK-Handout-a.pdf)
+- [Lecture text: Humboldt Lecture 2.](pdfs/KR2-REE-11-5-31-b-rev-15-12-13-f.pdf)
+- [Handout: Humboldt Lecture 2.](pdfs/KR2_REE_Handout_b_2015.pdf)
+- [Lecture text: Humboldt Lecture 3.](pdfs/KR3_PDBR_11-6-1_a_rev_15-12-16_f.pdf)
+- [Handout: Humboldt Lecture 3.](pdfs/KR3_FPDBR_Handout_b.pdf)
 
 * * *
 
@@ -160,10 +160,10 @@ _Consciousness_ I: Two Varieties of Empiricism: Phenomenalist and Observational
 
 ##### Supplementary Material
 
-- [Lecture text: Humboldt Lecture 4.](pdfs/4-IGR-16-6-28-e.docx)
-- [Handout: Humboldt Lecture 4.](pdfs/Handout-for-Lecture-4-IGR.docx)
-- [Lecture text: Humboldt Lecture 5.](pdfs/5-UOSTN-16-6-28-c.docx)
-- [Handout: Humboldt Lecture 5.](pdfs/Handout-for-Lecture-5-UOSTN.docx)
+- [Lecture text: Humboldt Lecture 4.](pdfs/4-IGR-16-6-28-e.pdf)
+- [Handout: Humboldt Lecture 4.](pdfs/Handout-for-Lecture-4-IGR.pdf)
+- [Lecture text: Humboldt Lecture 5.](pdfs/5-UOSTN-16-6-28-c.pdf)
+- [Handout: Humboldt Lecture 5.](pdfs/Handout-for-Lecture-5-UOSTN.pdf)
 
 * * *
 
@@ -191,10 +191,10 @@ _Consciousness_ II: Theoretical Entities and Conceptual Holism
 
 - ["Holism and Idealism" (from _Tales of the Mighty Dead_, 2000)](pdfs/Holism_and_Idealism_in_Hegels_Phenomenology.pdf)
 - ["Modal Expressivism and Modal Realism" (from _From Empiricism to Expressivism_, 2015)](pdfs/Modal_Expressivism_and_Modal_Realism_HUP.pdf)
-- [Lecture text: Humboldt Lecture 6.](pdfs/6-FUFOC-16-6-29-g.docx)
-- [Handout: Humboldt Lecture 6.](pdfs/Handout-for-Lecture-6-FUFOC.docx)
-- [Lecture text: Humboldt Lecture 7.](pdfs/7-ICITSC-16-6-30-d.docx)
-- [Handout: Humboldt Lecture 7.](pdfs/Handout-for-Lecture-7-ICITSC.docx)
+- [Lecture text: Humboldt Lecture 6.](pdfs/6-FUFOC-16-6-29-g.pdf)
+- [Handout: Humboldt Lecture 6.](pdfs/Handout-for-Lecture-6-FUFOC.pdf)
+- [Lecture text: Humboldt Lecture 7.](pdfs/7-ICITSC-16-6-30-d.pdf)
+- [Handout: Humboldt Lecture 7.](pdfs/Handout-for-Lecture-7-ICITSC.pdf)
 
 ##### Fun
 
@@ -229,18 +229,18 @@ _Consciousness_ II: Theoretical Entities and Conceptual Holism
 
 ##### Supplementary Material
 
-- [Lecture text: Humboldt Lecture 8.](pdfs/8-SDR-lecture-17-5-30-c.docx)
-- [Handout: Humboldt Lecture 8.](pdfs/SDRHandout-orectic-w.doc)
-- [Lecture text: Humboldt Lecture 10](pdfs/10-FSAR-Lecture-Version-Abbreviated-17-6-1-c.docx)
-- [Handout: Humboldt Lecture 10.](pdfs/FSAR-Handout-h.docx)
-- [Lecture text: Humboldt Lecture 11](pdfs/11-TAM-Lecture-Version-Abbreviated-17-6-1-a.docx)
-- [Handout: Humboldt Lecture 11.](pdfs/TAM-Handout-f.docx)
+- [Lecture text: Humboldt Lecture 8.](pdfs/8-SDR-lecture-17-5-30-c.pdf)
+- [Handout: Humboldt Lecture 8.](pdfs/SDRHandout-orectic-w.pdf)
+- [Lecture text: Humboldt Lecture 10](pdfs/10-FSAR-Lecture-Version-Abbreviated-17-6-1-c.pdf)
+- [Handout: Humboldt Lecture 10.](pdfs/FSAR-Handout-h.pdf)
+- [Lecture text: Humboldt Lecture 11](pdfs/11-TAM-Lecture-Version-Abbreviated-17-6-1-a.pdf)
+- [Handout: Humboldt Lecture 11.](pdfs/TAM-Handout-f.pdf)
 
 ##### The **MISSING HISTORICAL CHAPTER**, left out of the final draft of _A Spirit of Trust_
 
 - [PreHegelian Stages in the History of Normativity](pdfs/PreHegelian_Stages_in_the_History_of_Normativity.pdf)
-- [Lecture text: Humboldt Lecture 9 (on the missing chapter).](pdfs/9-SAMR-Lecture-Version-17-6-25-a.docx)
-- [Handout: Humboldt Lecture 9.](pdfs/SAMR-Handout-f.docx)
+- [Lecture text: Humboldt Lecture 9 (on the missing chapter).](pdfs/9-SAMR-Lecture-Version-17-6-25-a.pdf)
+- [Handout: Humboldt Lecture 9.](pdfs/SAMR-Handout-f.pdf)
 
 ##### Diverting Detail
 
@@ -272,10 +272,10 @@ _Reason_: Practical Agency
 
 ##### Supplementary Material
 
-- [Lecture text: Humboldt Lecture 12.](pdfs/12-HEMA-Lecture-I-SPDEHTA-18-6-4-b.docx)
-- [Handout: Humboldt Lecture 12.](pdfs/HEMA-Lecture-I-SPDEHTA-Handout-h.docx)
-- [Lecture text: Humboldt Lecture 13.](pdfs/13-HEMA-Lecture-II-AIEDC-18-6-8-c.docx)
-- [Handout: Humboldt Lecture 13.](pdfs/HEMA-Lecture-II-AIEDC-Handout-g.docx)
+- [Lecture text: Humboldt Lecture 12.](pdfs/12-HEMA-Lecture-I-SPDEHTA-18-6-4-b.pdf)
+- [Handout: Humboldt Lecture 12.](pdfs/HEMA-Lecture-I-SPDEHTA-Handout-h.pdf)
+- [Lecture text: Humboldt Lecture 13.](pdfs/13-HEMA-Lecture-II-AIEDC-18-6-8-c.pdf)
+- [Handout: Humboldt Lecture 13.](pdfs/HEMA-Lecture-II-AIEDC-Handout-g.pdf)
 
 * * *
 
@@ -306,8 +306,8 @@ _Reason_: Practical Agency
 
 ##### Supplementary Material
 
-- [Lecture text: Humboldt Lecture 15.](pdfs/15-Epochs-of-Geist-19-5-19-a.docx)
-- [Handout: Humboldt Lecture 15.](pdfs/Epochs-of-Geist-Handout-c.docx)
+- [Lecture text: Humboldt Lecture 15.](pdfs/15-Epochs-of-Geist-19-5-19-a.pdf)
+- [Handout: Humboldt Lecture 15.](pdfs/Epochs-of-Geist-Handout-c.pdf)
 - [Sophocles' _Antigone_. Paul Woodruff translation.](pdfs/Sophocles_Antigone-Woodruff.pdf)
 
 * * *
@@ -334,8 +334,8 @@ _Reason_: Practical Agency
 
 ##### Supplementary Material
 
-- [Lecture text: Humboldt Lecture 16.](pdfs/16-Modernity-and-Language-19-5-19-a.docx)
-- [Handout: Humboldt Lecture 16.](pdfs/Modernity-Alienation-and-Language-Handout-b.docx)
+- [Lecture text: Humboldt Lecture 16.](pdfs/16-Modernity-and-Language-19-5-19-a.pdf)
+- [Handout: Humboldt Lecture 16.](pdfs/Modernity-Alienation-and-Language-Handout-b.pdf)
 
 * * *
 
@@ -364,11 +364,11 @@ _Reason_: Practical Agency
 
 ##### Supplementary Material
 
-- [Heroism and Magnanimity--Aquinas Lecture, Marquette (2018).](pdfs/Heroism_and_Magnanimity_Long_Version_18-10-9_l.docx)
-- [Lecture text: Humboldt Lecture 17.](pdfs/17-Genealogy-and-Magnanimity-19-6-4-a.docx)
-- [Handout: Humboldt Lecture 17.](pdfs/Genealogy-and-Magnanimity-Handout-a.docx)
-- [Lecture text: Humboldt Lecture 18.](pdfs/18-Confession-and-Forgiveness-Recollection-and-Trust-19-5-19-a.docx)
-- [Handout: Humboldt Lecture 18.](pdfs/Confession-and-Forgiveness-Recollection-and-Trust-Handout-b.docx)
+- [Heroism and Magnanimity--Aquinas Lecture, Marquette (2018).](pdfs/Heroism_and_Magnanimity_Long_Version_18-10-9_l.pdf)
+- [Lecture text: Humboldt Lecture 17.](pdfs/17-Genealogy-and-Magnanimity-19-6-4-a.pdf)
+- [Handout: Humboldt Lecture 17.](pdfs/Genealogy-and-Magnanimity-Handout-a.pdf)
+- [Lecture text: Humboldt Lecture 18.](pdfs/18-Confession-and-Forgiveness-Recollection-and-Trust-19-5-19-a.pdf)
+- [Handout: Humboldt Lecture 18.](pdfs/Confession-and-Forgiveness-Recollection-and-Trust-Handout-b.pdf)
 
 * * *
 
@@ -405,7 +405,7 @@ _Reason_: Practical Agency
 
  ![](images/system-wissenschaften.gif)
 
-- [Read _The Science of Logic_: _Begriffslogik_. The Idea.](pdfs/SL_Notion_Idea.doc)
+- [Read _The Science of Logic_: _Begriffslogik_. The Idea.](pdfs/SL_Notion_Idea.pdf)
 - [Read _A Spirit of Trust_ Conclusion.](pdfs/ST_Conclusion.pdf)
 
 ##### Week 12 Materials
