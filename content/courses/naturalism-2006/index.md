@@ -174,7 +174,7 @@ showToc: true
 
 ##### Week 12 Materials
 
-- [Reading](pdfs/14BBRR.pdf)
+- [Brandom, "Vocabularies of Pragmatism: Synthesizing Naturalism and Historicism"](pdfs/14BBRR.pdf)
 - [Notes for Week 12](pdfs/Naturalism_Week_12_notes_06-12-5_e.pdf)
 - [Handout for Week 12](pdfs/Naturalism_Handout_Week_12_d.pdf)
 
