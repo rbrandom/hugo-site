@@ -10,7 +10,7 @@ author: Bob Brandom
 description: Wilfrid Sellars was both the most systematic and the most historically minded philosopher of his generation. He was also the most important heir to the neo-Kantian tradition represented in America by his predecessors and heroes C.I. Lewis and Rudolph Carnap. This seminar looks at his mature system as a whole, in the shape he gave it in his 1965 John Locke Lectures, *Science and Metaphysics*. Sellars from the beginning took the greatest philosophical challenge to be describing the relations between norms governing discursive behavior and nature as specified by the best natural sciences. A particular focus is his astonishing metaphysics, which combines scientific realism with transcendental idealism. At its core, it will be argued, is his radical metalinguistic nominalism, which is worked out technically with still unrivalled precision.
 summary: Thursdays at 1pm in 1008A, Cathedral of Learning
 cover:
-  image: Sellars-1955-resized.jpg
+  image: Sellars-1988.jpg
   alt: Sellars as Metaphysician
   relative: false
 files_note: ''
