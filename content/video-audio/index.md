@@ -43,8 +43,8 @@ hidemeta: true
 - ["The Pragmatist Enlightenment (and its Problematic Semantics)" Studies on the Origins of Contemporary Philosophy, Sao Paolo Brazil (September 2022)](https://www.youtube.com/watch?v=wvOarA_EHXY)
 - ["Reason, Reason Relations, and Semantics" Universite de Montreal (January 2022)](https://youtu.be/JyeU-KbJUYA)
 - ["The Normative Fine Structure of Autonomy and Recognition" University of Warwick (November 2021)](https://youtu.be/BzXHO42wufk)
-- ["A Rortyan Pragmatist Master-Argument" Spinoza Lecture #1, University of Amsterdam 2021](https://youtu.be/kgaexpyGseM)
-- ["Hegel's Recollective Account of Representation" Spinoza Lecture #2, University of Amsterdam 2021](https://youtu.be/QDX33KSxxt8)
+- ["A Rortyan Pragmatist Master-Argument" Spinoza Lecture #1, University of Amsterdam 2021. Series title: "Fetishism, Anti-Authoritarianism, and the Second Enlightenment: Rorty and Hegel on Representation and Reality"](https://youtu.be/kgaexpyGseM)
+- ["Hegel's Recollective Account of Representation" Spinoza Lecture #2, University of Amsterdam 2021. Series title: "Fetishism, Anti-Authoritarianism, and the Second Enlightenment: Rorty and Hegel on Representation and Reality"](https://youtu.be/QDX33KSxxt8)
 - ["A Hegelian Model of Legal Concept Determination" Spinoza Chair Staff Colloquium Presentation University of Amsterdam (June 2021)](https://youtu.be/xZHOjHM-lVk)
 - ["Some Strands of Wittgenstein's Normative Pragmatism and Some Strains of his Semantic Nihilism" (Cardinal Mercier Chair Lecture, K.U. Leuven, Belgium, May 2021)](https://youtu.be/uaTbM0zfgWk)
 - ["From Logical Expressivism to Expressivist Logics" (Mercier Chair Colloquium, K.U. Leuven, Belgium, May 2021)](https://youtu.be/eET6jgBay5A)
@@ -72,43 +72,45 @@ hidemeta: true
 - [Sellars's Critique of Empiricism (Genoa 2009)](https://www.youtube.com/watch?v=uTfonwGzL1o)
 - [Metaphilosophical Reflections on the Idea of Metaphysics (Genoa, 2009)](https://www.youtube.com/watch?v=G1p1T__LZo4&list=PL4eULInLvc_vIknmhPUqJliIPXZzuPkh4&index=10&t=0s)
 
-### A Pragmatist Semantic Reading of Hegel's Phenomenology: 18 Lectures from A Spirit of Trust
+<h3>A Pragmatist Semantic Reading of Hegel's <em>Phenomenology</em>:</h3>
 
-Videos of the Forschungskolleg Analytic German Idealism / Humboldt Lectures, University of Leipzig (2015-2018)
+<h3 style="font-size: 1.1rem;">18 Lectures from A Spirit of Trust</h3>
+
+<h3 style="font-size: 1.1rem;">Videos of the Forschungskolleg Analytic German Idealism / Humboldt Lectures, University of Leipzig (2015-2018)</h3>
 
 [Text of the FAGI-Humboldt Lectures](https://sites.pitt.edu/~rbrandom/Texts/A%20Pragmatist%20Semantic%20Reading%20of%20Hegel%2020-5-26%20t.pdf)
 
-#### Part One: Knowing and Representing (2015)
+#### Part One: Knowing and Representing: Reading (between the lines of) Hegel's *Introduction* (2015)
 
 - [Lecture 1: Conceptual Realism and the Semantic Possibility of Knowledge](https://youtu.be/eK6kmLIixnI)
-- [Lecture 2: Representation and the Experience of Error](https://youtu.be/vdpadZnoh_Q)
-- [Lecture 3: Following the Path of Despair to a Bacchanalian Revel](https://youtu.be/k-RFtwyx9Oo)
+- [Lecture 2: Representation and the Experience of Error: A Functionalist Approach to the Distinction between Appearance and Reality](https://youtu.be/vdpadZnoh_Q)
+- [Lecture 3: Following the Path of Despair to a Bacchanalian Revel: The Emergence of the Second, True, Object](https://youtu.be/k-RFtwyx9Oo)
 
-#### Part Two: Mediating the Immediate (2016)
+#### Part Two: Mediating the Immediate: The *Consciousness* Chapters of the *Phenomenology* (2016)
 
-- [Lecture 4: Immediacy, Generality, and Recollection](https://youtu.be/hjFosQ4x1-0)
-- [Lecture 5: Understanding the Object/Property Structure in Terms of Negation](https://youtu.be/Bx5rTDDORAk)
-- [Lecture 6: Force and Understanding](https://youtu.be/2WIZ1iX9zq0)
+- [Lecture 4: Immediacy, Generality, and Recollection: First Lessons in the Structure of Epistemic Authority](https://youtu.be/hjFosQ4x1-0)
+- [Lecture 5: Understanding the Object/Property Structure in Terms of Negation: An Introduction to Hegelian Logic and Metaphysics](https://youtu.be/Bx5rTDDORAk)
+- [Lecture 6: Force and Understanding--From Object to Concept: The Ontological Status of Theoretical Entities and the Laws that Implicitly Define Them](https://youtu.be/2WIZ1iX9zq0)
 - [Lecture 7: Infinity, Conceptual Idealism and the Transition to Self-Consciousness](https://youtu.be/rJ4hxJ7ONF8)
 
 #### Part Three: Norms, Self-Consciousness, and Recognition (2017)
 
-- [Lecture 8: The Structure of Desire and Recognition](https://youtu.be/EjyxKQ4Bt2U)
-- [Lecture 9: From Subordination, through Autonomy, to Mutual Recognition](https://youtu.be/N9BuRloogoM)
-- [Lecture 10: The Fine Structure of Autonomy and Recognition](https://youtu.be/jOCsQtMNPI8)
+- [Lecture 8: The Structure of Desire and Recognition: Self-Consciousness and Self-Constitution](https://youtu.be/EjyxKQ4Bt2U)
+- [Lecture 9: From Subordination, through Autonomy, to Mutual Recognition: Stages in the History of the Metaphysics of Normativity](https://youtu.be/N9BuRloogoM)
+- [Lecture 10: The Fine Structure of Autonomy and Recognition: The Institution of Normative Statuses by Normative Attitudes](https://youtu.be/jOCsQtMNPI8)
 - [Lecture 11: The Allegory of Mastery: Pragmatic and Semantic Lessons](https://youtu.be/a5eY71_WiHU)
 
 #### Part Four: Hegel's Expressive Metaphysics of Agency (2018)
 
 - [Lecture 12: Some Post-Davidsonian Elements of Hegel's Theory of Agency](https://youtu.be/Tkyi61z3-1c)
 - [Lecture 13: Agency, Intention, and the Expressive Determination of Content](https://youtu.be/fD6MqP5e2LY)
-- [Lecture 14: Heroism and Magnanimity](https://youtu.be/XZ287BUlydI)
+- [Lecture 14: Heroism and Magnanimity: The Post-Modern Form of Self-Conscious Agency](https://youtu.be/XZ287BUlydI)
 
 #### Part Five: Hegel on the Historicity of Normativity (2019)
 
-- [Lecture 15: Epochs of Geist](https://youtu.be/e9cZPSSqr7A)
+- [Lecture 15: Epochs of Geist: Traditional Normativity as Immediate Sittlichkeit](https://youtu.be/e9cZPSSqr7A)
 - [Lecture 16: Modernity, Alienation, and Language](https://youtu.be/YQicht2HvLw)
-- [Lecture 17: Genealogy and Magnanimity](https://youtu.be/LKKfBA8JuH0)
+- [Lecture 17: Genealogy and Magnanimity: The Allegory of the Valet](https://youtu.be/LKKfBA8JuH0)
 - [Lecture 18: Confession and Forgiveness, Recollection and Trust](https://youtu.be/A9jZ9htC76w)
 
 ### John Locke Lectures: Between Saying and Doing
@@ -116,9 +118,9 @@ Videos of the Forschungskolleg Analytic German Idealism / Humboldt Lectures, Uni
 Oxford (2006), Prague (2007), Buenos Aires (2008). These videos are from the Prague presentations.
 
 - [Lecture 1: Extending the Project of Analysis (with commentary by John McDowell)](https://youtu.be/U_UT9rlsY7w)
-- [Lecture 2: Elaborating Abilities (with commentary by John MacFarlane)](https://youtu.be/eS8wh4J0MbU)
+- [Lecture 2: Elaborating Abilities: The Expressive Role of Logic (with commentary by John MacFarlane)](https://youtu.be/eS8wh4J0MbU)
 - [Lecture 3: Artificial Intelligence and Analytic Pragmatism (with commentary by Pirmin Stekeler-Weithofer)](https://youtu.be/QkrhQUaypBI)
-- [Lecture 4: Modality and Normativity (with commentary by Huw Price)](https://youtu.be/TOI93ejmzrE)
+- [Lecture 4: Modality and Normativity: From Hume and Quine to Kant and Sellars (with commentary by Huw Price)](https://youtu.be/TOI93ejmzrE)
 - [Lecture 5: Incompatibility, Modal Semantics, and Intrinsic Logic (with commentary by Jaroslav Peregrin)](https://youtu.be/Q69f2NlZx7E)
 - [Lecture 6: Intentionality as a Pragmatically Mediated Semantic Relation (with commentary by Sebastian Rödl)](https://youtu.be/Q69f2NlZx7E)
 
@@ -129,7 +131,11 @@ Oxford (2006), Prague (2007), Buenos Aires (2008). These videos are from the Pra
 - [Leipzig Interview (2008) Part 1](https://www.youtube.com/watch?v=WdIPuERVjk0)
 - [Leipzig Interview (2008) Part 2](https://www.youtube.com/watch?v=S8jiBU5DxJs)
 
-### Audio
+### Audio (There is more audio, for graduate seminars, available under "Courses")
 
-- ["Ein Gedankenbogen: Rortys Weg vom eliminativen Materialismus zum Pragmatismus" Vorlesung auf Deutsch. Sächsischen Akademie der Wissenschaften zu Leipzig (2008)](https://sites.pitt.edu/~rbrandom/Gedankenbogen.mp3)
+- ["Ein Gedankenbogen: Rortys Weg vom eliminativen Materialismus zum Pragmatismus" Vorlesung auf Deutsch. Sächsischen Akademie der Wissenschaften zu Leipzig (2008). Introduced by Pirmin Stekeler-Weithofer.](https://sites.pitt.edu/~rbrandom/Gedankenbogen.mp3)
 - ["Global Anti-Representationalism?"](https://www.youtube.com/watch?v=_GXEdoV0E9I)
+
+### Still Photos
+
+[Photo Page](/photos/)
