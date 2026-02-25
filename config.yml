@@ -55,6 +55,8 @@ params:
               url: tags/
             - name: Wiki
               url: https://en.wikipedia.org/wiki/Robert_Brandom
+            - name: YouTube
+              url: https://www.youtube.com/channel/UCbRgL2k8iQ8Sj_sG7wUg7Sg
 
     socialIcons:
         - name: CV
