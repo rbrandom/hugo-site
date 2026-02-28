@@ -154,7 +154,7 @@ hidemeta: true
 - [Lecture 3: Artificial Intelligence and Analytic Pragmatism (with commentary by Pirmin Stekeler-Weithofer)](https://youtu.be/QkrhQUaypBI)
 - [Lecture 4: Modality and Normativity: From Hume and Quine to Kant and Sellars (with commentary by Huw Price)](https://youtu.be/TOI93ejmzrE)
 - [Lecture 5: Incompatibility, Modal Semantics, and Intrinsic Logic (with commentary by Jaroslav Peregrin)](https://youtu.be/Q69f2NlZx7E)
-- [Lecture 6: Intentionality as a Pragmatically Mediated Semantic Relation (with commentary by Sebastian Rödl)](https://youtu.be/Q69f2NlZx7E)
+- [Lecture 6: Intentionality as a Pragmatically Mediated Semantic Relation (with commentary by Sebastian Rödl)](https://www.youtube.com/watch?v=bnLc1AW-keE)
 
 <br>
 
