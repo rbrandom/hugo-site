@@ -20,7 +20,7 @@ hidemeta: true
 
 </div>
 
-### Video of Bob's Recent Pitt Graduate Seminars
+<h3 style="color: darkgreen;">Video of Bob's Recent Pitt Graduate Seminars</h3>
 
 - [2025 Graduate Seminar "Frege in Context." Video of all 14 sessions.](https://spaceofreasons.netlify.app/courses/frege2025/)
 
@@ -34,7 +34,9 @@ hidemeta: true
 
 - [2020 Graduate Seminar "Anti-Representationalism as Neopragmatism and Global Expressivism." Video of all 14 sessions.](https://spaceofreasons.netlify.app/courses/antirepresentationalism-2020/)
 
-### Five MANA Lectures (2022)
+<br>
+
+<h3 style="color: darkgreen;">Five MANA Lectures (2022)</h3>
 
 - [Lecture 1: "What is Philosophy?"](https://youtu.be/dF0nusMYOag)
 - [Lecture 2: "Intentionality and Language"](https://youtu.be/yz7PWdUSA8c)
@@ -42,7 +44,9 @@ hidemeta: true
 - [Lecture 4: "On the Way to a Pragmatist Theory of the Categories"](https://youtu.be/I3oolHemr7M)
 - [Lecture 5: "Modal Expressivism and Modal Realism: Together Again"](https://youtu.be/GnDG0-F_IJQ)
 
-### Video Lectures
+<br>
+
+<h3 style="color: darkgreen;">Video Lectures</h3>
 
 - ["The Pragmatist Enlightenment (and its Problematic Semantics)" Studies on the Origins of Contemporary Philosophy, Sao Paolo Brazil (September 2022)](https://www.youtube.com/watch?v=wvOarA_EHXY)
 - ["Reason, Reason Relations, and Semantics" Universite de Montreal (January 2022)](https://youtu.be/JyeU-KbJUYA)
@@ -76,11 +80,11 @@ hidemeta: true
 - [Sellars's Critique of Empiricism (Genoa 2009)](https://www.youtube.com/watch?v=uTfonwGzL1o)
 - [Metaphilosophical Reflections on the Idea of Metaphysics (Genoa, 2009)](https://www.youtube.com/watch?v=G1p1T__LZo4&list=PL4eULInLvc_vIknmhPUqJliIPXZzuPkh4&index=10&t=0s)
 
-<h3 style="text-align: center; margin-top: 4em;">A Pragmatist Semantic Reading of Hegel's <em>Phenomenology</em>:</h3>
+<h3 style="text-align: center; margin-top: 4em; color: darkgreen;">A Pragmatist Semantic Reading of Hegel's <em>Phenomenology</em>:</h3>
 
-<h3 style="font-size: 1.1rem; text-align: center;">18 Lectures from <em>A Spirit of Trust</em></h3>
+<h3 style="font-size: 1.1rem; text-align: center; color: darkgreen;">18 Lectures from <em>A Spirit of Trust</em></h3>
 
-<h3 style="font-size: 1.1rem; text-align: center;">Videos of the Forschungskolleg Analytic German Idealism / Humboldt Lectures, University of Leipzig (2015-2018)</h3>
+<h3 style="font-size: 1.1rem; text-align: center; color: darkgreen;">Videos of the Forschungskolleg Analytic German Idealism / Humboldt Lectures, University of Leipzig (2015-2018)</h3>
 
 <br>
 
@@ -88,7 +92,7 @@ hidemeta: true
 
 <br>
 
-<h4 style="text-align: center; margin-top: 1.5em;">Part One: Knowing and Representing: Reading (between the lines of) Hegel's <em>Introduction</em> (2015)</h4>
+<h4 style="text-align: center; margin-top: 1.5em; font-size: 1.1rem; color: navy;">Part One: Knowing and Representing: Reading (between the lines of) Hegel's <em>Introduction</em> (2015)</h4>
 
 <br>
 
@@ -98,7 +102,7 @@ hidemeta: true
 
 <br>
 
-<h4 style="text-align: center; margin-top: 1.5em;">Part Two: Mediating the Immediate: The <em>Consciousness</em> Chapters of the <em>Phenomenology</em> (2016)</h4>
+<h4 style="text-align: center; margin-top: 1.5em; font-size: 1.1rem; color: navy;">Part Two: Mediating the Immediate: The <em>Consciousness</em> Chapters of the <em>Phenomenology</em> (2016)</h4>
 
 <br>
 
@@ -109,7 +113,7 @@ hidemeta: true
 
 <br>
 
-<h4 style="text-align: center; margin-top: 1.5em;">Part Three: Norms, Self-Consciousness, and Recognition (2017)</h4>
+<h4 style="text-align: center; margin-top: 1.5em; font-size: 1.1rem; color: navy;">Part Three: Norms, Self-Consciousness, and Recognition (2017)</h4>
 
 <br>
 
@@ -120,7 +124,7 @@ hidemeta: true
 
 <br>
 
-<h4 style="text-align: center; margin-top: 1.5em;">Part Four: Hegel's Expressive Metaphysics of Agency (2018)</h4>
+<h4 style="text-align: center; margin-top: 1.5em; font-size: 1.1rem; color: navy;">Part Four: Hegel's Expressive Metaphysics of Agency (2018)</h4>
 
 <br>
 
@@ -130,7 +134,7 @@ hidemeta: true
 
 <br>
 
-<h4 style="text-align: center; margin-top: 1.5em;">Part Five: Hegel on the Historicity of Normativity (2019)</h4>
+<h4 style="text-align: center; margin-top: 1.5em; font-size: 1.1rem; color: navy;">Part Five: Hegel on the Historicity of Normativity (2019)</h4>
 
 <br>
 
@@ -141,7 +145,7 @@ hidemeta: true
 
 <br>
 
-<h3 style="text-align: center; margin-top: 1.5em;">John Locke Lectures: <em>Between Saying and Doing</em></h3>
+<h3 style="text-align: center; margin-top: 1.5em; color: darkgreen;">John Locke Lectures: <em>Between Saying and Doing</em></h3>
 
 <p style="text-align: center;">Oxford (2006), Prague (2007), Buenos Aires (2008). These videos are from the Prague presentations.</p>
 
@@ -154,9 +158,7 @@ hidemeta: true
 
 <br>
 
-### Video Interviews
-
-
+<h3 style="color: darkgreen;">Video Interviews</h3>
 
 - [Genoa Interview (2009) Part 1](https://www.youtube.com/watch?v=YH9eNgAbEEQ)
 - [Genoa Interview (2009) Part 2](https://www.youtube.com/watch?v=3V_YhcvanuE&list=PL4eULInLvc_vIknmhPUqJliIPXZzuPkh4&index=26&t=0s)
@@ -165,13 +167,13 @@ hidemeta: true
 
 <br>
 
-### Audio (There is more audio, for graduate seminars, available under "Courses")
+<h3 style="color: darkgreen;">Audio (There is more audio, for graduate seminars, available under "Courses")</h3>
 
 - ["Ein Gedankenbogen: Rortys Weg vom eliminativen Materialismus zum Pragmatismus" Vorlesung auf Deutsch. Sächsischen Akademie der Wissenschaften zu Leipzig (2008). Introduced by Pirmin Stekeler-Weithofer.](https://sites.pitt.edu/~rbrandom/Gedankenbogen.mp3)
 - ["Global Anti-Representationalism?"](https://www.youtube.com/watch?v=_GXEdoV0E9I)
 
 <br>
 
-### Still Photos
+<h3 style="color: darkgreen;">Still Photos</h3>
 
 [Photo Page](/photos/)
