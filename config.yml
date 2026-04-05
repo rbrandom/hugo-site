@@ -62,6 +62,8 @@ params:
               newline: true
             - name: Texts Available for Download
               url: texts/
+            - name: Interviews
+              url: interviews/
 
     socialIcons:
         - name: CV
