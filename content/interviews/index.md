@@ -10,13 +10,16 @@ hidemeta: true
 .post-content li { margin-bottom: 1em; }
 </style>
 
-&nbsp;
+<div style="display: flex; justify-content: center; margin: 0.1em 0;">
+<img src="/interviews/Bob%20Konstanz%2099.jpg" alt="Bob Konstanz 1999" style="width: 60%;">
+</div>
 
 <h3 style="color: darkgreen;">In Print</h3>
 
 - [Maria Frapolli and Kurt Wischin (*Disputatio* 2019) "From Conceptual Content in Big Apes and AI to the Classical Principle of Explosion: An Interview with Robert B. Brandom"](/interviews/Frapolli%20Disputatio%202019Interview.pdf)
 - [VIDEO VERSION: Maria Frapolli and Kurt Wischin (*Disputatio* 2019) "From Conceptual Content in Big Apes and AI to the Classical Principle of Explosion: An Interview with Robert B. Brandom"](https://www.youtube.com/watch?v=7fnQCRlYyXg&t=0s)
 - [Mohammad Hussain interviews Robert Brandom at mana.net/robert-brandom (Arabic version at mana.net/brandom)](/interviews/Brandom%20Interview%20w%20Mostafa%20for%20mana_net%2020-5-26.pdf)
+
 - [Ivan Ivaschenko (*Sententiae* 2019) "The Commitment to Inference: A Conversation with Robert B. Brandom"](https://sites.pitt.edu/~rbrandom/Texts/Interviews/THE_COMMITMENT_TO_INFERENCE_A_Conversati%20%281%29.pdf)
 - [Pietro Sallis (*Aphex* 2018) "Conversation with Robert Brandom"](/interviews/Conversation_with_Robert_Brandom%20%281%29.pdf)
 - [Pedro Gois Moreira (*Revisiting Rorty* 2019) "Remembering Richard Rorty: An Interview with Robert Brandom"](/interviews/Revisiting_Richard_Rorty_%20Interview.pdf)
@@ -35,9 +38,3 @@ hidemeta: true
 - [Genoa Interview (2009) Part 2](https://www.youtube.com/watch?v=3V_YhcvanuE&list=PL4eULInLvc_vIknmhPUqJliIPXZzuPkh4&index=26&t=0s)
 - [Leipzig Interview (2008) Part 1](https://www.youtube.com/watch?v=WdIPuERVjk0)
 - [Leipzig Interview (2008) Part 2](https://www.youtube.com/watch?v=S8jiBU5DxJs)
-
-<br>
-
-<div style="display: flex; justify-content: center;">
-<img src="/interviews/Bob%20Konstanz%2099.jpg" alt="Bob Konstanz 1999" style="width: 40%;">
-</div>
