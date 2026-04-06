@@ -57,11 +57,11 @@ params:
               url: https://en.wikipedia.org/wiki/Robert_Brandom
             - name: YouTube
               url: https://www.youtube.com/channel/UCbRgL2k8iQ8Sj_sG7wUg7Sg
-            - name: Texts Available for Download
-              url: texts/
-              newline: true
             - name: Multimedia
               url: video-audio/
+              newline: true
+            - name: Texts Available for Download
+              url: texts/
             - name: Interviews
               url: interviews/
 
