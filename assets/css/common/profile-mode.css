@@ -44,3 +44,9 @@
 .button:hover {
     background: var(--lightcolor);
 }
+
+@media (max-width: 768px) {
+    .button-newline {
+        display: none;
+    }
+}
