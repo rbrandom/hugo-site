@@ -76,6 +76,8 @@ params:
           url: https://pitt.zoom.us/my/voice.of.being
         - name: PhilPeople
           url: https://philpeople.org/profiles/robert-brandom
+        - name: Academia
+          url: https://pitt.academia.edu/RobertBrandom
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=rgZKxUEAAAAJ&hl=en
         - name: GitHub
