@@ -43,7 +43,7 @@ showToc: true
 ### [Some Quotations and References from Lecture](<Some Quotations from Week One 25-8-28 c.pdf>) 
 
 
-### [Video of Week 1](<https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9646253e-e21b-4262-bdb4-b347000363dd>) 
+### [Video of Week 1](<https://www.youtube.com/watch?v=9P4e4Mj-0OQ&pp=0gcJCQQLAYcqIYzv>) 
 
 ### [Audio of Week 1](<https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c0370fb8-da34-4830-bff3-b34701222dd3>) 
 
@@ -82,7 +82,7 @@ showToc: true
 
 ### [Passages from "Boole's Logical Calculus and the Concept-Script" [1880-81]](<Boole Essay Passages 25-8-28 e.pdf>)
 
-### [Video of Week 2](<https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e636a1dc-b55e-411e-bf83-b34e00089501>) 
+### [Video of Week 2](<https://www.youtube.com/watch?v=V4xF8fmraZA>) 
 
 ### [Audio of Week 2](<https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=507695ac-488c-4728-af9b-b34f013df219>)
 
@@ -121,7 +121,7 @@ showToc: true
 
 ### [Handout for Week 3](<Handout for Week 3 25-9-16 e.pdf>)
 
-### [Video of Week 3](<https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7d7fa255-acd3-44da-af9b-b35c01328ffa>) 
+### [Video of Week 3](<https://www.youtube.com/watch?v=tnVJytgX-C0&t=12s>) 
 
 ### [Audio of Week 3](<https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6efc66ea-ea1b-44ce-a5e8-b35c016c174c>)
 
@@ -143,7 +143,7 @@ showToc: true
 
 ### [Handout for Week 4](<Handout for Week 4 25-9-24 e.pdf>)
 
-### [Video of Week 4](<https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=994ef8b0-ff1a-4f67-b6d0-b366012a207e>) 
+### [Video of Week 4](<https://www.youtube.com/watch?v=RrCR7aI6I6E>) 
 
 ### [Audio of Week 4](<https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=93bb6264-4ee0-45c1-81f1-b3630187425c>)
 
@@ -173,7 +173,7 @@ showToc: true
 
 ### [Bob's Notes for Week 5](<Week 5 notes 25-10-1 s.pdf>)
 
-### [Video of Week 5](<https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=009156e8-cd63-4e7f-b50c-b36a00e7ab75>) 
+### [Video of Week 5](<https://www.youtube.com/watch?v=yGrV1arKP_U>) 
 
 ### [Audio of Week 5](<https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d935ffbe-6272-49bb-a00f-b36a0138a6c8>)
 
@@ -206,7 +206,7 @@ showToc: true
 ### [Summary of the Computational Inferential Reading of Sinn](<Summary of Computational Inferential Reading of Sinn 25-10-17 a.pdf>)
 
 
-### [Video of Week 6](<https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b1cf7a7d-9bd2-4b4e-be49-b378001f19c1>) 
+### [Video of Week 6](<https://www.youtube.com/watch?v=6FIXvfri0Ek>) 
 
 ### [Audio of Week 6](<https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0c95fca8-7d61-4bbc-8cae-b37800de3c07>)
 
@@ -227,7 +227,7 @@ showToc: true
 
 ### [Handout for Week 7](<Handout for Week 7 25-10-21 a.pdf>)
 
-### [Video of Week 7](<https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=79f09e16-749c-4766-9785-b37f000dc767>) 
+### [Video of Week 7](<https://www.youtube.com/watch?v=XJsglHCFOQ4>) 
 
 ### [Audio of Week 7](<https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=639d18c1-3bab-45fa-ab12-b37f00ff9912>)
 
@@ -258,7 +258,7 @@ showToc: true
 
 ### [Handout for Week 8](<Handout for Week 8 25-10-28 d.pdf>)
 
-### [Video of Week 8](<https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=54112aeb-02a9-4e29-8790-b3860018edae>) 
+### [Video of Week 8](<https://www.youtube.com/watch?v=aTM0qFjE4bE>) 
 
 ### [Audio of Week 8](<https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b2485fd6-cede-4511-92b4-b38600e2393d>)
 
@@ -293,7 +293,7 @@ showToc: true
 
 ### [Handout for Week 9](<Handout for Week 9 25-11-6 d.pdf>)
 
-### [Video of Week 9](<https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e7d3adbb-17d2-4daa-ab63-b38d002131e9>) 
+### [Video of Week 9](<https://www.youtube.com/watch?v=NTTGR7r0S2Q&pp=0gcJCQQLAYcqIYzv>) 
 
 ### [Audio of Week 9](<https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=26d358be-e4e0-40c4-8f7a-b38d0104aa27>)
 
@@ -317,7 +317,7 @@ showToc: true
 ### [Passages from "Negation" (1919)](<Passages from Frege Negation 25-11-8 e.pdf>)
 ### [Handout for Week 10](<Handout for Week 10 25-11-11 c.pdf>)
 
-### [Video of Week 10](<https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7b8ef2a4-1cbe-496a-9cc3-b39400f03dd7>) 
+### [Video of Week 10](<https://www.youtube.com/watch?v=OVCaYpDZLc4>) 
 
 ### [Audio of Week 10](<https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=54376528-51f2-41b7-b582-b394011f69a6>)
 
@@ -342,7 +342,7 @@ showToc: true
 
 ### [*Grundgesetze* Section 10 and crucial footnote-- 3 page focus of Week 11](<BasicLaws-Ebert and Rossberg Section 10.pdf>) 
 
-### [Video of Week 11](<https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=055604d1-14b1-4d36-b0b1-b39b00e5b007>) 
+### [Video of Week 11](<https://www.youtube.com/watch?v=ZBoAtM0JCi0>) 
 
 ### [Audio of Week 11](<https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f68d6be8-5a01-4f23-860f-b39b01084de1>)
 
@@ -368,7 +368,7 @@ showToc: true
 
 ### [Bob's Notes for Week 12](<Week 12 Notes 25-12-3 j.pdf>)
 
-### [Video of Week 12](<https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b668af65-e5f5-4fd5-b809-b3a90040a42f>) 
+### [Video of Week 12](<https://www.youtube.com/watch?v=pIV0BzuDa1g&t=14s>) 
 
 ### [Audio of Week 12](<https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1cb46a8a-8358-4ba2-a5e6-b3aa0112f936>)
 
