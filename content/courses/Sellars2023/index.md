@@ -53,8 +53,8 @@ Sellars's Synoptic Metaphysical Vision in Neo-Kantian Context
 - [Diagram of Sellars's "Synoptic Vision"](Sellars-Overall-Diagram-Mark-3-23-7-29-a.jpg)
 - [Handout for Meeting 1: Introduction](Week-by-week-materials/Week-1-Summary-Handout.pdf)
 - [Brandom's notes for Meeting 1: Introduction](Week-by-week-materials/Week-1-Notes-23-8-30-c.pdf)
-- [Video of Meeting 1: Introduction](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=425af919-538a-4171-b102-b0700155ae6b)
-- [Audio of Meeting 1: Introduction](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a148b557-d696-4250-8873-b0710000886d)
+- [Video of Meeting 1: Introduction](https://www.youtube.com/watch?v=9vaURX1KTWE)
+- [Audio of Meeting 1: Introduction](https://archive.org/download/brandom-sellars-seminar-2023/Sellars%20Seminar%20F23%20-%20Week%201%20audio_default.mp4)
 
 ##### Supplementary
 
@@ -86,8 +86,8 @@ Normative Inferential Functionalism
 - [Advice for Participants for Meeting 2](Week-by-week-materials/Advice-for-participants-23-9-4-a.pdf)
 - [Plan for Week 2](Week-by-week-materials/Plan-for-Week-2-23-9-5-a.pdf)
 - [Brandom's notes for Meeting 2: Normativity and Discursive Practice](Week-by-week-materials/Week-2-Notes-Mark-2-23-9-7-l.pdf)
-- [Video of Meeting 2: Normativity and Discursive Practice](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2f5c4800-eba6-4a61-95cc-b07701424390)
-- [Audio of Meeting 2: Normativity and Discursive Practice](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bbec0448-95f9-4cf3-bf81-b077017bd14c)
+- [Video of Meeting 2: Normativity and Discursive Practice](https://www.youtube.com/watch?v=H-GRdEH9LpA)
+- [Audio of Meeting 2: Normativity and Discursive Practice](https://archive.org/download/brandom-sellars-seminar-2023/Sellars%20Seminar%202023%20Week%202%20Audio_default.mp4)
 
 ##### Supplementary
 
@@ -109,8 +109,8 @@ Epistemology: The Myth of the Given and 'Looks'-talk
 - [Passages from *Empiricism and the Philosophy of Mind*](Week-by-week-materials/Passages-from-EPM.pdf)
 - [Plan for Week 3](Week-by-week-materials/Week-3-Plan-23-9-14-a.pdf)
 - [Brandom's notes for Week 3. Epistemology: The Myth of the Given and 'Looks'-talk.](Week-by-week-materials/Week-3-Notes-Mark-2-23-9-14-i.pdf)
-- [Video of Meeting 3. Epistemology: The Myth of the Given and 'Looks'-talk.](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=523ae234-1082-4c9a-a473-b07e0147e4e9)
-- [Audio of Meeting 3. Epistemology: The Myth of the Given and 'Looks'-talk.](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e5362932-2669-480d-965d-b07e01757224)
+- [Video of Meeting 3. Epistemology: The Myth of the Given and 'Looks'-talk.](https://www.youtube.com/watch?v=zjE3cZ1PaxY)
+- [Audio of Meeting 3. Epistemology: The Myth of the Given and 'Looks'-talk.](https://archive.org/download/brandom-sellars-seminar-2023/Sellars%20Seminar%202023%20Week%203%20Audio_default.mp4)
 
 ##### Supplementary Material
 
@@ -130,8 +130,8 @@ Theoretical Entities in the Philosophy of Mind
 - [Handout for Meeting 4: More passages from *EPM*, and from "Phenomenalism".](Week-by-week-materials/Handout-for-Week-4-More-EPM-Passages-plus-Phenomenalism-passages--23-9-16.pdf)
 - [Plan for Week 4](Week-by-week-materials/Week-4-Plan-23-9--20-b.pdf)
 - [Brandom's notes for Meeting 4: Theoretical Entities in the Philosophy of Mind](Week-by-week-materials/Week-4-Notes-Mark-3-23-9-21-d.pdf)
-- [Video of Meeting 4: Theoretical Entities in the Philosophy of Mind](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=36b00bf0-a083-475c-bfb8-b0840166f3bb)
-- [Audio of Meeting 4: Theoretical Entities in the Philosophy of Mind](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c3a77965-256f-44ca-a8c4-b085000d44e1)
+- [Video of Meeting 4: Theoretical Entities in the Philosophy of Mind](https://www.youtube.com/watch?v=P_YkRWzhK5E)
+- [Audio of Meeting 4: Theoretical Entities in the Philosophy of Mind](https://archive.org/download/brandom-sellars-seminar-2023/Sellars%20Seminar%202023%20Week%204%20Audio_default.mp4)
 
 ##### Supplementary Material
 
@@ -153,8 +153,8 @@ Nominalism I: Abstraction, Universals, and Ones-in-Many
 - [Handout 2 for Meeting 5: GE and AE Passages.](Week-by-week-materials/GE-and-AE-Passages-23-9-22-e.pdf)
 - [Plan for Week 5. Nominalism I: Abstraction, Universals, and Ones-in-Many.](Week-by-week-materials/Week-5-Plan-23-9-26-b.pdf)
 - [Brandom's notes for Meeting 5. Nominalism I: Abstraction, Universals, and Ones-in-Many.](Week-by-week-materials/Week-5-Notes-Mark-2-23-9-28-m.pdf)
-- [Video of Meeting 5. Nominalism I: Abstraction, Universals, and Ones-in-Many.](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=68b1cd3d-e737-4b1d-8f65-b08b016c0364)
-- [Audio of Meeting 5. Nominalism I: Abstraction, Universals, and Ones-in-Many.](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7eaa21c2-1a50-4163-9d75-b08c00e03e7e)
+- [Video of Meeting 5. Nominalism I: Abstraction, Universals, and Ones-in-Many.](https://www.youtube.com/watch?v=GY-vZvRNd0U)
+- [Audio of Meeting 5. Nominalism I: Abstraction, Universals, and Ones-in-Many.](https://archive.org/download/brandom-sellars-seminar-2023/Sellars%20Seminar%202023%20Week%205%20Audio_default.mp4)
 
 ##### Supplementary Material
 
@@ -173,8 +173,8 @@ Nominalism and Abstraction II: Ontological Nominalism and Nominalization Nominal
 - [The Lvov-Warsaw School of Logic: Principal Figures](Week-by-week-materials/Lvov-Warsaw-School-of-Logic-v2.pdf)
 - [Plan for Week 6: Ontological Nominalism and Nominalization Nominalism: Naming and Saying](Week-by-week-materials/Plan-for-Week-6-23-10-4-a.pdf)
 - [Brandom's notes for Meeting 6. Ontological Nominalism and Nominalization Nominalism: Naming and Saying](Week-by-week-materials/Week-6-Notes-Mark-2-23-10-5-o.pdf)
-- [Video of Meeting 6. Ontological Nominalism and Nominalization Nominalism: Naming and Saying](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bc5210d3-e440-44bf-a23a-b09201663c08)
-- [Audio of Meeting 6. Ontological Nominalism and Nominalization Nominalism: Naming and Saying](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a50b5775-c660-4ca8-8f54-b0930013b80c)
+- [Video of Meeting 6. Ontological Nominalism and Nominalization Nominalism: Naming and Saying](https://www.youtube.com/watch?v=8ESkaSE90_w)
+- [Audio of Meeting 6. Ontological Nominalism and Nominalization Nominalism: Naming and Saying](https://archive.org/download/brandom-sellars-seminar-2023/Sellars%20Seminar%202023%20Week%206%20Audio_default.mp4)
 
 ##### Supplementary Material
 
@@ -193,7 +193,7 @@ Sellars's Pragmatic Metalinguistic Expressivism about Alethic Modality
 - [Handout for Meeting 7: CDCM Quotations](Week-by-week-materials/CDCM-Quotations.pdf)
 - [Plan for Meeting 7: Sellars's Pragmatic Metalinguistic Expressivism about Alethic Modality](Week-by-week-materials/Week-7-Plan-23-10-12-a.pdf)
 - [Bob's Notes for Meeting 7: Sellars's Pragmatic Metalinguistic Expressivism about Alethic Modality](Week-by-week-materials/Week-7-Notes-23-10-12-p.pdf)
-- [Video of Meeting 7: Sellars's Pragmatic Metalinguistic Expressivism about Alethic Modality](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4b25cadc-5899-4e38-b2b3-b09901841d67)
+- [Video of Meeting 7: Sellars's Pragmatic Metalinguistic Expressivism about Alethic Modality](https://www.youtube.com/watch?v=Kg56cXYMYQw)
 - [Audio of Meeting 7: Sellars's Pragmatic Metalinguistic Expressivism about Alethic Modality](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0abf380b-d6d4-4676-89f4-b09a00e117b3)
 
 ##### Supplementary Material
@@ -214,8 +214,8 @@ Reconciling the Manifest Image and the Scientific Image
 - [Handout for Meeting 8: Passages from "Philosophy and the Scientific Image of Man"](Week-by-week-materials/PSIM-passages-b.pdf)
 - [Plan for Meeting 8: Reconciling the Manifest and Scientific Images](Week-by-week-materials/Week-8-Plan-23-10-18-d.pdf)
 - [Notes for Meeting 8: Reconciling the Manifest and Scientific Images](Week-by-week-materials/Week-8-Notes-Mark-2-23-10-19-i.pdf)
-- [Video of Meeting 8: Reconciling the Manifest and Scientific Images](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e3055dfc-878b-4105-811c-b0a200e93faf)
-- [Audio of Meeting 8: Reconciling the Manifest and Scientific Images](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e63b6263-6538-4dd0-b2af-b0a201174214)
+- [Video of Meeting 8: Reconciling the Manifest and Scientific Images](https://www.youtube.com/watch?v=AphE3iFOSh4)
+- [Audio of Meeting 8: Reconciling the Manifest and Scientific Images](https://archive.org/download/brandom-sellars-seminar-2023/Sellars%20Seminar%202023%20Week%208%20Audio_default.mp4)
 
 ##### Supplementary Material
 
@@ -235,8 +235,8 @@ Transcendental Idealism as Scientific Realism: *Science and Metaphysics Part 1*
 - [Handout 2 for Meeting 9: Passages from "Truth and Correspondence"](Week-by-week-materials/TC-Passages-23-10-21-f.pdf)
 - [Plan for Meeting 9: The Metaphysics of Intentionality](Week-by-week-materials/Plan-for-Week-9-23-10-26-a.pdf)
 - [Notes for Meeting 9: A Brief History of the Concept of Appearance](Week-by-week-materials/Week-9-Notes-Mark-2-23-10-26-h.pdf)
-- [Video of Meeting 9: A Brief History of the Concept of Appearance](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=83837cd4-fa79-4bcc-9535-b0a7016acc16)
-- [Audio of Meeting 9: A Brief History of the Concept of Appearance](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=68734ecb-e237-4a5d-ac2a-b0a8010f4cb6)
+- [Video of Meeting 9: A Brief History of the Concept of Appearance](https://www.youtube.com/watch?v=bAi4MFntaz0)
+- [Audio of Meeting 9: A Brief History of the Concept of Appearance](https://archive.org/download/brandom-sellars-seminar-2023/Sellars%20Seminar%202023%20Week%209%20Audio_default.mp4)
 
 ##### Supplementary Material
 
@@ -256,8 +256,8 @@ Transcendental Semantics, Reality, and Conceptual Progress
 - [Handout for Meeting 10: Passages from *Science and Metaphysics* V](Week-by-week-materials/SM-Ch-V-Just-Passages-23-10-31-b.pdf)
 - [Plan for Meeting 10: Transcendental Semantics, Reality, and Conceptual Progress](Week-by-week-materials/Plan-for-Week-10-23-10-31-j.pdf)
 - [Notes for Meeting 10. *Science and Metaphysics* Ch. V: Transcendental Semantics, Reality, and Conceptual Progress](Week-by-week-materials/Week-10-Notes-Series-4--23-11-3-c.pdf)
-- [Video of Meeting 10. *Science and Metaphysics* Ch. V: Transcendental Semantics, Reality, and Conceptual Progress](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=69edd283-334d-4037-aa4c-b0ae018b1a0b)
-- [Audio of Meeting 10. *Science and Metaphysics* Ch. V: Transcendental Semantics, Reality, and Conceptual Progress](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8a50b305-c716-44c2-9c77-b0af002ce142)
+- [Video of Meeting 10. *Science and Metaphysics* Ch. V: Transcendental Semantics, Reality, and Conceptual Progress](https://www.youtube.com/watch?v=LnJ_MN20MWA)
+- [Audio of Meeting 10. *Science and Metaphysics* Ch. V: Transcendental Semantics, Reality, and Conceptual Progress](https://archive.org/download/brandom-sellars-seminar-2023/Sellars%20Seminar%202023%20Week%2010%20Audio_default.mp4)
 
 ##### Supplementary Material
 
@@ -278,8 +278,8 @@ More on Picturing: *Science and Metaphysics* Part 3
 - [Handout for Meeting 11: Picturing Diagram](Week-by-week-materials/Picturing-1-23-7-26-b.jpg)
 - [Handout for Meeting 11: Passages from Seibarth's "The Role of Languagings in Sellars..."](Week-by-week-materials/Passages-from-Seiberth-on-Languagings-23-11-5-d.pdf)
 - [Notes for Meeting 11: Conceptual Appearances, Transcendental Semantics, and Picturing](Week-by-week-materials/Week-11-Notes-Series-2-23-11-10-a.pdf)
-- [Video of Meeting 11: Conceptual Appearances, Transcendental Semantics, and Picturing](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ef3f23dc-b39e-44cd-9663-b0b5017c2bc1)
-- [Audio of Meeting 11: Conceptual Appearances, Transcendental Semantics, and Picturing](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2dc33b63-a9c3-4b91-b764-b0b60016fc89)
+- [Video of Meeting 11: Conceptual Appearances, Transcendental Semantics, and Picturing](https://www.youtube.com/watch?v=94nAStWwk7Y)
+- [Audio of Meeting 11: Conceptual Appearances, Transcendental Semantics, and Picturing](https://archive.org/download/brandom-sellars-seminar-2023/Sellars%20Seminar%202023%20Week%2011%20Audio_default.mp4)
 
 ## Week 12: November 16, 2023
 
@@ -292,8 +292,8 @@ Nominalism and Processes
 
 - [Handout for Meeting 12: Selected Passages from Carus Lecture II](Week-by-week-materials/Sellars-Carus-Lecture-II-Selected-Passages-23-11-14-k.pdf)
 - [Bob's Notes for Meeting 12: Nominalism and Processes](Week-by-week-materials/Week-12-Notes-Series-4-23-11-17-e.pdf)
-- [Video of Meeting 12: Nominalism and Processes](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=71499753-73ae-4580-ace0-b0bc017eaef3)
-- [Audio of Meeting 12: Nominalism and Processes](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=89492cb6-bc25-4834-8746-b0bd0031c52d)
+- [Video of Meeting 12: Nominalism and Processes](https://www.youtube.com/watch?v=MEjh6kygq14)
+- [Audio of Meeting 12: Nominalism and Processes](https://archive.org/download/brandom-sellars-seminar-2023/Sellars%20Seminar%202023%20Week%2012%20Audio_default.mp4)
 
 ##### Supplementary Material
 
@@ -320,8 +320,8 @@ Description, Fact-Stating, and Two Bifurcation Principles
 - [Plan for Meeting 13: Description, Fact-Stating, and Two Bifurcation Principles](Week-by-week-materials/Week-13-Plan-23-11-28-b.pdf)
 - [Handout for Meeting 13: Description, Fact-Stating, and Two Bifurcation Principles](Week-by-week-materials/Week-13-Handout-23-11-29-j.pdf)
 - [Bob's Notes for Meeting 13: Description, Fact-Stating, and Two Bifurcation Principles](Week-by-week-materials/Week-13-Notes-Series-2-23-12-1-d.pdf)
-- [Video of Meeting 13: Description, Fact-Stating, and Two Bifurcation Principles](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=be1f44cb-f4cb-44bf-a44a-b0ca018adff9)
-- [Audio of Meeting 13: Description, Fact-Stating, and Two Bifurcation Principles](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2d531f24-b43f-4052-b210-b0cb00fd7f59)
+- [Video of Meeting 13: Description, Fact-Stating, and Two Bifurcation Principles](https://www.youtube.com/watch?v=HFplkVmRVSA)
+- [Audio of Meeting 13: Description, Fact-Stating, and Two Bifurcation Principles](https://archive.org/download/brandom-sellars-seminar-2023/Sellars%20Seminar%20Fall%202023%20Week%2013%20Audio_default.mp4)
 
 ## Week 14: December 7, 2023
 
@@ -338,8 +338,8 @@ World-of-Facts, Bimodal Conceptual Realism
 - [Plan for Meeting 14: Conclusion: Bimodal Conceptual Realism](Week-by-week-materials/Week-14-Plan-23-12-8-a.pdf)
 - [Handout for Meeting 14: Conclusion: Bimodal Conceptual Realism](Week-by-week-materials/Week-14-Handout-h.pdf)
 - [Bob's Notes for Meeting 14: Conclusion: Bimodal Conceptual Realism](Week-by-week-materials/Week-14-Notes-Series-3--23-12-9-c.pdf)
-- [Video of Meeting 14: Conclusion: Bimodal Conceptual Realism](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b698053d-36f8-49cf-9e75-b0d30124e7cd)
-- [Audio of Meeting 14: Conclusion: Bimodal Conceptual Realism](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=cac33caf-f33b-42e8-acf2-b0d3015adf57)
+- [Video of Meeting 14: Conclusion: Bimodal Conceptual Realism](https://www.youtube.com/watch?v=pN-Fcpq7Vho)
+- [Audio of Meeting 14: Conclusion: Bimodal Conceptual Realism](https://archive.org/download/brandom-sellars-seminar-2023/Sellars%20Seminar%20Fall%202023%20Week%2014%20Audio_default.mp4)
 
 ##### Supplementary Material
 

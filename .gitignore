@@ -2,3 +2,4 @@
 *.DS_Store
 # Audio files are hosted externally on sites.pitt.edu
 content/courses/*/audio/
+content/courses/*/Audios/
