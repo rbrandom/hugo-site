@@ -41,7 +41,7 @@ Philosophy, Norms, and Reasons. Two Traditions in the Philosophy of Language.
 
 ##### Meeting 1 Materials
 
-- [Video of Meeting 1](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b3bfdf63-32dd-4111-baf1-b20501213162)
+- [Video of Meeting 1](https://www.youtube.com/watch?v=jb3jJ0tiKNE&t=6869s)
 
 ## Meeting 2: September 4, 2024
 
@@ -62,7 +62,7 @@ Vocabularies and Metavocabularies
 ##### Meeting 2 Materials
 
 - [Handout for Meeting 2](meeting2/Week2-notes.pdf)
-- [Video of Meeting 2](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a09ca9db-7580-4936-b56a-b1e2017eeb72)
+- [Video of Meeting 2](https://www.youtube.com/watch?v=pUD7p6OOp0E)
 - [Bob's Notes for Week 2](meeting2/Week2-notes.pdf)
 - [Announcement of imminent international meeting on RLLR and related books.](https://sce-cse.recherche.usherbrooke.ca/2024-annual-booklaunch/)
 
@@ -87,7 +87,7 @@ A Minimal Two-Sorted Deontic Bilateral Normative Pragmatic Metavocabulary for Re
 ##### Meeting 3 materials
 
 - [Handout for Meeting 3](meeting3/Week3-notes.pdf)
-- [Video of Meeting 3](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=565f3290-5e6b-4645-808a-b1e80160d139)
+- [Video of Meeting 3](https://www.youtube.com/watch?v=9niIreWP67Q)
 - [Bob's Notes for Week 3](meeting3/Week3-notes.pdf)
 - [Announcement of imminent international meeting on _RLLR_ and related books.](https://sce-cse.recherche.usherbrooke.ca/2024-annual-booklaunch/)
 
@@ -110,7 +110,7 @@ Bimodal Conceptual Realism
 
 - [Outline for Meeting 4](meeting4/Week4-outline.pdf)
 - [Handout for Meeting 4](meeting4/Week4-handout.pdf)
-- [Video of Meeting 4](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5d842cdc-dc45-4724-967e-b1ef01514a47)
+- [Video of Meeting 4](https://www.youtube.com/watch?v=LukAgiZpn1c)
 - [Bob's Notes for Week 4](meeting4/Week4-notes.pdf)
 
 ---
@@ -142,7 +142,7 @@ The Open Structure of Material Reason Relations
 ##### Meeting 5 materials
 
 - [Handout for Meeting 5](meeting5/Week5-handout.pdf)
-- [Video of Meeting 5](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=584cfd9a-c499-48cf-b975-b205011dbc1a)
+- [Video of Meeting 5](https://www.youtube.com/watch?v=MBxtNuB3Wpo)
 - [Bob's Notes for Meeting 5](meeting5/Week5-notes.pdf)
 
 ## Meeting 6: October 16, 2024
@@ -162,7 +162,7 @@ Logical Expressivism and Expressivist Logic
 ##### Meeting 6 materials
 
 - [Handout for Meeting 6](meeting6/Week6-handout.pdf)
-- [Video of Meeting 6](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3a21e4e4-04e4-40e8-b1d6-b210014e0244)
+- [Video of Meeting 6](https://www.youtube.com/watch?v=78e0ISVCND4)
 - [Bob's Notes for Meeting 6](meeting6/Week6-notes.pdf)
 
 ## Meeting 7: October 23, 2024
@@ -178,7 +178,7 @@ Implication-Space Semantics: The Pure Theory of Conceptual Roles
 ##### Meeting 7 materials
 
 - [Handout for Meeting 7](meeting7/Week7-handout.pdf)
-- [Video of Meeting 7](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d58cbcbf-ab09-4dea-a697-b214015d6688)
+- [Video of Meeting 7](https://www.youtube.com/watch?v=Zx-0oU-YKTI)
 - [Bob's Notes for Meeting 7](meeting7/Week7-notes.pdf)
 
 ## Meeting 8: October 30, 2024
@@ -201,7 +201,7 @@ The Metaphysics of Normativity and the Social Dimension of Discursive Practice
 
 - [Handout for Meeting 8](meeting8/Week8-handout.pdf)
 - [Outline of Meeting 8](meeting8/Week8-outline.pdf)
-- [Video of Meeting 8](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fbd497a6-5c21-49bd-ac6e-b219016dce9c)
+- [Video of Meeting 8](https://www.youtube.com/watch?v=-qIDQaPh_ys&pp=0gcJCQQLAYcqIYzv)
 - [Bob's Notes for Meeting 8](meeting8/Week8-notes.pdf)
 
 ## Meeting 9: November 6, 2024
@@ -220,7 +220,7 @@ Normative Governance and Subjunctive Tracking. Recollection and Explicitation.
 ##### Meeting 9 materials
 
 - [Handout for Meeting 9](meeting9/Week9-handout.pdf)
-- [Video of Meeting 9](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f54dac31-cebd-4fd9-a866-b2210037d78d)
+- [Video of Meeting 9](https://www.youtube.com/watch?v=BiGveLXCmx8)
 - [Bob's Notes for Meeting 9](meeting9/Week9-notes.pdf)
 
 ## Meeting 10: November 13, 2024
@@ -236,7 +236,7 @@ What Are Singular Terms, and Why Are There Any?
 ##### Meeting 10 materials
 
 - [Handout for Meeting 10](meeting10/Week10-handout.pdf)
-- [Video of Meeting 10](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=eb961c4e-4496-457c-828c-b227017b5bc1)
+- [Video of Meeting 10](https://www.youtube.com/watch?v=7KzmLWCK5d8)
 
 ## Meeting 11: November 20, 2024
 
@@ -261,7 +261,7 @@ Dissecting Reason Relations with a Substitutional Scalpel
 
 - [Handout for Meeting 11](meeting11/Week11-handout.pdf)
 - [Introductory Notes for Meeting 11](meeting11/Week11-notes.pdf)
-- [Video of Meeting 11](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=787d4615-8b8a-4b3f-b579-b22f00f34aee)
+- [Video of Meeting 11](https://www.youtube.com/watch?v=IIu6FX1LRzk&t=6784s&pp=0gcJCQQLAYcqIYzv)
 
 ---
 
@@ -292,4 +292,4 @@ Conclusion
 
 - [Handout for Meeting 12](meeting12/Week12-handout.pdf)
 - [Notes for Meeting 12](meeting12/Week12-notes.pdf)
-- [Video of Meeting 12](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=46835d6e-0f48-4017-b65d-b23c015c53bc)
+- [Video of Meeting 12](https://www.youtube.com/watch?v=RiNRh7jwxPg)
