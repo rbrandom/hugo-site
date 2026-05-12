@@ -88,7 +88,7 @@ hidemeta: true
 
 <br>
 
-[Text of the FAGI-Humboldt Lectures](https://sites.pitt.edu/~rbrandom/Texts/A%20Pragmatist%20Semantic%20Reading%20of%20Hegel%2020-5-26%20t.pdf) (videos below)
+[Text of the FAGI-Humboldt Lectures](/A-Pragmatist-Semantic-Reading-of-Hegel.pdf) (videos below)
 
 <br>
 
@@ -169,7 +169,7 @@ hidemeta: true
 
 <h3 style="color: darkgreen;">Audio (There is more audio, for graduate seminars, available under "Courses")</h3>
 
-- ["Ein Gedankenbogen: Rortys Weg vom eliminativen Materialismus zum Pragmatismus" Vorlesung auf Deutsch. Sächsischen Akademie der Wissenschaften zu Leipzig (2008). Introduced by Pirmin Stekeler-Weithofer.](https://sites.pitt.edu/~rbrandom/Gedankenbogen.mp3)
+- ["Ein Gedankenbogen: Rortys Weg vom eliminativen Materialismus zum Pragmatismus" Vorlesung auf Deutsch. Sächsischen Akademie der Wissenschaften zu Leipzig (2008). Introduced by Pirmin Stekeler-Weithofer.](/Gedankenbogen.mp3)
 - ["Global Anti-Representationalism?"](https://www.youtube.com/watch?v=_GXEdoV0E9I)
 
 <br>
