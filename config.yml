@@ -80,8 +80,6 @@ params:
           url: https://pitt.academia.edu/RobertBrandom
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=rgZKxUEAAAAJ&hl=en
-        - name: GitHub
-          url: https://github.com/rbrandom
 
     assets:
         disableScrollBarStyle: true

@@ -40,7 +40,7 @@ showToc: true
 
 - [Handout for Week 1](pdfs/1_Hegel_Week_One_Handout_17-8-29_a.pdf)
 - [Notes for Week 1](pdfs/1_Introduction_of_ASoT_notes_17-8-30_j.pdf)
-- [Audio for Week 1](https://sites.pitt.edu/~rbrandom/Courses/Hegel%20(2017)/Hegel%202017%20Audio%20Recordings/Brandom-Hegel-Fall-2017-Session-1.MP3)
+- [Audio for Week 1](https://archive.org/download/brandom-hegel-seminar-2017/Brandom-Hegel-Fall-2017-Session-1.mp3)
 
 ***
 
@@ -50,7 +50,7 @@ showToc: true
 
 - [Handout for Week 2](pdfs/2_Hegels_Introduction_Handout_17-9-6_d.pdf)
 - [Notes for Week 2](pdfs/2_Week_2_Notes_17-9-6_d.pdf)
-- [Audio for Week 2](https://sites.pitt.edu/~rbrandom/Courses/Hegel%20(2017)/Hegel%202017%20Audio%20Recordings/Brandom-Hegel-Fall-2017-Session-2.MP3)
+- [Audio for Week 2](https://archive.org/download/brandom-hegel-seminar-2017/Brandom-Hegel-Fall-2017-Session-2.mp3)
 
 ***
 
@@ -60,7 +60,7 @@ showToc: true
 
 - [Handout for Week 3](pdfs/3_Handout_for_Sense_Certainty_17-9-13_a.pdf)
 - [Notes for Week 3](pdfs/3_SC_notes_17-9-13_j.pdf)
-- [Audio for Week 3](https://sites.pitt.edu/~rbrandom/Courses/Hegel%20(2017)/Hegel%202017%20Audio%20Recordings/Brandom-Hegel-Fall-2017-Session-3.MP3)
+- [Audio for Week 3](https://archive.org/download/brandom-hegel-seminar-2017/Brandom-Hegel-Fall-2017-Session-3.mp3)
 
 ***
 
@@ -70,7 +70,7 @@ showToc: true
 
 - [Handout for Week 4](pdfs/4_Handout_for_Week_4_Perception_17-9-20_c.pdf)
 - [Notes for Week 4](pdfs/4_Perception_Notes_17-9-20_c.pdf)
-- [Audio for Week 4](https://sites.pitt.edu/~rbrandom/Courses/Hegel%20(2017)/Hegel%202017%20Audio%20Recordings/Brandom-Hegel-Fall-2017-Session-4.MP3)
+- [Audio for Week 4](https://archive.org/download/brandom-hegel-seminar-2017/Brandom-Hegel-Fall-2017-Session-4.mp3)
 
 ***
 
@@ -80,7 +80,7 @@ showToc: true
 
 - [Handout for Week 5](pdfs/5_FU_Handout_17-10-4_d.pdf)
 - [Notes for Week 5](pdfs/5_FU_Notes_17-10-4_b.pdf)
-- [Audio for Week 5](https://sites.pitt.edu/~rbrandom/Courses/Hegel%20(2017)/Hegel%202017%20Audio%20Recordings/Brandom-Hegel-Fall-2017-Session-5.MP3)
+- [Audio for Week 5](https://archive.org/download/brandom-hegel-seminar-2017/Brandom-Hegel-Fall-2017-Session-5.mp3)
 
 ***
 
@@ -90,7 +90,7 @@ showToc: true
 
 - [Handout for Week 6](pdfs/6_Handout_for_Self-Consciousness_I_17-10-11_i.pdf)
 - [Notes for Week 6](pdfs/6_SC_Notes_17-10-11_j.pdf)
-- [Audio for Week 6](https://sites.pitt.edu/~rbrandom/Courses/Hegel%20(2017)/Hegel%202017%20Audio%20Recordings/Brandom-Hegel-Fall-2017-Session-6.MP3)
+- [Audio for Week 6](https://archive.org/download/brandom-hegel-seminar-2017/Brandom-Hegel-Fall-2017-Session-6.mp3)
 
 ***
 
@@ -100,7 +100,7 @@ showToc: true
 
 - [Handout for Week 7](pdfs/7_Week_7_Handout_b.pdf)
 - [Notes for Week 7](pdfs/7_Week_7_Notes_17-10-18_e.pdf)
-- [Audio for Week 7](https://sites.pitt.edu/~rbrandom/Courses/Hegel%20(2017)/Hegel%202017%20Audio%20Recordings/Brandom-Hegel-Fall-2017-Session-7.MP3)
+- [Audio for Week 7](https://archive.org/download/brandom-hegel-seminar-2017/Brandom-Hegel-Fall-2017-Session-7.mp3)
 
 ***
 
@@ -110,7 +110,7 @@ showToc: true
 
 - [Handout for Week 8](pdfs/8_Reason_I_Handout_17-10-25_e.pdf)
 - [Notes for Week 8](pdfs/8_Reason_I_Notes_17-10-25_d.pdf)
-- [Audio for Week 8](https://sites.pitt.edu/~rbrandom/Courses/Hegel%20(2017)/Hegel%202017%20Audio%20Recordings/Brandom-Hegel-Fall-2017-Session-8.MP3)
+- [Audio for Week 8](https://archive.org/download/brandom-hegel-seminar-2017/Brandom-Hegel-Fall-2017-Session-8.mp3)
 
 ***
 
@@ -119,7 +119,7 @@ showToc: true
 ##### Week 9 Materials
 
 - [Notes for Week 9](pdfs/9_Week_9_notes_with_2013_17-11-3_a.pdf)
-- [Audio for Week 9](https://sites.pitt.edu/~rbrandom/Courses/Hegel%20(2017)/Hegel%202017%20Audio%20Recordings/Brandom-Hegel-Fall-2017-Session-9.MP3)
+- [Audio for Week 9](https://archive.org/download/brandom-hegel-seminar-2017/Brandom-Hegel-Fall-2017-Session-9.mp3)
 
 ***
 
@@ -129,7 +129,7 @@ showToc: true
 
 - [Handout for Week 10](pdfs/10_Week_10_Spirit_I_2017_Handout_e.pdf)
 - [Notes for Week 10](pdfs/10_Week_10_Spirit_I_Notes_2017_17-11-9_b.pdf)
-- [Audio for Week 10](https://sites.pitt.edu/~rbrandom/Courses/Hegel%20(2017)/Hegel%202017%20Audio%20Recordings/Brandom-Hegel-Fall-2017-Session-10.MP3)
+- [Audio for Week 10](https://archive.org/download/brandom-hegel-seminar-2017/Brandom-Hegel-Fall-2017-Session-10.mp3)
 
 ***
 
@@ -139,7 +139,7 @@ showToc: true
 
 - [Handout for Week 11](pdfs/11_Handout_for_Spirit_II_Week_11_17-11-15_e.pdf)
 - [Notes for Week 11](pdfs/11_Week_11_notes_13-11-20_b_reve_17-11-15_b.pdf)
-- [Audio for Week 11](https://sites.pitt.edu/~rbrandom/Courses/Hegel%20(2017)/Hegel%202017%20Audio%20Recordings/Brandom-Hegel-Fall-2017-Session-11.MP3)
+- [Audio for Week 11](https://archive.org/download/brandom-hegel-seminar-2017/Brandom-Hegel-Fall-2017-Session-11.mp3)
 
 ***
 
@@ -149,7 +149,7 @@ showToc: true
 
 - [Handout for Week 12](pdfs/12_Week_12_Handout_b.pdf)
 - [Notes for Week 12](pdfs/12_Week_12_Notes_17-11-29_f.pdf)
-- [Audio for Week 12](https://sites.pitt.edu/~rbrandom/Courses/Hegel%20(2017)/Hegel%202017%20Audio%20Recordings/Brandom-Hegel-Fall-2017-Session-12.MP3)
+- [Audio for Week 12](https://archive.org/download/brandom-hegel-seminar-2017/Brandom-Hegel-Fall-2017-Session-12.mp3)
 
 ***
 
@@ -159,7 +159,7 @@ showToc: true
 
 - [Handout for Week 13](pdfs/13_Week_13_Handout_Preface_passages_a.pdf)
 - [Notes for Week 13](pdfs/13_Week_13_Notes_17-12-6_d.pdf)
-- [Audio for Week 13](https://sites.pitt.edu/~rbrandom/Courses/Hegel%20(2017)/Hegel%202017%20Audio%20Recordings/Brandom-Hegel-Fall-2017-Session-13.MP3)
+- [Audio for Week 13](https://archive.org/download/brandom-hegel-seminar-2017/Brandom-Hegel-Fall-2017-Session-13.mp3)
 
 ***
 
