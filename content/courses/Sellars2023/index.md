@@ -194,7 +194,7 @@ Sellars's Pragmatic Metalinguistic Expressivism about Alethic Modality
 - [Plan for Meeting 7: Sellars's Pragmatic Metalinguistic Expressivism about Alethic Modality](Week-by-week-materials/Week-7-Plan-23-10-12-a.pdf)
 - [Bob's Notes for Meeting 7: Sellars's Pragmatic Metalinguistic Expressivism about Alethic Modality](Week-by-week-materials/Week-7-Notes-23-10-12-p.pdf)
 - [Video of Meeting 7: Sellars's Pragmatic Metalinguistic Expressivism about Alethic Modality](https://www.youtube.com/watch?v=Kg56cXYMYQw)
-- [Audio of Meeting 7: Sellars's Pragmatic Metalinguistic Expressivism about Alethic Modality](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0abf380b-d6d4-4676-89f4-b09a00e117b3)
+- [Audio of Meeting 7: Sellars's Pragmatic Metalinguistic Expressivism about Alethic Modality](https://archive.org/download/brandom-sellars-seminar-2023/Sellars%20Seminar%202023%20Week%207%20Audio_default.mp4)
 
 ##### Supplementary Material
 
