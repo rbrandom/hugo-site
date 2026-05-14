@@ -45,7 +45,7 @@ Introduction to the Course: Why Read Hegel Now? And How?
 
 - [Brandom's Seminar Notes for Week 1](pdfs/Week_1_Notes_Mark_2_21-8-31_j.pdf)
 - [Video of Seminar Meeting Week 1](https://youtu.be/va1sDoPRTAU)
-- [Audio of Seminar Meeting Week 1](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=80188d20-e0e2-4906-82ef-adab00f2a10f)
+- [Audio of Seminar Meeting Week 1](https://archive.org/download/brandom-hegel-seminar-2021-audio/Hegel_2021_Week_1_Audio.mp4)
 
 ##### Supplementary
 
@@ -80,7 +80,7 @@ Overview of a Pragmatist, Semantic Reading of the _Phenomenology_
 - [Handout for Week 2](pdfs/Week_2_Handout_21-9-7_f.pdf)
 - [Brandom's Seminar Notes for Week 2](pdfs/Week_2_Notes_Mark_2_21-9-7_j.pdf)
 - [Video of Seminar Meeting Week 2](https://youtu.be/cRibitd7_lo)
-- [Audio of Seminar Meeting Week 2](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fa0380ff-fb1f-4425-96bc-adab00f2a178)
+- [Audio of Seminar Meeting Week 2](https://archive.org/download/brandom-hegel-seminar-2021-audio/Hegel_2021_Week_2_Audio.mp4)
 
 ##### Supplementary
 
@@ -112,7 +112,7 @@ Hegel's _Introduction_ to the _PG_. Critique of Representationalism and Sketch o
 - [Handout for Week 3](pdfs/Handout_for_Week_3_21-9-13_a.pdf)
 - [Brandom's Seminar Notes for Week 3](pdfs/Week_3_Notes_Mark_2_21-9-14_e.pdf)
 - [Video of Seminar Meeting Week 3](https://youtu.be/-Cq5RIumlwo)
-- [Audio of Seminar Meeting Week 3](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=77910965-0f79-4408-b47d-adab00f2a13b)
+- [Audio of Seminar Meeting Week 3](https://archive.org/download/brandom-hegel-seminar-2021-audio/Hegel_2021_Week_3_Audio.mp4)
 
 ##### Video
 
@@ -151,7 +151,7 @@ _Consciousness_ I: Two Varieties of Empiricism: Phenomenalist and Observational
 - [Handout on _Perception_ chapter for Week 4](pdfs/Handout_2_for_Week_4_Perception_21-9-18_d.pdf)
 - [Brandom's Seminar Notes for Week 4](pdfs/Week_4_Notes_21-9-21_i.pdf)
 - [Video of Seminar Meeting Week 4](https://youtu.be/mSeVpJDGzfE)
-- [Audio of Seminar Meeting Week 4](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=63672b50-edc2-4928-b024-adab00f2a194)
+- [Audio of Seminar Meeting Week 4](https://archive.org/download/brandom-hegel-seminar-2021-audio/Hegel_2021_Week_4_Audio.mp4)
 
 ##### Video
 
@@ -180,7 +180,7 @@ _Consciousness_ II: Theoretical Entities and Conceptual Holism
 - [Handout for Week 5](pdfs/Week_5_Handout_21-9-28_d.pdf)
 - [Brandom's Seminar Notes for Week 5](pdfs/Week_5_Notes_21-9-28_l.pdf)
 - [Video of Seminar Meeting Week 5](https://youtu.be/QIPVd0Dfgsg)
-- [Audio of Seminar Meeting Week 5](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9f6bd008-ea07-455e-b898-adb200f7bdc2)
+- [Audio of Seminar Meeting Week 5](https://archive.org/download/brandom-hegel-seminar-2021-audio/Hegel_2021_Week_5_Audio.mp4)
 
 ##### Video
 
@@ -219,7 +219,7 @@ _Consciousness_ II: Theoretical Entities and Conceptual Holism
 - [Handout for Week 6](pdfs/Handout_for_Week_6_21-10-5_a.pdf)
 - [Brandom's Seminar Notes for Week 6](pdfs/Week_6_Notes_Mark_2_21-10-5_g.pdf)
 - [Video of Seminar Meeting Week 6](https://youtu.be/yqbZOAovjSc)
-- [Audio of Seminar Meeting Week 6](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a3d98ca8-d12c-4635-9366-adb9000a0149)
+- [Audio of Seminar Meeting Week 6](https://archive.org/download/brandom-hegel-seminar-2021-audio/Hegel_2021_Week_6_Audio.mp4)
 
 ##### Video
 
@@ -263,7 +263,7 @@ _Reason_: Practical Agency
 - [Handout for Week 7](pdfs/Week_7_Handout_21-10-12_a.pdf)
 - [Brandom's Seminar Notes for Week 7](pdfs/Week_7_Notes_Mark_2_21-10-12_j.pdf)
 - [Video of Seminar Meeting Week 7](https://youtu.be/xuuuxd1Q5Iw)
-- [Audio of Seminar Meeting Week 7](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=39a17daf-2057-4984-b268-adc0001d18d2)
+- [Audio of Seminar Meeting Week 7](https://archive.org/download/brandom-hegel-seminar-2021-audio/Hegel_2021_Week_7_Audio.mp4)
 
 ##### Video
 
@@ -298,7 +298,7 @@ _Reason_: Practical Agency
 - [Handout for Week 8](pdfs/Week_8_Spirit_I_Handout_c.pdf)
 - [Brandom's Seminar Notes for Week 8](pdfs/Week_8_notes_21-10-26_i.pdf)
 - [Video of Seminar Meeting Week 8](https://youtu.be/1_vNShJacHU)
-- [Audio of Seminar Meeting Week 8](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bf82d5c5-7dd7-46c7-ad74-adcd016c15ab)
+- [Audio of Seminar Meeting Week 8](https://archive.org/download/brandom-hegel-seminar-2021-audio/Hegel_2021_Week_8_Audio.mp4)
 
 ##### Video
 
@@ -325,7 +325,7 @@ _Reason_: Practical Agency
 - [Handout for Week 9](pdfs/Week_9_Handout_Modernity_Alienation_and_Language_c.pdf)
 - [Brandom's Seminar Notes for Week 9](pdfs/Week_9_Notes_21-11-2_j.pdf)
 - [Video of Seminar Meeting Week 9](https://youtu.be/IQMEOyq3FqQ)
-- [Audio of Seminar Meeting Week 9](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a0497585-26a2-46cc-99b1-add4015c4148)
+- [Audio of Seminar Meeting Week 9](https://archive.org/download/brandom-hegel-seminar-2021-audio/Hegel_2021_Week_9_Audio.mp4)
 
 ##### Video
 
@@ -354,7 +354,7 @@ _Reason_: Practical Agency
 - [Handout for Week 10](pdfs/Handout_for_Week_10_Genealogy_and_Magnanimity_Confession_and_Forgiveness_e.pdf)
 - [Brandom's Seminar Notes for Week 10](pdfs/Week_10_Notes_21-11-9_j.pdf)
 - [Video of Seminar Meeting Week 10](https://youtu.be/8aBL9AHywqI)
-- [Audio of Seminar Meeting Week 10](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ec2c8549-2f8b-4800-b254-addc0021b929)
+- [Audio of Seminar Meeting Week 10](https://archive.org/download/brandom-hegel-seminar-2021-audio/Hegel_2021_Week_10_Audio.mp4)
 
 ##### Video
 
@@ -389,7 +389,7 @@ _Reason_: Practical Agency
 - [Handout for Week 11: Passages from _Absolute Knowing_ and _Preface_](pdfs/Week_11_Handout_d.pdf)
 - [Brandom's Seminar Notes for Week 11](pdfs/Week_11_Notes_v2_21-11-16_j.pdf)
 - [Video of Seminar Meeting Week 11](https://youtu.be/MEpT3Kx_C3c)
-- [Audio of Seminar Meeting Week 11](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e40833c4-3700-4bfe-a530-ade20182d58d)
+- [Audio of Seminar Meeting Week 11](https://archive.org/download/brandom-hegel-seminar-2021-audio/Hegel_2021_Week_11_Audio.mp4)
 
 * * *
 
@@ -413,7 +413,7 @@ _Reason_: Practical Agency
 - [Handout for Week 12: Passages from _Preface_ and _Science of Logic_](pdfs/Week_12_Handout_e.pdf)
 - [Brandom's Seminar Notes for Week 12](pdfs/Week_12_Notes_Mark_2_for_distribution_21-11-30_u.pdf)
 - [Video of Seminar Meeting Week 12](https://youtu.be/17rRcue3lVY)
-- [Audio of Seminar Meeting Week 12](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7b56458e-162f-45ed-ad83-adf00177f862)
+- [Audio of Seminar Meeting Week 12](https://archive.org/download/brandom-hegel-seminar-2021-audio/Hegel_2021_Week_12_Audio.mp4)
 
 * * *
 
@@ -428,7 +428,7 @@ _Reason_: Practical Agency
 - [Handout for Week 13: Passages from the _Science of Logic_](pdfs/Week_13_Handout_e.pdf)
 - [Brandom's Seminar Notes for Week 13](pdfs/Week_13_Notes_21-12-7_h.pdf)
 - [Video of Seminar Meeting Week 13](https://youtu.be/c3AdAz1Z8wY)
-- [Audio of Seminar Meeting Week 13](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=eedbaf0d-fcff-45f3-9b3b-adf800f3b262)
+- [Audio of Seminar Meeting Week 13](https://archive.org/download/brandom-hegel-seminar-2021-audio/Hegel_2021_Week_13_Audio.mp4)
 
 * * *
 

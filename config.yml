@@ -43,7 +43,7 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Prof. Dr. Brandom
+          title: Professor Bob Brandom
           subtitle: "Distinguished Professor of Philosophy - University of Pittsburgh. <br> Fellow, American Academy of Arts and Sciences. <br> Fellow, British Academy."
           imageUrl: "bob-leipzig.jpg"
           imageWidth: 160
@@ -67,7 +67,7 @@ params:
 
     socialIcons:
         - name: CV
-          url: cv.pdf
+          url: Brandom-CV-2026.pdf
         - name: Publications
           url: publications.pdf
         - name: Email
