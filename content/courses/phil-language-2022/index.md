@@ -197,11 +197,11 @@ Truthmaker Semantics, Bilateralism, and Reason Relations
 With Special Guest Star: Ulf Hlobil
 
 - [Read Hlobil, _Reasons for Logic, Logic for Reasons_, Chapter 4 (old 3) draft](pdfs/Ulf_RfLLfR_Chapter-4_revised.pdf)
-- [Read Hlobil, "The Laws of Thought and the Laws of Truth as Two Sides of One Coin"**](pdfs/Hlobil_Laws_of_Truth_and_Laws_of_Thought.pdf)
+- [Read Hlobil, "The Laws of Thought and the Laws of Truth as Two Sides of One Coin"](pdfs/Hlobil_Laws_of_Truth_and_Laws_of_Thought.pdf)
 
 ##### Week 8 Materials
 
-- [Bob's Handout for Meeting 8: Semantics I](pdfs/Handout_for_Week_8_22-10-19_d.pdf) -
+- [Bob's Handout for Meeting 8: Semantics I](pdfs/Handout_for_Week_8_22-10-19_d.pdf)
 - [Ulf's slides for Meeting 8: "Truth-Taking and Truth-Making"](pdfs/Hlobil_2022_Pitt-truth-taking-and-truth-making.pdf)
 - [Video of Meeting 8: Semantics I](https://youtu.be/M9YT5SUZpU0)
 - [Audio of Meeting 8: Semantics I](https://archive.org/download/brandom-phil-language-2022-audio/PhilLang_2022_Week_8_Audio.mp4)
@@ -284,7 +284,7 @@ Alethic Modal Metavocabularies
 
 - [Handout for Meeting 11: Alethic Modal Vocabulary](pdfs/Handout_for_Week_11_22-11-8_f.pdf)
 - [Bob's Notes for Meeting 11: Alethic Modal Vocabulary](pdfs/Week_11_Notes_Mark_2_22-11-9_h.pdf)
-- [Video of Meeting 11: Alethic Modal Vocabulary](https://youtu.be/WnSlDC5Tk1g) -
+- [Video of Meeting 11: Alethic Modal Vocabulary](https://youtu.be/WnSlDC5Tk1g)
 - [Audio of Meeting 11: Alethic Modal Vocabulary](https://archive.org/download/brandom-phil-language-2022-audio/PhilLang_2022_Week_11_Audio.mp4)
 
 ## Week 12. November 16, 2021
