@@ -116,8 +116,8 @@ The Open Structure of Non-Logical Reason Relations
 
 ##### Supplementary Material
 
-- [Tarski, 3 essays on logical consequence.**](pdfs/Tarski_Logi_Semantic_Metamathematics-Chs-III_V_XVI.pdf)
-- [Simonelli, "Why Must Incompatibility Be Symmetric?"**](pdfs/simonelli_why_must_incompatibility_be_symmetric.pdf)
+- [Tarski, 3 essays on logical consequence.](pdfs/Tarski_Logi_Semantic_Metamathematics-Chs-III_V_XVI.pdf)
+- [Simonelli, "Why Must Incompatibility Be Symmetric?"](pdfs/simonelli_why_must_incompatibility_be_symmetric.pdf)
 
 ## Week 5. September 28, 2022
 
@@ -208,7 +208,7 @@ With Special Guest Star: Ulf Hlobil
 
 ##### Supplementary Material
 
-[Fine, "A Theory of Truthmaker Content I"**](pdfs/Fine_2017_ATheoryOfTruthmakerContent-I-Con.pdf)
+[Fine, "A Theory of Truthmaker Content I"](pdfs/Fine_2017_ATheoryOfTruthmakerContent-I-Con.pdf)
 
 ## Week 9. October 26, 2022
 
@@ -319,7 +319,7 @@ Dialogic Pragmatics and Monadologics
 - [Video of Meeting 13: Ongoing Projects: Dialogic Pragmatics and Monadologics](https://youtu.be/dCZh3LJba8M)
 - [Audio of Meeting 13: Ongoing Projects: Dialogic Pragmatics and Monadologic](https://archive.org/download/brandom-phil-language-2022-audio/PhilLang_2022_Week_13_Audio.mp4)
 - [User-friendly front end for DP1 Python program: dp\_inquiry.py](pdfs/dp_inquiry.py)
-- [Basic Python DP1 program: dpmain.py**](pdfs/dpmain.py)
+- [Basic Python DP1 program: dpmain.py](pdfs/dpmain.py)
 
 ## Week 14. December 7, 2022
 
@@ -329,9 +329,9 @@ Discursive Metarationalism
 
 ##### Week 14 Materials
 
-- [Handout for Meeting 14: Conclusion: Discursive Metarationalism**](pdfs/Handout_for_Week_14_Mark_2_22-12-7_f.pdf)
-- [Video of Meeting 14: Conclusion: Discursive Metarationalism**](https://youtu.be/PvHgjoG1J4U)
-- [Audio of Meeting 14: Conclusion: Discursive Metarationalism**](https://archive.org/download/brandom-phil-language-2022-audio/PhilLang_2022_Week_14_Audio.mp4)
+- [Handout for Meeting 14: Conclusion: Discursive Metarationalism](pdfs/Handout_for_Week_14_Mark_2_22-12-7_f.pdf)
+- [Video of Meeting 14: Conclusion: Discursive Metarationalism](https://youtu.be/PvHgjoG1J4U)
+- [Audio of Meeting 14: Conclusion: Discursive Metarationalism](https://archive.org/download/brandom-phil-language-2022-audio/PhilLang_2022_Week_14_Audio.mp4)
 
 ![](images/Bimodal_Conceptual_Realism.jpg)
 
