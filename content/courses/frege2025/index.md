@@ -45,7 +45,7 @@ showToc: true
 
 ### [Video of Week 1](<https://www.youtube.com/watch?v=9P4e4Mj-0OQ&pp=0gcJCQQLAYcqIYzv>) 
 
-### [Audio of Week 1](<https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c0370fb8-da34-4830-bff3-b34701222dd3>) 
+### [Audio of Week 1](<https://archive.org/download/brandom-frege-seminar-2025-audio/Frege_2025_Week_1_Audio.mp4>) 
 
 
 ### <font color="green"> Background Resources for Introduction:</font>
@@ -84,9 +84,9 @@ showToc: true
 
 ### [Video of Week 2](<https://www.youtube.com/watch?v=V4xF8fmraZA>) 
 
-### [Audio of Week 2](<https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=507695ac-488c-4728-af9b-b34f013df219>)
+### [Audio of Week 2](<https://archive.org/download/brandom-frege-seminar-2025-audio/Frege_2025_Week_2_Audio.mp4>)
 
-### [Audio of Week 2 After the Break (not on video or other audio--Sorry about the technical glitch!)](<https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ccfe0a8a-2902-42e9-bef2-b356010e56fe>)
+### [Audio of Week 2 After the Break (not on video or other audio--Sorry about the technical glitch!)](<https://archive.org/download/brandom-frege-seminar-2025-audio/Frege_2025_Week_2_After_Break_Audio.mp4>)
  
 
 ###  <font color="green">Supplementary:</font> 
@@ -123,7 +123,7 @@ showToc: true
 
 ### [Video of Week 3](<https://www.youtube.com/watch?v=tnVJytgX-C0&t=12s>) 
 
-### [Audio of Week 3](<https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6efc66ea-ea1b-44ce-a5e8-b35c016c174c>)
+### [Audio of Week 3](<https://archive.org/download/brandom-frege-seminar-2025-audio/Frege_2025_Week_3_Audio.mp4>)
 
 ### [Bob's Notes for Week 3](<Some early GL arguments 25-9-17 i.pdf>)
 
@@ -145,7 +145,7 @@ showToc: true
 
 ### [Video of Week 4](<https://www.youtube.com/watch?v=RrCR7aI6I6E>) 
 
-### [Audio of Week 4](<https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=93bb6264-4ee0-45c1-81f1-b3630187425c>)
+### [Audio of Week 4](<https://archive.org/download/brandom-frege-seminar-2025-audio/Frege_2025_Week_4_Audio.mp4>)
 
 ### <font color="green"> Supplementary Reading: </font>
 
@@ -175,7 +175,7 @@ showToc: true
 
 ### [Video of Week 5](<https://www.youtube.com/watch?v=yGrV1arKP_U>) 
 
-### [Audio of Week 5](<https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d935ffbe-6272-49bb-a00f-b36a0138a6c8>)
+### [Audio of Week 5](<https://archive.org/download/brandom-frege-seminar-2025-audio/Frege_2025_Week_5_Audio.mp4>)
 
 ##  October 8, 2025: <font color="red"> **NO CLASS!**</font>
 
@@ -208,7 +208,7 @@ showToc: true
 
 ### [Video of Week 6](<https://www.youtube.com/watch?v=6FIXvfri0Ek>) 
 
-### [Audio of Week 6](<https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0c95fca8-7d61-4bbc-8cae-b37800de3c07>)
+### [Audio of Week 6](<https://archive.org/download/brandom-frege-seminar-2025-audio/Frege_2025_Week_6_Audio.mp4>)
 
 
 ## <font color="orange"> **Week 7.** </font> October 22, 2025: Bernard **Bolzano** (1781-1848)
@@ -229,7 +229,7 @@ showToc: true
 
 ### [Video of Week 7](<https://www.youtube.com/watch?v=XJsglHCFOQ4>) 
 
-### [Audio of Week 7](<https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=639d18c1-3bab-45fa-ab12-b37f00ff9912>)
+### [Audio of Week 7](<https://archive.org/download/brandom-frege-seminar-2025-audio/Frege_2025_Week_7_Audio.mp4>)
 
 
 ### <font color="green"> Supplementary Materials: </font>
@@ -260,7 +260,7 @@ showToc: true
 
 ### [Video of Week 8](<https://www.youtube.com/watch?v=aTM0qFjE4bE>) 
 
-### [Audio of Week 8](<https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b2485fd6-cede-4511-92b4-b38600e2393d>)
+### [Audio of Week 8](<https://archive.org/download/brandom-frege-seminar-2025-audio/Frege_2025_Week_8_Audio.mp4>)
 
 
 ### <font color="green"> Supplementary Materials: </font>
@@ -295,7 +295,7 @@ showToc: true
 
 ### [Video of Week 9](<https://www.youtube.com/watch?v=NTTGR7r0S2Q&pp=0gcJCQQLAYcqIYzv>) 
 
-### [Audio of Week 9](<https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=26d358be-e4e0-40c4-8f7a-b38d0104aa27>)
+### [Audio of Week 9](<https://archive.org/download/brandom-frege-seminar-2025-audio/Frege_2025_Week_9_Audio.mp4>)
 
 
 ### <font color="green"> Supplementary Materials: </font>
@@ -319,7 +319,7 @@ showToc: true
 
 ### [Video of Week 10](<https://www.youtube.com/watch?v=OVCaYpDZLc4>) 
 
-### [Audio of Week 10](<https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=54376528-51f2-41b7-b582-b394011f69a6>)
+### [Audio of Week 10](<https://archive.org/download/brandom-frege-seminar-2025-audio/Frege_2025_Week_10_Audio.mp4>)
 
 
 ## <font color="orange"> **Week 11.** </font> November 19, 2025: *Grundgesetze der Arithmetik* (1893)
@@ -344,7 +344,7 @@ showToc: true
 
 ### [Video of Week 11](<https://www.youtube.com/watch?v=ZBoAtM0JCi0>) 
 
-### [Audio of Week 11](<https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f68d6be8-5a01-4f23-860f-b39b01084de1>)
+### [Audio of Week 11](<https://archive.org/download/brandom-frege-seminar-2025-audio/Frege_2025_Week_11_Audio.mp4>)
 
 
 ### <font color="green"> Supplementary Materials: </font>
@@ -370,7 +370,7 @@ showToc: true
 
 ### [Video of Week 12](<https://www.youtube.com/watch?v=pIV0BzuDa1g&t=14s>) 
 
-### [Audio of Week 12](<https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=1cb46a8a-8358-4ba2-a5e6-b3aa0112f936>)
+### [Audio of Week 12](<https://archive.org/download/brandom-frege-seminar-2025-audio/Frege_2025_Week_12_Audio.mp4>)
 
  <center>  <img src="FregeRB.JPG" width="50%" height="50%" alt="Frege"> </center> 
 
