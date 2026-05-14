@@ -195,6 +195,6 @@ showToc: true
 
 ## Additional Resources
 
-- [Miscellaneous Sellarsiana](https://sites.pitt.edu/~rbrandom/Courses/MiscSellarsiana%20b.html)
+- [Miscellaneous Sellarsiana](/sellarsiana/)
 - ["Substance, Change, and Event" (M.A. Thesis 1934)](pdfs/Substance_Change_and_Event_MA_Thesis_1934.pdf)
 - [Notre Dame Lectures 1969-1986](pdfs/Sellars_Notre_Dame_Lectures_1969-1986.pdf)

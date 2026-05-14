@@ -69,7 +69,7 @@ Sellars's Synoptic Metaphysical Vision in Neo-Kantian Context
 - [wilfridsellars.org](http://wilfridsellars.org)
 - [Sellars *Science, Perception, and Reality* (SPR--1963).](Sellars-texts/Sellars-Wilfrid-Science-Perception-and-reality.pdf)
 - [Sellars *Pure Pragmatics and Possible Worlds* (PPPW--1980).](Sellars-texts/PPPW.pdf)
-- [Miscellaneous Sellars Pictures (PPPW--1980).](https://sites.pitt.edu/~rbrandom/Courses/MiscSellarsiana%20b.html)
+- [Miscellaneous Sellars Pictures (PPPW--1980).](/sellarsiana/)
 
 ## Week 2: September 7, 2023
 
