@@ -43,7 +43,7 @@ Two Kinds of Anti-Representationalism
 - [Handout for Week 1](pdfs/Handout_Week_1.pdf)
 - [Presentation Notes for Week 1](pdfs/Week_1_Presentation_Notes.pdf)
 - [Video of Week 1](https://youtu.be/nZdKMV-EFqI)
-- [Audio of Week 1](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ebcb3fb5-8cd5-49fb-b5aa-ac2001114be7)
+- [Audio of Week 1](https://archive.org/download/brandom-antirepresentationalism-2020-audio/AntiRep_2020_Week_1_Audio.mp4)
 
 * * *
 
@@ -70,7 +70,7 @@ Rorty’s Critique of Enlightenment Representationalism, and (so) of Analytic Ph
 - [Handout for Week 2](pdfs/Week_2_Handout_20-8-24_e.pdf)
 - [Presentation Notes for Week 2](pdfs/Week_2_Presentation_Notes.pdf)
 - [Video of Week 2](https://youtu.be/JxwnATjQKfE)
-- [Audio of Week 2](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=6004ab5d-3f5c-41cf-a93b-ac2400d13ab6)
+- [Audio of Week 2](https://archive.org/download/brandom-antirepresentationalism-2020-audio/AntiRep_2020_Week_2_Audio.mp4)
 
 ##### Supplementary
 
@@ -98,7 +98,7 @@ Rorty Finds His Pragmatist Voice
 - [Handout for Week 3--Some Rorty Quotations](pdfs/Handout_for_Week_3_Some_Rorty_Quotations.pdf)
 - [Presentation Notes for Week 3](pdfs/Week_3_Presentation_Notes.pdf)
 - [Video of Week 3](https://youtu.be/34RDu7RH89U)
-- [Audio of Week 3](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4045643c-7369-4093-bc27-ac2a000e1f29)
+- [Audio of Week 3](https://archive.org/download/brandom-antirepresentationalism-2020-audio/AntiRep_2020_Week_3_Audio.mp4)
 
 ##### Supplementary
 
@@ -124,7 +124,7 @@ Cheryl Misak’s Critique of Rorty’s Pragmatism
 - [Handout for Week 4](pdfs/Handout_for_Week_4_20-9-7_f.pdf)
 - [Presentation Notes for Week 4](pdfs/Week_4_Presentation_Notes_20-9-8_p.pdf)
 - [Video of Week 4](https://youtu.be/9qgNFPDRE_8)
-- [Audio of Week 4](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=76ba4d9e-fd7e-4957-ad67-ac3100d70265)
+- [Audio of Week 4](https://archive.org/download/brandom-antirepresentationalism-2020-audio/AntiRep_2020_Week_4_Audio.mp4)
 
 ##### Supplementary
 
@@ -153,7 +153,7 @@ Rorty’s Literary _Kehre_
 - [Handout II for Week 5: Rorty's Romanticism](pdfs/Rortys_Romanticism.pdf)
 - [Presentation Notes for Week 5](pdfs/Week_5_Presentation_Notes_20-9-15_n.pdf)
 - [Video of Week 5](https://youtu.be/8Mi8YvOVSPc)
-- [Audio of Week 5](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fe5d8f5c-7d48-46f4-b04f-ac3801116fbb)
+- [Audio of Week 5](https://archive.org/download/brandom-antirepresentationalism-2020-audio/AntiRep_2020_Week_5_Audio.mp4)
 
 ##### Supplementary
 
@@ -180,7 +180,7 @@ Rorty’s Political _Kehre_
 - [Pragmatism: A Version. ToC of Girona Lectures](pdfs/PRAGMATISM-A_VERSION_ToC.docx)
 - [Presentation Notes for Week 6](pdfs/Week_6_Presentation_Notes.pdf)
 - [Video of Week 6](https://youtu.be/JjjHFAgmWi0)
-- [Audio of Week 6](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2f57ad74-23ad-4f03-88b7-ac3f00f2ef48)
+- [Audio of Week 6](https://archive.org/download/brandom-antirepresentationalism-2020-audio/AntiRep_2020_Week_6_Audio.mp4)
 
 ##### Supplementary
 
@@ -201,7 +201,7 @@ Assessing Rorty’s Pragmatism as Anti-Representationalism
 - [Handout for Week 7](pdfs/Week_7_Handout.pdf)
 - [Presentation Notes for Week 7](pdfs/Week_7_Presentation_Notes.pdf)
 - [Video of Week 7](https://youtu.be/vl88geBbqew)
-- [Audio of Week 7](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3020da53-45cd-48f8-95a8-ac4700da25f0)
+- [Audio of Week 7](https://archive.org/download/brandom-antirepresentationalism-2020-audio/AntiRep_2020_Week_7_Audio.mp4)
 
 ##### Supplementary
 
@@ -230,7 +230,7 @@ Anti-Representationalism, Pragmatism, and Expressivism
 - [Handout for Week 8](pdfs/Week_8_Handout.pdf)
 - [Presentation Notes for Week 8](pdfs/Week_8_Presentation_Notes.pdf)
 - [Video of Week 8](https://youtu.be/rlt5PctMRYM)
-- [Audio of Week 8](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f43fd5c8-4de7-4363-a263-ac4d01093b55)
+- [Audio of Week 8](https://archive.org/download/brandom-antirepresentationalism-2020-audio/AntiRep_2020_Week_8_Audio.mp4)
 
 ##### Supplementary
 
@@ -257,7 +257,7 @@ Huw Price on Representationalism, Rorty, and Expressivism
 - [Handout for Week 9](pdfs/Week_9_Handout.pdf)
 - [Presentation Notes for Week 9](pdfs/Week_9_Presentation_Notes.pdf)
 - [Video of Week 9](https://youtu.be/yD9SFUrEgt0)
-- [Audio of Week 9](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3dbca08c-702b-4de9-9cf2-ac5400225545)
+- [Audio of Week 9](https://archive.org/download/brandom-antirepresentationalism-2020-audio/AntiRep_2020_Week_9_Audio.mp4)
 
 ##### Supplementary
 
@@ -280,7 +280,7 @@ Simon Blackburn on Expressivism and Pragmatism
 - [Handout for Week 10 Part 2 Eliatic Strategies](pdfs/Week_10_Eliatic_Strategies_for_E-Reps_Handout.pdf)
 - [Presentation Notes for Week 10](pdfs/Week_10_Presentation_Notes_20-10-20_t.pdf)
 - [Video of Week 10](https://youtu.be/KTTPRijIykk)
-- [Audio of Week 10](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bb58c8bb-9c9b-467a-a9c5-ac5b0107785e)
+- [Audio of Week 10](https://archive.org/download/brandom-antirepresentationalism-2020-audio/AntiRep_2020_Week_10_Audio.mp4)
 
 ##### Supplementary
 
@@ -307,7 +307,7 @@ Price on Sellars and McDowell, Blackburn on Brandom and McDowell
 - [Handout for Week 11](pdfs/Week_11_Handout_20-10-26_a.pdf)
 - [Presentation Notes for Week 11](pdfs/Week_11_Presentation_Notes_20-10-27_r.pdf)
 - [Video of Week 11](https://youtu.be/aPLYgxHNS-s)
-- [Audio of Week 11](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b7fee5e9-1d0f-476a-8e6a-ac62005d3024)
+- [Audio of Week 11](https://archive.org/download/brandom-antirepresentationalism-2020-audio/AntiRep_2020_Week_11_Audio.mp4)
 
 ##### Supplementary
 
@@ -331,7 +331,7 @@ Price's Pragmatist Philosophy of Language
 - [Week 12 Plan](pdfs/Week_12_Plan_20-11-3_d.pdf)
 - [Presentation Notes for Week 12](pdfs/Week_12_Presentation_Notes_20-11-3_f.pdf)
 - [Video of Week 12](https://youtu.be/Tpf-_v64nog)
-- [Audio of Week 12](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=12381d90-19fc-4c09-9f6b-ac69004ee7ae)
+- [Audio of Week 12](https://archive.org/download/brandom-antirepresentationalism-2020-audio/AntiRep_2020_Week_12_Audio.mp4)
 
 ##### Supplementary
 
@@ -356,7 +356,7 @@ Global or Local Expressivism? The Current State of Play
 - [Handout for Week 13](pdfs/Week_13_Handout_20-11-9_a.pdf)
 - [Presentation Notes for Week 13](pdfs/Week_13_Presentation_Notes_20-11-10_p.pdf)
 - [Video of Week 13](https://youtu.be/V7_j7a3MfKs)
-- [Audio of Week 13](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=59dc1a8c-1cce-404c-b57f-ac71004d8ecf)
+- [Audio of Week 13](https://archive.org/download/brandom-antirepresentationalism-2020-audio/AntiRep_2020_Week_13_Audio.mp4)
 
 ##### Supplementary
 
@@ -373,7 +373,7 @@ Conclusion: Rationales and Prospects for Anti-Representationalism
 - [Handout for Week 14](pdfs/Week_14_Handout_20-11-16_j.pdf)
 - [Presentation Notes for Week 14](pdfs/Week_14_Presentation_Notes_20-11-17_q.pdf)
 - [Video of Week 14](https://youtu.be/ObVaSlGUbek)
-- [Audio of Week 14](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=075e1ed5-36fa-46bc-bc0c-ac7700d6aac0)
+- [Audio of Week 14](https://archive.org/download/brandom-antirepresentationalism-2020-audio/AntiRep_2020_Week_14_Audio.mp4)
 
 ##### Supplementary
 
