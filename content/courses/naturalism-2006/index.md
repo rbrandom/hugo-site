@@ -27,7 +27,7 @@ showToc: true
 
 ***
 
-<p align="center"><a href="https://sites.pitt.edu/~rbrandom/Courses/Naturalism/2335-syllabus.html">Syllabus</a></p>
+<p align="center"><a href="naturalism-2006-syllabus.pdf">Syllabus</a></p>
 
 ***
 
