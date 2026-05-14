@@ -434,7 +434,7 @@ _Reason_: Practical Agency
 
 ##### Some Further Resources
 
-- [Course website for Brandom's 2017 seminar on Hegel's _Phenomenology_, with audio of all sessions.](https://sites.pitt.edu/~rbrandom/Courses/Hegels%20Phenomenology%20(2017).html)
+- [Course website for Brandom's 2017 seminar on Hegel's _Phenomenology_, with audio of all sessions.](https://spaceofreasons.netlify.app/courses/hegel-phenomenology-2017/)
 - [Some Hegel links to texts](pdfs/Some_Hegel_links_21-11-3_a.pdf)
 - [Thomas Carlyle's _Sartor Resartus_](pdfs/Sartor-Resartus.pdf)
 - [Video of All 18 Humboldt Lectures At Once (!)](https://www.youtube.com/watch?v=p8i8ANmQqlg)
