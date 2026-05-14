@@ -279,7 +279,8 @@ Simon Blackburn on Expressivism and Pragmatism
 - [Handout for Week 10](pdfs/Week_10_Handout.pdf)
 - [Handout for Week 10 Part 2 Eliatic Strategies](pdfs/Week_10_Eliatic_Strategies_for_E-Reps_Handout.pdf)
 - [Presentation Notes for Week 10](pdfs/Week_10_Presentation_Notes_20-10-20_t.pdf)
-- [Video of Week 10](https://youtu.be/KTTPRijIykk) [Audio of Week 10](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bb58c8bb-9c9b-467a-a9c5-ac5b0107785e)
+- [Video of Week 10](https://youtu.be/KTTPRijIykk)
+- [Audio of Week 10](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bb58c8bb-9c9b-467a-a9c5-ac5b0107785e)
 
 ##### Supplementary
 
