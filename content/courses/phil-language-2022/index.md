@@ -46,7 +46,7 @@ A Metarationalist Perspective on Language, Logic, and Meaning
 - [Handout for Meeting 1: Introduction](pdfs/Handout_for_Week_1_22-8-30_j.pdf)
 - [Brandom's notes for Meeting 1: Introduction](pdfs/Course_Intro_Notes_22-8-31_d.pdf)
 - [Video of Meeting 1: Introduction](https://youtu.be/e7CLfxd2v6Q)
-- [Audio of Meeting 1: Introduction](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=77043418-9eda-430f-8a1d-af0300004bf6)
+- [Audio of Meeting 1: Introduction](https://archive.org/download/brandom-phil-language-2022-audio/PhilLang_2022_Week_1_Audio.mp4)
 
 ##### Supplementary
 
@@ -69,7 +69,7 @@ Normative Pragmatic Metavocabularies for Autonomous Discursive Practices
 - [Handout for Meeting 2: Pragmatics I](pdfs/Handout_for_Week_2_22-9-6_j.pdf)
 -[Brandom's notes for Meeting 2: Pragmatics I](pdfs/Pragmatics_I_notes_22-9-7_g.pdf)
 - [Video of Meeting 2: Pragmatics I](https://youtu.be/Rszr9jy3Yf4)
-- [Audio of Meeting 2: Pragmatics I](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0db26cd2-575d-44ba-abfc-af090171321d)
+- [Audio of Meeting 2: Pragmatics I](https://archive.org/download/brandom-phil-language-2022-audio/PhilLang_2022_Week_2_Audio.mp4)
 - [Pragmatic Metavocabulary Meaning-Use Diagram](pdfs/Pragmatic_MV_Diagram.pdf)
 
 ##### Supplementary
@@ -91,7 +91,7 @@ A Deepened Normative Bilateralism and Reason Relations
 - [Handout for Meeting 3: Pragmatics II](pdfs/Handout_for_Week_3_22-9-14_l.pdf)
 - [Brandom's notes for Meeting 3: Pragmatics II](pdfs/Pragmatics_II_notes_22-9-14_g.pdf)
 - [Video of Meeting 3: Pragmatics II](https://youtu.be/DLR2ntZ7Nj0)
-- [Audio of Meeting 3: Pragmatics II](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=56690607-14a8-4222-b8d6-af10015b1047)
+- [Audio of Meeting 3: Pragmatics II](https://archive.org/download/brandom-phil-language-2022-audio/PhilLang_2022_Week_3_Audio.mp4)
 
 ##### Supplementary Material
 
@@ -112,7 +112,7 @@ The Open Structure of Non-Logical Reason Relations
 - [Handout for Meeting 4: Reason Relations I](pdfs/Handout_for_Week_4_22-9-21_h.pdf)
 - [Brandom's notes for Meeting 4: Reason Relations I](pdfs/Week_4_Notes_22-9-21_i.pdf)
 - [Video of Meeting 4: Reason Relations I](https://youtu.be/ydAaAI9xth0)
-- [Audio of Meeting 4: Reason Relations I](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f6c254fe-7223-40f0-b83d-af17017f42c9)
+- [Audio of Meeting 4: Reason Relations I](https://archive.org/download/brandom-phil-language-2022-audio/PhilLang_2022_Week_4_Audio.mp4)
 
 ##### Supplementary Material
 
@@ -135,7 +135,7 @@ Metavocabularies
 - [Handout for Meeting 5: Reason Relations II](pdfs/Handout_for_Week_5_22-9-28_c.pdf)
 - [Brandom's notes for Meeting 5: Reason Relations II](pdfs/Week_5_Notes_22-9-28_f.pdf)
 - [Video of Meeting 5: Reason Relations II](https://youtu.be/yU9bnL5ht2c)
-- [Audio of Meeting 5: Reason Relations II](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ffd62ae1-d440-4f3e-9baf-af1e016e1cf6)
+- [Audio of Meeting 5: Reason Relations II](https://archive.org/download/brandom-phil-language-2022-audio/PhilLang_2022_Week_5_Audio.mp4)
 
 ##### Supplementary Material
 
@@ -157,7 +157,7 @@ Logical Expressivism. Sequent Calculi and NM-MS
 - [Handout for Meeting 6: Logic I](pdfs/Handout_for_Week_6_22-10-5_b.pdf)
 - [Brandom's notes for Meeting 6: Logic I](pdfs/Notes_for_Week_6_Mark_2_Truncated_22-10-5_f.pdf)
 - [Video of Meeting 6: Logic I](https://youtu.be/J0O4k4S3wlY)
-- [Audio of Meeting 6: Logic I](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=03782b17-59a7-4436-a51c-af250171d722)
+- [Audio of Meeting 6: Logic I](https://archive.org/download/brandom-phil-language-2022-audio/PhilLang_2022_Week_6_Audio.mp4)
 
 ##### Supplementary Material
 
@@ -182,7 +182,7 @@ With Special Guest Star: Dan Kaplan
 - [Bob's Notes for Meeting 7: Logic II](pdfs/Week_7_Notes_22-10-12_g.pdf)
 - [Dan Kaplan's Notes for Meeting 7: Logic II](pdfs/Kaplan-2022-10-12-BrandomSeminarNotes.pdf)
 - [Video of Meeting 7: Logic II](https://youtu.be/fnbeDdI9ds0)
-- [Audio of Meeting 7: Logic II](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=890f947e-d821-41fc-a1f5-af2d00cd9dea)
+- [Audio of Meeting 7: Logic II](https://archive.org/download/brandom-phil-language-2022-audio/PhilLang_2022_Week_7_Audio.mp4)
 
 ##### Supplementary Material
 
@@ -204,7 +204,7 @@ With Special Guest Star: Ulf Hlobil
 - [Bob's Handout for Meeting 8: Semantics I](pdfs/Handout_for_Week_8_22-10-19_d.pdf) -
 - [Ulf's slides for Meeting 8: "Truth-Taking and Truth-Making"](pdfs/Hlobil_2022_Pitt-truth-taking-and-truth-making.pdf)
 - [Video of Meeting 8: Semantics I](https://youtu.be/M9YT5SUZpU0)
-- [Audio of Meeting 8: Semantics I](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=df1174eb-e7a8-4911-8764-af33016df072)
+- [Audio of Meeting 8: Semantics I](https://archive.org/download/brandom-phil-language-2022-audio/PhilLang_2022_Week_8_Audio.mp4)
 
 ##### Supplementary Material
 
@@ -227,7 +227,7 @@ With Special Guest Star: Dan Kaplan
 - [Dan Kaplan's Notes for Meeting 9: Semantics II](pdfs/Kaplan-2022-10-26-BrandomSeminarNotes.pdf)
 - [Bob's Notes for Meeting 9: Semantics II](pdfs/Notes_for_Week_9_22-10-26_c.pdf)
 - [Video of Meeting 9: Semantics II](https://youtu.be/5nDnZjm9o0E)
-- [Audio of Meeting 9: Semantics II](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c0cb5c6d-cab4-499a-b7ec-af3a015a6cfc)
+- [Audio of Meeting 9: Semantics II](https://archive.org/download/brandom-phil-language-2022-audio/PhilLang_2022_Week_9_Audio.mp4)
 
 ##### Supplementary Material
 
@@ -244,7 +244,7 @@ Bimodal Conceptual Realism and Intrinsic Conceptual Role Semantics
 - [Handout for Meeting 10: Bimodal Conceptual Realism and Intrinsic Conceptual Role Semantics](pdfs/Handout_for_Week_10_22-11-2_d.pdf)
 - [Bob's Notes for Meeting 10: Bimodal Conceptual Realism and Intrinsic Conceptual Role Semantics](pdfs/Week_10_Notes_22-11-2_p.pdf)
 - [Video of Meeting 10: Bimodal Conceptual Realism and Intrinsic Conceptual Role Semantics](https://youtu.be/MHhZ9YiRxoI)
-- [Audio of Meeting 10: Bimodal Conceptual Realism and Intrinsic Conceptual Role Semantics](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8cff1a52-3e5c-4ba5-80bb-af4200084d81)
+- [Audio of Meeting 10: Bimodal Conceptual Realism and Intrinsic Conceptual Role Semantics](https://archive.org/download/brandom-phil-language-2022-audio/PhilLang_2022_Week_10_Audio.mp4)
 
 <p align="center">
   <img src="images/Rational_MVs_Mark_2_b.jpg" alt="Rational MVs">
@@ -285,7 +285,7 @@ Alethic Modal Metavocabularies
 - [Handout for Meeting 11: Alethic Modal Vocabulary](pdfs/Handout_for_Week_11_22-11-8_f.pdf)
 - [Bob's Notes for Meeting 11: Alethic Modal Vocabulary](pdfs/Week_11_Notes_Mark_2_22-11-9_h.pdf)
 - [Video of Meeting 11: Alethic Modal Vocabulary](https://youtu.be/WnSlDC5Tk1g) -
-- [Audio of Meeting 11: Alethic Modal Vocabulary](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=80dadf8a-af57-4d5f-baaa-af49002876d3)
+- [Audio of Meeting 11: Alethic Modal Vocabulary](https://archive.org/download/brandom-phil-language-2022-audio/PhilLang_2022_Week_11_Audio.mp4)
 
 ## Week 12. November 16, 2021
 
@@ -300,7 +300,7 @@ Covariant Tracking and Normative Governance
 - [Handout for Meeting 12: Representation and Description](pdfs/Handout_for_Week_12_22-11-16_b.pdf)
 - [Bob's Notes for Meeting 12: Representation and Description](pdfs/Week_12_Notes_Mark_3_22-11-16_j.pdf)
 - [Video of Meeting 12: Representation and Description](https://youtu.be/36gj3SBPCJs)
-- [Audio of Meeting 12: Representation and Description](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f2c769ac-df86-42da-976d-af50001a12f1)
+- [Audio of Meeting 12: Representation and Description](https://archive.org/download/brandom-phil-language-2022-audio/PhilLang_2022_Week_12_Audio.mp4)
 
 ### No Class November 23, 2022
 
@@ -317,7 +317,7 @@ Dialogic Pragmatics and Monadologics
 - [Handout for Meeting 13: Ongoing Projects: Dialogic Pragmatics and Monadologics](pdfs/Handout_for_Week_13_22-11-30_b.pdf)
 - [Bob's Notes for Meeting 13: Ongoing Projects: Dialogic Pragmatics and Monadologics](pdfs/Week_13_Notes_22-11-30_e.pdf)
 - [Video of Meeting 13: Ongoing Projects: Dialogic Pragmatics and Monadologics](https://youtu.be/dCZh3LJba8M)
-- [Audio of Meeting 13: Ongoing Projects: Dialogic Pragmatics and Monadologic](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ad9df9df-5d96-4b83-b17a-af5d017b4181)
+- [Audio of Meeting 13: Ongoing Projects: Dialogic Pragmatics and Monadologic](https://archive.org/download/brandom-phil-language-2022-audio/PhilLang_2022_Week_13_Audio.mp4)
 - [User-friendly front end for DP1 Python program: dp\_inquiry.py](pdfs/dp_inquiry.py)
 - [Basic Python DP1 program: dpmain.py**](pdfs/dpmain.py)
 
@@ -331,7 +331,7 @@ Discursive Metarationalism
 
 - [Handout for Meeting 14: Conclusion: Discursive Metarationalism**](pdfs/Handout_for_Week_14_Mark_2_22-12-7_f.pdf)
 - [Video of Meeting 14: Conclusion: Discursive Metarationalism**](https://youtu.be/PvHgjoG1J4U)
-- [Audio of Meeting 14: Conclusion: Discursive Metarationalism**](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=fbd28caa-b047-46ea-b8cd-af64017989b5)
+- [Audio of Meeting 14: Conclusion: Discursive Metarationalism**](https://archive.org/download/brandom-phil-language-2022-audio/PhilLang_2022_Week_14_Audio.mp4)
 
 ![](images/Bimodal_Conceptual_Realism.jpg)
 
