@@ -166,4 +166,4 @@ showToc: true
 ## Additional Resources
 
 - [18 Hegel lectures from *A Spirit of Trust*](pdfs/A_Pragmatist_Semantic_Reading_of_Hegel_20-5-26_t.pdf)
-- [Video and Audio](https://sites.pitt.edu/~rbrandom/Video%20Mark%203%20d.html)
+- [Video and Audio](https://spaceofreasons.netlify.app/video-audio/)
