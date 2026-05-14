@@ -61,7 +61,7 @@ Introduction to the Course: Why Read Hegel Now? And How?
 
 ##### Fun
 
-[Images of Some Hermeneutic Styles](https://sites.pitt.edu/~rbrandom/Courses/Hegel%20(2021)/Images%20Week%201.html)
+[Images of Some Hermeneutic Styles](/courses/hegel-2021/hermeneutic-styles/)
 
 * * *
 
