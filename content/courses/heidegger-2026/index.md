@@ -1,0 +1,366 @@
+---
+title: "Heidegger, Being, and the World"  
+date: 2026-07-30
+lastmod: 2026-07-30
+tags:
+  - Heidegger
+  - Ontology
+  - Being
+
+author: Bob Brandom
+description:  A study of Heidegger's Ontology, focusing on Divison One of _Being and Time_ (1927), with a look in to the later work.
+summary: Wednesdays 1:00pm to 3:45pm, 1008B Cathedral of Learning 
+cover:
+  image: MH_Painting.jpg
+  alt: Heidegger
+  relative: false
+files_note: ''
+aliases: ''
+disableAnchoredHeadings: false
+editPost:
+  URL: /courses/
+  Text: All Courses
+showToc: true
+---
+<p style="text-align: center;"><strong><font size="5">Heidegger, Being, and the World</strong></p>
+
+ <center>  <img src="MH_Painting.jpg" width="50%" height="50%" alt="Heidegger"> </center>  
+
+<p style="text-align: center;"><strong><font size="4"> So Much Being, So Little Time</strong></p> 
+
+* * *
+
+<p align="center"><a href="pdfs/Syllabus_2695_20-8-10_a.docx">Syllabus</a></p>
+
+* * *
+
+## Week 1. August 26, 2026: Introduction
+
+The Ontological Difference.
+
+Heidegger's Tripartite Ontology: Dasein, Vorhandensein, Zuhandensein
+
+The Contours of Heidegger's Corpus
+
+<p style="margin-left: 25%;"><img src="Tripartite_ontology_circle.png"></p>
+
+#### Week 1 Materials
+
+- [Handout for Week 1](pdfs/Week_1_Handout_%2026-7-31_c.pdf)
+- [Presentation Notes for Week 1](pdfs/Week_1_Presentation_Notes.pdf)
+- [Video of Week 1](https://youtu.be/nZdKMV-EFqI)
+- [Audio of Week 1](https://archive.org/download/brandom-antirepresentationalism-2020-audio/AntiRep_2020_Week_1_Audio.mp4)
+
+* * *
+
+<p align="center"><strong><font size="5">Part One</font></strong></p>
+
+<p align="center"><strong><font size="5">Being and Time (1927)</font></strong></p>
+
+* * *
+
+## Week 2. September 2, 2026: Being
+
+Heidegger's Introduction: The Question of Being, and Phenomenological Method
+
+<p style="margin-left: 25%;"><img src="images/SZ_volume.jpg"></p>
+
+- [Read Heidegger, _Being and Time_ (1927) §§1-8 = MR pp. 21-64.](pdfs/BT.pdf)
+
+- [Read Gilbert Ryle's review of Heidegger's _Being and Time_ ](pdfs/Ryle_review.pdf)
+
+
+#### Week 2 Materials
+
+- [Handout for Week 2]()
+- [Presentation Notes for Week 2]()
+- [Video of Week 2]()
+- [Audio of Week 2](https://archive.org/download/brandom-antirepresentationalism-2020-audio/AntiRep_2020_Week_2_Audio.mp4)
+
+##### Supplementary
+
+
+
+* * *
+
+## Week 3. September 9, 2026: Dasein
+
+Dasein.  
+Fundamental Ontology is the Regional Ontology (Existential Analysis) of Dasein.
+
+<p style="margin-left: 25%;"><img src="images/Young_Heidegger_in_his_study.jpg"></p>
+
+- [Read Heidegger, _Being and Time_ (1927) §9, §§12-15 = MR pp. 65-71, 78-102.).](pdfs/BT.pdf)
+
+#### Week 3 Materials
+
+- [Handout for Week 3]()
+- [Presentation Notes for Week 3]()
+- [Video of Week 3]()
+- [Audio of Week 3]()
+
+##### Supplementary
+
+
+
+* * *
+
+## Week 4. September 16, 2026: Zuhandensein
+
+Zuhandensein: Availability or Readiness-to-Hand
+
+The World as an Equipmental Totality of Functional Affordances
+
+<p style="margin-left: 25%;"><img src="images/Tools.png" width="500"></p>
+
+- [Read Heidegger, _Being and Time_ (1927) §§16-18 = MR pp. 102-123](pdfs/BT.pdf)
+
+
+#### Week 4 Materials
+
+- [Handout for Week 4]()
+- [Presentation Notes for Week 4]()
+- [Video of Week 4]()
+- [Audio of Week 4]()
+
+##### Supplementary
+
+
+* * *
+
+## Week 5. September 23, 2026: Mitsein and das Man
+
+
+The Social Dimension of Dasein
+
+<p style="margin-left: 25%;"><img src="images/MH_young.jpg" width="500"></p>
+
+- [Read Heidegger, _Being and Time_ (1927) §§21-23, §§25-30 = MR pp. 125-135, 149-179](pdfs/BT.pdf)
+
+
+#### Week 5 Materials
+
+- [Handout for Week 5]()
+- [Presentation Notes for Week 5]()
+- [Video of Week 5]()
+- [Audio of Week 5]()
+
+##### Supplementary
+
+
+
+* * *
+
+## Week 6. September 30, 2026: Presence (Vorhandenheit)
+
+
+
+Understanding and Language
+
+
+
+<p style="margin-left: 25%;"><img src="images/Heidegger_window.jpg" width="500"></p>
+
+- [Read Heidegger, _Being and Time_ (1927) §§31-34 = MR pp. 182-203](pdfs/BT.pdf)
+- [Read Brandom, "Dasein, the Being that Thematizes" (2003).](pdfs/Brandom_DBT.pdf)
+
+#### Week 6 Materials
+
+- [Handout for Week 6]()
+- [Presentation Notes for Week 6]()
+- [Video of Week 6]()
+- [Audio of Week 6]()
+
+##### Supplementary
+
+
+* * *
+
+## Week 7. October 7, 2026: Falling
+
+Falling
+
+<p style="margin-left: 25%;"><img src="images/Falling.jpg" width="500"></p>
+
+- [Read Heidegger, _Being and Time_ (1927) §§35-38 = MR pp. 210-224](pdfs/BT.pdf)
+
+
+#### Week 7 Materials
+
+- [Handout for Week 7]()
+- [Presentation Notes for Week 7]()
+- [Video of Week 7]()
+- [Audio of Week 7]()
+
+##### Supplementary
+
+
+
+## Week 8. October 14, 2026:  Care as the Being of Dasein I
+
+Care as the Being of Dasein I
+
+- [Read Heidegger, _Being and Time_ (1927) §§39-42 = MR pp. 225-244](pdfs/BT.pdf)
+
+
+#### Week 8 Materials
+
+- [Handout for Week 8]()
+- [Presentation Notes for Week 8]()
+- [Video of Week 8]()
+- [Audio of Week 8]()
+
+##### Supplementary
+
+
+
+* * *
+
+## Week 9. October 21, 2026:  Care as the Being of Dasein II
+
+
+Care as the Being of Dasein II
+
+
+<p align="center"><img src="images/MH_Writing.png"></p>
+
+- [Read Heidegger, _Being and Time_ (1927) §§43-44 = MR pp. 245-273](pdfs/BT.pdf)
+
+
+#### Week 9 Material
+
+- [Handout for Week 9]()
+- [Presentation Notes for Week 9]()
+- [Video of Week 9]()
+- [Audio of Week 9]()
+
+##### Supplementary
+
+
+
+
+* * *
+
+
+
+
+## Week 10. October 28, 2026 Division Two of _Being and Time_
+
+Division Two of _Being and Time_
+
+<p align="center"><img src="images/Alejandro_Rodriguez_portrait.jpg" width="60%"></p>
+
+- [Read Heidegger, _Being and Time_ (1927) §45, §60, §65, §§67-69, §72, §74](pdfs/BT.pdf)
+
+
+#### Week 10 Materials
+
+- [Handout for Week 10]()
+- [Presentation Notes for Week 10]()
+- [Video of Week 10]()
+- [Audio of Week 10]()
+
+##### Supplementary
+
+
+* * *
+
+* * *
+
+<p align="center"><strong><font size="5">Part Two</font></strong></p>
+
+<p align="center"><strong><font size="5">Post-<i>Kehre<i> and Late Work <br> </font></strong></p>
+
+* * *
+
+
+## Week 11. November 4, 2026:  Late Stuff I
+
+The _Kehre_
+
+
+<p align="center"><img src="images/David_Lewis_caricature.gif" width="86.4%"></p>
+
+
+- [Read Heidegger, _Contributions to Philosophy (Ereignis)_  Selections](pdfs/Beitrage.pdf)
+
+
+
+#### Week 11 Materials
+
+- [Handout for Week 11]()
+- [Presentation Notes for Week 11]()
+- [Video of Week 11]()
+- [Audio of Week 11]()
+
+##### Supplementary
+
+
+* * *
+
+## Week 12. November 11, 2026:  Late Stuff II 
+
+ Das Geviert:
+
+ Earth and Sky, 
+ 
+ Mortals and Divinities
+
+<p align="center"><img src="images/Heidegger_fetching_water.jpg" width="86.4%"></p>
+
+- [Read Heidegger, “Building, Dwelling, Thinking” (2003).](pdfs/)
+
+
+#### Week 12 Materials
+
+- [Handout for Week 12]()
+- [Week 12 Plan]()
+- [Presentation Notes for Week 12]()
+- [Video of Week 12]()
+- [Audio of Week 12]()
+
+##### Supplementary
+
+
+
+* * *
+
+## Week 13. November 18, 2026:  Late Stuff III
+
+ Things in the World
+
+- [Read Heidegger, “The Thing”](pdfs/)
+
+
+
+#### Week 13 Materials
+
+- [Handout for Week 13]()
+- [Presentation Notes for Week 13]()
+- [Video of Week 13]()
+- [Audio of Week 13]()
+
+##### Supplementary
+
+
+
+* * *
+
+## Week 14. December 2, 2026: Conclusion
+
+Shepherding Being
+
+#### Week 14 Materials
+
+- [Handout for Week 14]()
+- [Presentation Notes for Week 14]()
+- [Video of Week 14]()
+- [Audio of Week 14]()
+
+##### Supplementary
+
+
+* * *
+
+## Some Further Resources
+
