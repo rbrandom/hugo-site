@@ -1,7 +1,8 @@
 ---
 title: "Heidegger, Being, and the World"  
-date: 2026-07-30
-lastmod: 2026-07-30
+date: 2026-08-12
+
+lastmod: 2026-08-12
 tags:
   - Heidegger
   - Ontology
@@ -22,15 +23,29 @@ editPost:
   Text: All Courses
 showToc: true
 ---
-<p style="text-align: center;"><strong><font size="5">Heidegger, Being, and the World</strong></p>
+<p style="text-align: center;"><strong><font size="7">Heidegger, Being, and the World</strong></p>
 
- <center>  <img src="MH_Painting.jpg" width="50%" height="50%" alt="Heidegger"> </center>  
+<center> <font color="green" font size="5"> Bob Brandom--Fall 2026 </font>  </center>  
+
+###  <center> <font color="green" size="5">Wednesdays at 1pm in 1008 B, Cathedral of Learning</font> </center>  
+
+ <center>  <img src="MH_Painting.jpg" width="100%" height="100%" alt="Heidegger"> </center>  
 
 <p style="text-align: center;"><strong><font size="4"> So Much Being, So Little Time</strong></p> 
 
+
+
 * * *
 
-<p align="center"><a href="pdfs/Syllabus_2695_20-8-10_a.docx">Syllabus</a></p>
+<p style="text-align: center;"><strong><font size="4"> Some Basic Resources</strong></p> 
+
+- [Heidegger: _Being and Time_ (English)](pdfs/BT.pdf)
+- [Heidegger: _Sein und Zeit_ (German)](pdfs/Heidegger_Sein_und_Zeit.pdf)
+- [Hubert Dreyfus: _Being-in-the-World_ ](pdfs/hubert-dreyfus-being-in-the-world.pdf)
+- [John Haugeland (Joseph Rouse editor) _Dasein Disclosed_](pdfs/Dasein_Disclosed_-_John_Haugeland.pdf)
+- [Haugeland's Glossary for _Being and Time_](pdfs/Haugelands_Glossary.pdf)
+
+
 
 * * *
 
@@ -42,15 +57,17 @@ Heidegger's Tripartite Ontology: Dasein, Vorhandensein, Zuhandensein
 
 The Contours of Heidegger's Corpus
 
-<p style="margin-left: 25%;"><img src="Tripartite_ontology_circle.png"></p>
+
+<center>  <img src="Tripartite_ontology_circle.png" width="100%" height="100%" alt="Heidegger"> </center>  
+
 
 #### Week 1 Materials
 
 - [Handout for Week 1](pdfs/Week_1_Handout_%2026-7-31_c.pdf)
 - [Presentation Notes for Week 1](pdfs/Week_1_Presentation_Notes.pdf)
-- [Video of Week 1](https://youtu.be/nZdKMV-EFqI)
-- [Audio of Week 1](https://archive.org/download/brandom-antirepresentationalism-2020-audio/AntiRep_2020_Week_1_Audio.mp4)
 
+<!-- - [Video of Week 1](https://youtu.be/nZdKMV-EFqI) -->
+<!-- - [Audio of Week 1](https://archive.org/download/brandom-antirepresentationalism-2020-audio/AntiRep_2020_Week_1_Audio.mp4) -->
 * * *
 
 <p align="center"><strong><font size="5">Part One</font></strong></p>
@@ -274,9 +291,9 @@ Division Two of _Being and Time_
 * * *
 
 
-## Week 11. November 4, 2026:  Late Stuff I
+## Week 11. November 4, 2026:  Late Stuff I.   The _Beiträge_
 
-The _Kehre_
+Heidegger's _Kehre_
 
 
 <p align="center"><img src="images/David_Lewis_caricature.gif" width="86.4%"></p>
@@ -298,7 +315,7 @@ The _Kehre_
 
 * * *
 
-## Week 12. November 11, 2026:  Late Stuff II 
+## Week 12. November 11, 2026:  Late Stuff II. The Fourfold (Das Geviert)
 
  Das Geviert:
 
@@ -325,7 +342,7 @@ The _Kehre_
 
 * * *
 
-## Week 13. November 18, 2026:  Late Stuff III
+## Week 13. November 18, 2026:  Late Stuff III. Things in the World
 
  Things in the World
 
