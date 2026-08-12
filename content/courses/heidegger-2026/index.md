@@ -80,7 +80,7 @@ The Contours of Heidegger's Corpus
 
 Heidegger's Introduction: The Question of Being, and Phenomenological Method
 
-<p style="margin-left: 25%;"><img src="images/SZ_volume.jpg"></p>
+<p style="margin-left: 5%;"><img src="images/SZ_volume.jpg" width="100%" height="100%"></p>
 
 - [Read Heidegger, _Being and Time_ (1927) §§1-8 = MR pp. 21-64.](pdfs/BT.pdf)
 
@@ -105,7 +105,7 @@ Heidegger's Introduction: The Question of Being, and Phenomenological Method
 Dasein.  
 Fundamental Ontology is the Regional Ontology (Existential Analysis) of Dasein.
 
-<p style="margin-left: 25%;"><img src="images/Young_Heidegger_in_his_study.jpg"></p>
+<p style="margin-left: 5%;"><img src="images/Young_Heidegger_in_his_study.jpg" width="100%" height="100%"></p>
 
 - [Read Heidegger, _Being and Time_ (1927) §9, §§12-15 = MR pp. 65-71, 78-102.).](pdfs/BT.pdf)
 
@@ -128,7 +128,7 @@ Zuhandensein: Availability or Readiness-to-Hand
 
 The World as an Equipmental Totality of Functional Affordances
 
-<p style="margin-left: 25%;"><img src="images/Tools.png" width="500"></p>
+<p style="margin-left: 5%;"><img src="images/Tools.png" width="100%" height="100%"></p>
 
 - [Read Heidegger, _Being and Time_ (1927) §§16-18 = MR pp. 102-123](pdfs/BT.pdf)
 
@@ -150,7 +150,7 @@ The World as an Equipmental Totality of Functional Affordances
 
 The Social Dimension of Dasein
 
-<p style="margin-left: 25%;"><img src="images/MH_young.jpg" width="500"></p>
+<p style="margin-left: 5%;"><img src="images/MH_young.jpg" width="100%" height="100%"></p>
 
 - [Read Heidegger, _Being and Time_ (1927) §§21-23, §§25-30 = MR pp. 125-135, 149-179](pdfs/BT.pdf)
 
@@ -176,7 +176,7 @@ Understanding and Language
 
 
 
-<p style="margin-left: 25%;"><img src="images/Heidegger_window.jpg" width="500"></p>
+<p style="margin-left: 5%;"><img src="images/Heidegger_window.jpg" width="100%" height="100%"></p>
 
 - [Read Heidegger, _Being and Time_ (1927) §§31-34 = MR pp. 182-203](pdfs/BT.pdf)
 - [Read Brandom, "Dasein, the Being that Thematizes" (2003).](pdfs/Brandom_DBT.pdf)
@@ -197,7 +197,7 @@ Understanding and Language
 
 Falling
 
-<p style="margin-left: 25%;"><img src="images/Falling.jpg" width="500"></p>
+<p style="margin-left: 5%;"><img src="images/Falling.jpg" width="100%" height="100%"></p>
 
 - [Read Heidegger, _Being and Time_ (1927) §§35-38 = MR pp. 210-224](pdfs/BT.pdf)
 
@@ -265,7 +265,7 @@ Care as the Being of Dasein II
 
 Division Two of _Being and Time_
 
-<p align="center"><img src="images/Alejandro_Rodriguez_portrait.jpg" width="60%"></p>
+<p align="center"><img src="images/Alejandro_Rodriguez_portrait.jpg" width="100%" height="100%"></p>
 
 - [Read Heidegger, _Being and Time_ (1927) §45, §60, §65, §§67-69, §72, §74](pdfs/BT.pdf)
 
