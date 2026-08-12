@@ -317,7 +317,8 @@ Heidegger's _Kehre_
 
 
 
-- [Simon Blackburn, "Enquivering" (2000)](pdfs/Blackburn Enquivering.pdf)
+- [Simon Blackburn, "Enquivering" (2000)](pdfs/Blackburn_Enquivering.pdf)
+
 
 
 * * *
