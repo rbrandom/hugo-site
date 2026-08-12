@@ -313,6 +313,13 @@ Heidegger's _Kehre_
 ##### Supplementary
 
 
+
+
+
+
+- [Simon Blackburn, "Enquivering" (2000)](pdfs/Blackburn Enquivering.pdf)
+
+
 * * *
 
 ## Week 12. November 11, 2026:  Late Stuff II. The Fourfold (Das Geviert)
