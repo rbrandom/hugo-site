@@ -354,6 +354,8 @@ Heidegger's _Kehre_
 
  Things in the World
 
+<p align="center"><img src="images/jug.jpg" width="86.4%"></p>
+
 - [Read Heidegger, “The Thing”](pdfs/)
 
 
