@@ -388,8 +388,9 @@ Shepherding Being
 * * *
 
 ## Some Further Resources
+<p align="center"><img src="images/MH_1930s.jpg" width="86.4%"></p>
 
 -Re Nazi Politics 1933-34:
 - [Heidegger's Political Tracts 1933-34](pdfs/Heidegger_Political_Tracts_1933-34.pdf)
-- [The Rectoratsrede (1933)](pdfs/rectors-address.pdf)
+- [The Rektoratsrede (1933)](pdfs/rectors-address.pdf)
 - [Rorty, "Heidegger's Nazism: An Alternative View"](pdfs/Rorty_Heideggers_Nazism--An_Alternative_History.pdf)
