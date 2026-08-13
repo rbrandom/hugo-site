@@ -44,7 +44,7 @@ showToc: true
 - [Hubert Dreyfus: _Being-in-the-World_ ](pdfs/hubert-dreyfus-being-in-the-world.pdf)
 - [John Haugeland (Joseph Rouse editor) _Dasein Disclosed_](pdfs/Dasein_Disclosed_-_John_Haugeland.pdf)
 - [Haugeland's Glossary for _Being and Time_](pdfs/Haugelands_Glossary.pdf)
-
+- [William Blattner _Heidegger's Being and Time_](pdfs/Heideggers+Being+and+Time+Blattner.pdf)
 
 
 * * *
