@@ -389,3 +389,5 @@ Shepherding Being
 
 ## Some Further Resources
 
+-Re Nazi Politics 1933-34:
+- []()
