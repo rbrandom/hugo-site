@@ -95,7 +95,8 @@ Heidegger's Introduction: The Question of Being, and Phenomenological Method
 - [Audio of Week 2](https://archive.org/download/brandom-antirepresentationalism-2020-audio/AntiRep_2020_Week_2_Audio.mp4)
 
 ##### Supplementary
-
+- [Dreyfus, _Being-in-the-World_, Chapters 1 and 2, pp. 10-39.](pdfs/hubert-dreyfus-being-in-the-world.pdf)
+- [Haugeland, _Dasein Disclosed_, Chapters 1 and 2, pp. 51-75.](pdfs/Dasein_Disclosed_-_John_Haugeland.pdf)
 
 
 * * *
@@ -118,8 +119,8 @@ Fundamental Ontology is the Regional Ontology (Existential Analysis) of Dasein.
 
 ##### Supplementary
 
-
-
+- [Dreyfus, _Being-in-the-World_, Chapters 3, pp. 40-59.](pdfs/hubert-dreyfus-being-in-the-world.pdf)
+- [Haugeland, _Dasein Disclosed_, Chapter 3, pp. 76-90.](pdfs/Dasein_Disclosed_-_John_Haugeland.pdf)
 * * *
 
 ## Week 4. September 16, 2026: Zuhandensein
@@ -141,7 +142,8 @@ The World as an Equipmental Totality of Functional Affordances
 - [Audio of Week 4]()
 
 ##### Supplementary
-
+- [Dreyfus, _Being-in-the-World_, Chapters 4, pp. 60-87.](pdfs/hubert-dreyfus-being-in-the-world.pdf)
+- [Haugeland, _Dasein Disclosed_, Chapter 4, pp. 91-120.](pdfs/Dasein_Disclosed_-_John_Haugeland.pdf)
 
 * * *
 
@@ -163,7 +165,8 @@ The Social Dimension of Dasein
 - [Audio of Week 5]()
 
 ##### Supplementary
-
+- [Dreyfus, _Being-in-the-World_, Chapters 5, pp. 88-107, Chapter 8, pp. 141-162.](pdfs/hubert-dreyfus-being-in-the-world.pdf)
+- [Haugeland, _Dasein Disclosed_, Chapters 6 and 7, pp. 121-151.](pdfs/Dasein_Disclosed_-_John_Haugeland.pdf)
 
 
 * * *
@@ -189,7 +192,7 @@ Understanding and Language
 - [Audio of Week 6]()
 
 ##### Supplementary
-
+- [Dreyfus, _Being-in-the-World_, Chapters 9-12, pp. 163-224.](pdfs/hubert-dreyfus-being-in-the-world.pdf)
 
 * * *
 
@@ -210,7 +213,7 @@ Falling
 - [Audio of Week 7]()
 
 ##### Supplementary
-
+- [Dreyfus, _Being-in-the-World_, Chapter 13, pp. 225-237.](pdfs/hubert-dreyfus-being-in-the-world.pdf)
 
 
 ## Week 8. October 14, 2026:  Care as the Being of Dasein I
@@ -228,7 +231,7 @@ Care as the Being of Dasein I
 - [Audio of Week 8]()
 
 ##### Supplementary
-
+- [Dreyfus, _Being-in-the-World_, Chapter 14, pp. 238-245.](pdfs/hubert-dreyfus-being-in-the-world.pdf)
 
 
 * * *
@@ -278,7 +281,7 @@ Division Two of _Being and Time_
 - [Audio of Week 10]()
 
 ##### Supplementary
-
+- [Dreyfus, _Being-in-the-World_, Appendix on Late Work, pp. 283-340.](pdfs/hubert-dreyfus-being-in-the-world.pdf)
 
 * * *
 
