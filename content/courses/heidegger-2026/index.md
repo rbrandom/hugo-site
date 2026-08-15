@@ -286,6 +286,7 @@ Division Two of _Being and Time_
 
 ##### Supplementary
 - [Dreyfus, _Being-in-the-World_, Appendix on Late Work, pp. 283-340.](pdfs/hubert-dreyfus-being-in-the-world.pdf)
+- [Haugeland, "Death and Dasein" (2007), pp. 179-186.](pdfs/Dasein_Disclosed_-_John_Haugeland.pdf)
 
 * * *
 
