@@ -350,7 +350,8 @@ Heidegger's _Kehre_
 - [Audio of Week 12]()
 
 ##### Supplementary
-
+- [Andrew Mitchell, _The Fourfold_: Introduction](pdfs/Mitchell_The_Fourfold.pdf)
+- [Charles Spinosa, "Heidegger on Living Gods"](pdfs/Spinosa_Heidegger_on_Living_Gods.pdf)
 
 
 * * *
