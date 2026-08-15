@@ -196,6 +196,7 @@ Understanding and Language
 ##### Supplementary
 - [Dreyfus, _Being-in-the-World_, Chapters 9-12, pp. 163-224.](pdfs/hubert-dreyfus-being-in-the-world.pdf)
 - [Haugeland, "Reading Brandom Reading Heidegger" (2005), pp. 157-166.](pdfs/Dasein_Disclosed_-_John_Haugeland.pdf)
+- [Haugeland, "Letting Be" (2007), pp. 167-178.](pdfs/Dasein_Disclosed_-_John_Haugeland.pdf)
 
 * * *
 
