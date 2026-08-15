@@ -63,7 +63,7 @@ The Contours of Heidegger's Corpus
 
 #### Week 1 Materials
 
-- [Handout for Week 1](pdfs/Week_1_Handout_%2026-7-31_c.pdf)
+- [Handout for Week 1](pdfs/Week_1_Handout_ 26_8_15_a.pdf)
 - [Presentation Notes for Week 1](pdfs/Week_1_Presentation_Notes.pdf)
 
 <!-- - [Video of Week 1](https://youtu.be/nZdKMV-EFqI) -->
