@@ -92,7 +92,7 @@ Heidegger's Introduction: The Question of Being, and Phenomenological Method
 - [Handout for Week 2]()
 - [Presentation Notes for Week 2]()
 - [Video of Week 2]()
-- [Audio of Week 2](https://archive.org/download/brandom-antirepresentationalism-2020-audio/AntiRep_2020_Week_2_Audio.mp4)
+- [Audio of Week 2]()
 
 ##### Supplementary
 - [Dreyfus, _Being-in-the-World_, Chapters 1 and 2, pp. 10-39.](pdfs/hubert-dreyfus-being-in-the-world.pdf)
@@ -195,6 +195,7 @@ Understanding and Language
 
 ##### Supplementary
 - [Dreyfus, _Being-in-the-World_, Chapters 9-12, pp. 163-224.](pdfs/hubert-dreyfus-being-in-the-world.pdf)
+- [Haugeland, "Reading Brandom Reading Heidegger" (2005), pp. 157-166.](pdfs/Dasein_Disclosed_-_John_Haugeland.pdf)
 
 * * *
 
