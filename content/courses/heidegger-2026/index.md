@@ -48,7 +48,17 @@ showToc: true
 - [Blattner's Glossary](pdfs/Blattner_Glossary.pdf)
 
 * * *
+<p style="text-align: center;"><strong><font size="4"> Three Generations of Analytic Heideggerians: Dreyfus, Haugeland, Blattner</strong></p> 
 
+<div style="display: flex; gap: 10px;">
+    {{< figure src="images/Dreyfus.jpg" alt="Dreyfus" width="100%" >}}
+    {{< figure src="images/Haugeland_3.jpg" alt="Haugeland" width="100%" >}}
+    {{< figure src="images/Blattner.jpg" alt="Blattner" width="90%" >}}
+</div>
+
+
+
+* * *
 ## Week 1. August 26, 2026: Introduction
 
 The Ontological Difference.
