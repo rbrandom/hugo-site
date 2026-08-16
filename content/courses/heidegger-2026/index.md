@@ -390,8 +390,11 @@ Heidegger's _Kehre_
 - [Video of Week 13]()
 - [Audio of Week 13]()
 
-##### Supplementary
 
+#### Some Further Famous Late Essays
+- ["The Origin of the Work of Art" (1935)](pdfs/Origin_of_the_Work_of_Art.pdf)
+- ["Letter on Humanism" (1947)](pdfs/Letter_on_Humanism.pdf)
+- ["The Question Concerning Technology" (1953)](pdfs/The_Question_Concerning-Technology.pdf)
 
 
 * * *
@@ -407,8 +410,8 @@ Shepherding Being
 - [Video of Week 14]()
 - [Audio of Week 14]()
 
-##### Some FurtherFamous Late Essays
-- ["The Origin of the Work of Art" (1935)]()
+##### Supplementary
+
 
 
 
