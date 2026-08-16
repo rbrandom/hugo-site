@@ -407,7 +407,9 @@ Shepherding Being
 - [Video of Week 14]()
 - [Audio of Week 14]()
 
-##### Supplementary
+##### Some FurtherFamous Late Essays
+- ["The Origin of the Work of Art" (1935)]()
+
 
 
 * * *
