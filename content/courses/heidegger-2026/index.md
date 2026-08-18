@@ -48,7 +48,8 @@ showToc: true
 - [Blattner's Glossary](pdfs/Blattner_Glossary.pdf)
 
 * * *
-<p style="text-align: center;"><strong><font size="4"> Three Generations of Analytic Heideggerians: Dreyfus, Haugeland, Blattner</strong></p> 
+<p style="text-align: center;"><strong><font size="4"> Three Generations of Analytic Pragmatist Heideggerians: </strong></p> 
+<p style="text-align: center;"><strong><font size="4">  Dreyfus, Haugeland, Blattner</strong></p> 
 
 <div style="display: flex; gap: 10px;">
     {{< figure src="images/Dreyfus.jpg" alt="Dreyfus" width="100%" >}}
