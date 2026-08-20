@@ -405,6 +405,8 @@ Heidegger's _Kehre_
 
 Shepherding Being
 
+<p style="margin-left: 5%;"><img src="images/Behance_caricature.png" width="100%" height="100%"></p>
+
 #### Week 14 Materials
 
 - [Handout for Week 14]()
