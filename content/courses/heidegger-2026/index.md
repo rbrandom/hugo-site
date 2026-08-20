@@ -46,6 +46,7 @@ showToc: true
 - [Haugeland's Glossary for _Being and Time_](pdfs/Haugelands_Glossary.pdf)
 - [William Blattner _Heidegger's Being and Time_](pdfs/Heideggers+Being+and+Time+Blattner.pdf)
 - [Blattner's Glossary](pdfs/Blattner_Glossary.pdf)
+- [Mark Okrent _Heidegger's Pragmatism_ (1988)](pdfs/Okrent_Heideggers_Pragmatism.pdf)
 
 * * *
 <p style="text-align: center;"><strong><font size="4"> Three Generations of Analytic Pragmatist Heideggerians: </strong></p> 
@@ -75,9 +76,8 @@ The Contours of Heidegger's Corpus
 #### Week 1 Materials
 
 
-- [Handout for Week 1](pdfs/Week_1_Handout_26_8_15_a.pdf) 
-- [Presentation Notes for Week 1](pdfs/Week_1_Presentation_Notes.pdf)
-
+- [Handout for Week 1](pdfs/Week_1_Handout_26_8_20_a.pdf) 
+<!--- [Presentation Notes for Week 1](pdfs/Week_1_Presentation_Notes.pdf) -->
 <!-- - [Video of Week 1](https://youtu.be/nZdKMV-EFqI) -->
 <!-- - [Audio of Week 1](https://archive.org/download/brandom-antirepresentationalism-2020-audio/AntiRep_2020_Week_1_Audio.mp4) -->
 * * *
