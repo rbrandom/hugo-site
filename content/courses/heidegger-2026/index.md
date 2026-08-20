@@ -379,7 +379,13 @@ Heidegger's _Kehre_
 
  Things in the World
 
-<p align="center"><img src="images/jug.jpg" width="86.4%"></p>
+<p align="center"><img src="images/jug.jpg" width="50%"></p>
+
+<div style="display: flex; gap: 10px;">
+    
+    {{< figure src="images/Hutte.jpg" alt="Hutte" width="100%" >}}
+    
+</div>
 
 - [Read Heidegger, “The Thing”](pdfs/)
 
@@ -433,5 +439,5 @@ Shepherding Being
 -Some early stuff we won't discuss:
 
 - [Heidegger's Habilitationsschrift "Duns Scotus's Doctrine of Categories and Meaning"(1915)](pdfs/duns_scotus_heidegger.pdf) 
-- [David Marshall, The Weimar Origins of Rhetorical Inquiry (2020) Heidegger Chapter](pdfs/Marshall_weimar_origins_Heidegger_chapter.pdf) 
+- [David Marshall, The Weimar Origins of Rhetorical Inquiry (2020)--Heidegger Chapter](pdfs/Marshall_weimar_origins_Heidegger_chapter.pdf) 
 
