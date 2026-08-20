@@ -430,3 +430,5 @@ Shepherding Being
 -Some early stuff we won't discuss:
 
 - [Heidegger's Habilitationsschrift "Duns Scotus's Doctrine of Categories and Meaning"(1915)](pdfs/duns_scotus_heidegger.pdf) 
+- [David Marshall, The Weimar Origins of Rhetorical Inquiry (2020)](content/courses/heidegger-2026/pdfs/Marshall the-weimar-origins-of-rhetorical-inquiry_Heidegger_chapter.pdf) 
+
