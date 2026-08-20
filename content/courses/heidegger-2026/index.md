@@ -425,3 +425,8 @@ Shepherding Being
 - [Heidegger's Political Tracts 1933-34](pdfs/Heidegger_Political_Tracts_1933-34.pdf)
 - [The Rektoratsrede (1933)](pdfs/rectors-address.pdf)
 - [Rorty, "Heidegger's Nazism: An Alternative View"](pdfs/Rorty_Heideggers_Nazism--An_Alternative_History.pdf)
+- [Der Spiegel Interview with Heidegger (1966)](pdfs/Der-Spiegel-Interview-with-Martin-Heidegger-1966.pdf) 
+
+-Some early stuff we won't discuss:
+
+- [Heidegger's Habilitationsschrift "Duns Scotus's Doctrine of Categories and Meaning"(1915)](pdfs/duns_scotus_heidegger.pdf) 
