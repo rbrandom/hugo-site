@@ -435,6 +435,7 @@ Shepherding Being
 - [The Rektoratsrede (1933)](pdfs/rectors-address.pdf)
 - [Rorty, "Heidegger's Nazism: An Alternative View"](pdfs/Rorty_Heideggers_Nazism--An_Alternative_History.pdf)
 - [Der Spiegel Interview with Heidegger (1966)](pdfs/Der-Spiegel-Interview-with-Martin-Heidegger-1966.pdf) 
+- [Günter Grass, _Dog Years_ (1963) Excerpts](pdfs/Dog_Years_Gunter_Grass_excerpts.pdf) 
 
 -Some early stuff we won't discuss:
 
