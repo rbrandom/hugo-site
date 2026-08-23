@@ -77,7 +77,7 @@ The Contours of Heidegger's Corpus
 #### Week 1 Materials
 
 
-- [Handout for Week 1](pdfs/Week_1_Handout_26_8_20_a.pdf) 
+- [Handout for Week 1](pdfs/Week_1_Handout_26_8_23_a.pdf)  
 <!--- [Presentation Notes for Week 1](pdfs/Week_1_Presentation_Notes.pdf) -->
 <!-- - [Video of Week 1](https://youtu.be/nZdKMV-EFqI) -->
 <!-- - [Audio of Week 1](https://archive.org/download/brandom-antirepresentationalism-2020-audio/AntiRep_2020_Week_1_Audio.mp4) -->
