@@ -129,10 +129,11 @@ Fundamental Ontology is the Regional Ontology (Existential Analysis) of Dasein.
 
 #### Week 3 Materials
 
-- [Handout for Week 3]()
+- [Passages from _Being and Time_ §§9-15](pdfs/Passages_from_Being_and_Time_sections_9-15.pdf) 
+<!---- [Handout for Week 3]()
 - [Presentation Notes for Week 3]()
 - [Video of Week 3]()
-- [Audio of Week 3]()
+- [Audio of Week 3]() -->
 
 ##### Supplementary
 
@@ -156,10 +157,10 @@ The World as an Equipmental Totality of nctional Affordances
 
 #### Week 4 Materials
 
-- [Handout for Week 4]()
+<!---- - [Handout for Week 4]()
 - [Presentation Notes for Week 4]()
 - [Video of Week 4]()
-- [Audio of Week 4]()
+- [Audio of Week 4]() -->
 
 ##### Supplementary
 - [Dreyfus, _Being-in-the-World_, Chapters 4, pp. 60-87.](pdfs/hubert-dreyfus-being-in-the-world.pdf)
@@ -181,10 +182,10 @@ The Social Dimension of Dasein
 
 #### Week 5 Materials
 
-- [Handout for Week 5]()
+<!----- [Handout for Week 5]()
 - [Presentation Notes for Week 5]()
 - [Video of Week 5]()
-- [Audio of Week 5]()
+- [Audio of Week 5]() -->
 
 ##### Supplementary
 - [Dreyfus, _Being-in-the-World_, Chapters 5, pp. 88-107, Chapter 8, pp. 141-162.](pdfs/hubert-dreyfus-being-in-the-world.pdf)
@@ -208,10 +209,10 @@ Understanding and Language
 
 #### Week 6 Materials
 
-- [Handout for Week 6]()
+ <!---- - [Handout for Week 6]()
 - [Presentation Notes for Week 6]()
 - [Video of Week 6]()
-- [Audio of Week 6]()
+- [Audio of Week 6]() -->
 
 ##### Supplementary
 - [Dreyfus, _Being-in-the-World_, Chapters 9-12, pp. 163-224.](pdfs/hubert-dreyfus-being-in-the-world.pdf)
@@ -231,10 +232,10 @@ Falling
 
 #### Week 7 Materials
 
-- [Handout for Week 7]()
+<!---- - [Handout for Week 7]()
 - [Presentation Notes for Week 7]()
 - [Video of Week 7]()
-- [Audio of Week 7]()
+- [Audio of Week 7]() -->
 
 ##### Supplementary
 - [Dreyfus, _Being-in-the-World_, Chapter 13, pp. 225-237.](pdfs/hubert-dreyfus-being-in-the-world.pdf)
@@ -249,10 +250,10 @@ Care as the Being of Dasein I
 
 #### Week 8 Materials
 
-- [Handout for Week 8]()
+<!---- - [Handout for Week 8]()
 - [Presentation Notes for Week 8]()
 - [Video of Week 8]()
-- [Audio of Week 8]()
+- [Audio of Week 8]() -->
 
 ##### Supplementary
 - [Dreyfus, _Being-in-the-World_, Chapter 14, pp. 238-245.](pdfs/hubert-dreyfus-being-in-the-world.pdf)
@@ -271,12 +272,12 @@ Care as the Being of Dasein II
 - [Read Heidegger, _Being and Time_ (1927) §§43-44 = MR pp. 245-273](pdfs/BT.pdf)
 
 
-#### Week 9 Material
+#### Week 9 Materials
 
-- [Handout for Week 9]()
+<!---- - [Handout for Week 9]()
 - [Presentation Notes for Week 9]()
 - [Video of Week 9]()
-- [Audio of Week 9]()
+- [Audio of Week 9]() -->
 
 ##### Supplementary
 
@@ -299,10 +300,10 @@ Division Two of _Being and Time_
 
 #### Week 10 Materials
 
-- [Handout for Week 10]()
+<!---- - [Handout for Week 10]()
 - [Presentation Notes for Week 10]()
 - [Video of Week 10]()
-- [Audio of Week 10]()
+- [Audio of Week 10]() -->
 
 ##### Supplementary
 - [Dreyfus, _Being-in-the-World_, Appendix on Late Work, pp. 283-340.](pdfs/hubert-dreyfus-being-in-the-world.pdf)
@@ -334,10 +335,10 @@ Heidegger's _Kehre_
 
 #### Week 11 Materials
 
-- [Handout for Week 11]()
+<!---- - [Handout for Week 11]()
 - [Presentation Notes for Week 11]()
 - [Video of Week 11]()
-- [Audio of Week 11]()
+- [Audio of Week 11]() -->
 
 ##### Supplementary
 
@@ -367,11 +368,11 @@ Heidegger's _Kehre_
 
 #### Week 12 Materials
 
-- [Handout for Week 12]()
+<!---- - [Handout for Week 12]()
 - [Week 12 Plan]()
 - [Presentation Notes for Week 12]()
 - [Video of Week 12]()
-- [Audio of Week 12]()
+- [Audio of Week 12]() -->
 
 ##### Supplementary
 - [Andrew Mitchell, _The Fourfold_: Introduction](pdfs/Mitchell_The_Fourfold.pdf)
@@ -398,10 +399,10 @@ Heidegger's _Kehre_
 
 #### Week 13 Materials
 
-- [Handout for Week 13]()
+<!---- - [Handout for Week 13]()
 - [Presentation Notes for Week 13]()
 - [Video of Week 13]()
-- [Audio of Week 13]()
+- [Audio of Week 13]() -->
 
 
 #### Some Further Famous Late Essays
@@ -420,10 +421,10 @@ Shepherding Being
 
 #### Week 14 Materials
 
-- [Handout for Week 14]()
+<!---- - [Handout for Week 14]()
 - [Presentation Notes for Week 14]()
 - [Video of Week 14]()
-- [Audio of Week 14]()
+- [Audio of Week 14]() -->
 
 ##### Supplementary
 
