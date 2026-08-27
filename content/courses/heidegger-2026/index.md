@@ -145,6 +145,7 @@ Zuhandensein: Availability or Readiness-to-Hand
 The World as an Equipmental Totality of Functional Affordances
 
 <p style="margin-left: 5%;"><img src="images/Tools.png" width="100%" height="100%"></p>
+<p style="text-align: center;"><strong><font size="4"> To the man who only has a hammer, the whole world looks like a nail.</strong></p> 
 
 - [Read Heidegger, _Being and Time_ (1927) §§16-18 = MR pp. 102-123](pdfs/BT.pdf)
 
