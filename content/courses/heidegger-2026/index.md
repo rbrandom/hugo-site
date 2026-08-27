@@ -78,9 +78,12 @@ The Contours of Heidegger's Corpus
 
 
 - [Handout for Week 1](pdfs/Week_1_Handout_26_8_23_a.pdf)  
-<!--- [Presentation Notes for Week 1](pdfs/Week_1_Presentation_Notes.pdf) -->
+- [Presentation Notes for Week 1](pdfs/Week_1_Presentation_notes_a.pdf)
 <!-- - [Video of Week 1](https://youtu.be/nZdKMV-EFqI) -->
 <!-- - [Audio of Week 1](https://archive.org/download/brandom-antirepresentationalism-2020-audio/AntiRep_2020_Week_1_Audio.mp4) -->
+
+##### Supplementary
+- [Brandom, Rorty on Vocabularies](pdfs/Rorty_on_vocabularies.pdf) 
 * * *
 
 <p align="center"><strong><font size="5">Part One</font></strong></p>
@@ -103,13 +106,14 @@ Heidegger's Introduction: The Question of Being, and Phenomenological Method
 #### Week 2 Materials
 
 - [Handout for Week 2]()
-- [Presentation Notes for Week 2]()
+<!--- - [Presentation Notes for Week 2]()
 - [Video of Week 2]()
-- [Audio of Week 2]()
+- [Audio of Week 2]() -->
 
 ##### Supplementary
 - [Dreyfus, _Being-in-the-World_, Chapters 1 and 2, pp. 10-39.](pdfs/hubert-dreyfus-being-in-the-world.pdf)
 - [Haugeland, _Dasein Disclosed_, Chapters 1 and 2, pp. 51-75.](pdfs/Dasein_Disclosed_-_John_Haugeland.pdf)
+- [Brandom, _A Spirit of Trust_, Chapter 12, pp. 422-442, on phenomena/noumena and sense/reference in Hegel](pdfs/ST_Ch_12.pdf) 
 
 
 * * *
