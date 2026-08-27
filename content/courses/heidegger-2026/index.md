@@ -105,7 +105,7 @@ Heidegger's Introduction: The Question of Being, and Phenomenological Method
 
 #### Week 2 Materials
 
-- [Handout for Week 2]()
+- [Passages from _Being and Time_ §§1-8](pdfs/Passages-from-Being-and-Time-1-8.pdf) 
 <!--- - [Presentation Notes for Week 2]()
 - [Video of Week 2]()
 - [Audio of Week 2]() -->
@@ -146,7 +146,7 @@ Fundamental Ontology is the Regional Ontology (Existential Analysis) of Dasein.
 
 Zuhandensein: Availability or Readiness-to-Hand
 
-The World as an Equipmental Totality of Functional Affordances
+The World as an Equipmental Totality of nctional Affordances
 
 <p style="margin-left: 5%;"><img src="images/Tools.png" width="100%" height="100%"></p>
 <p style="text-align: center;"><strong><font size="4"> To the man who only has a hammer, the whole world looks like a nail.</strong></p> 
