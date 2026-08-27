@@ -79,8 +79,8 @@ The Contours of Heidegger's Corpus
 
 - [Handout for Week 1](pdfs/Week_1_Handout_26_8_23_a.pdf)  
 - [Presentation Notes for Week 1](pdfs/Week_1_Presentation_notes_a.pdf)
-<!-- - [Video of Week 1](https://youtu.be/nZdKMV-EFqI) -->
-<!-- - [Audio of Week 1](https://archive.org/download/brandom-antirepresentationalism-2020-audio/AntiRep_2020_Week_1_Audio.mp4) -->
+ - [Video of Week 1](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a66d6129-f89f-476e-8b04-b4b300fd51ce) 
+ - [Audio of Week 1](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ff09db4f-94ff-4ac8-82c4-b4b30143c55f)  
 
 ##### Supplementary
 - [Brandom, Rorty on Vocabularies](pdfs/Rorty_on_vocabularies.pdf) 
