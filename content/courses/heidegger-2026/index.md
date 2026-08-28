@@ -48,6 +48,7 @@ showToc: true
 - [Blattner's Glossary](pdfs/Blattner_Glossary.pdf)
 - [Mark Okrent _Heidegger's Pragmatism_ (1988)](pdfs/Okrent_Heideggers_Pragmatism.pdf)
 - [Brandom, "Heidegger's Categories in _Being and Time_ (1983)](pdfs/Brandom_HCBT.pdf)
+- [Catalogue of Heidegger's _Gesamtausgabe_](https://heideggerswritings.org/ga/) 
 
 * * *
 <p style="text-align: center;"><strong><font size="4"> Three Generations of Analytic Pragmatist Heideggerians: </strong></p> 
