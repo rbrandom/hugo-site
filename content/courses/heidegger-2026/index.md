@@ -331,6 +331,8 @@ Heidegger's _Kehre_
 <p align="center"><img src="images/David_Lewis_caricature.gif" width="86.4%"></p>
 
 
+<p style="text-align: center;"><strong><font size="4"> The unspeakable contemplating the unsayable.</strong></p> 
+
 - [Read Heidegger, _Contributions to Philosophy (Ereignis)_  Selections](pdfs/Beitrage.pdf)
 
 
