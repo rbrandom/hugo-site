@@ -115,6 +115,7 @@ Heidegger's Introduction: The Question of Being, and Phenomenological Method
 - [Dreyfus, _Being-in-the-World_, Chapters 1 and 2, pp. 10-39.](pdfs/hubert-dreyfus-being-in-the-world.pdf)
 - [Haugeland, _Dasein Disclosed_, Chapters 1 and 2, pp. 51-75.](pdfs/Dasein_Disclosed_-_John_Haugeland.pdf)
 - [Brandom, _A Spirit of Trust_, Chapter 12, pp. 422-442, on phenomena/noumena and sense/reference in Hegel](pdfs/ST_Ch_12.pdf) 
+- [Brandom, _Between Saying and Doing_, Chapter 1 and Appendix to Chapter 2 (on indexicals)](pdfs/Brandom_BSD_1_2.pdf) 
 
 
 * * *
