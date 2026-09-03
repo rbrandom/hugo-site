@@ -391,12 +391,13 @@ Heidegger's _Kehre_
  Things in the World
 
 <p align="center"><img src="images/jug.jpg" width="50%"></p>
-
+<p style="text-align: center;"><strong><font size="4"> Schwarzwald Redneck</strong></p> 
 <div style="display: flex; gap: 10px;">
     
     {{< figure src="images/Hutte.jpg" alt="Hutte" width="100%" >}}
     
 </div>
+
 
 - [Read Heidegger, “The Thing”](pdfs/)
 
