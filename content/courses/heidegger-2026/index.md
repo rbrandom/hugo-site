@@ -107,9 +107,9 @@ Heidegger's Introduction: The Question of Being, and Phenomenological Method
 #### Week 2 Materials
 
 - [Passages from _Being and Time_ §§1-8](pdfs/Passages-from-Being-and-Time-1-8.pdf) 
-<!--- - [Presentation Notes for Week 2]()
-- [Video of Week 2]()
-- [Audio of Week 2]() -->
+ - [Presentation Notes for Week 2](pdfs/Week_2_Short_Outline.pdf) 
+- [Video of Week 2](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e3cd461f-b944-4aa2-a913-b4ba011670ed) 
+- [Audio of Week 2](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=13ea11bb-ad57-4b7c-b8f6-b4ba0141ad82) 
 
 ##### Supplementary
 - [Dreyfus, _Being-in-the-World_, Chapters 1 and 2, pp. 10-39.](pdfs/hubert-dreyfus-being-in-the-world.pdf)
