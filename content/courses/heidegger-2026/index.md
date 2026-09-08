@@ -132,9 +132,9 @@ Fundamental Ontology is the Regional Ontology (Existential Analysis) of Dasein.
 #### Week 3 Materials
 
 - [Passages from _Being and Time_ §§9-15](pdfs/Passages_from_Being_and_Time_sections_9-15.pdf) 
-<!---- [Handout for Week 3]()
-- [Presentation Notes for Week 3]()
-- [Video of Week 3]()
+- [Handout for Week 3](content/courses/heidegger-2026/pdfs/Week_3_Handout_ 26-9-9 l.pdf) 
+<!--- - [Presentation Notes for Week 3]()
+- [Video of Week 3]() 
 - [Audio of Week 3]() -->
 
 ##### Supplementary
