@@ -126,7 +126,9 @@ Dasein.
 Fundamental Ontology is the Regional Ontology (Existential Analysis) of Dasein.
 
 <p style="margin-left: 5%;"><img src="images/Young_Heidegger_in_his_study.jpg" width="100%" height="100%"></p>
+
 <p style="text-align: center;"><strong><font size="4"> All 'isms' are 'wasms'. </strong></p> 
+
 - [Read Heidegger, _Being and Time_ (1927) §9, §§12-15 = MR pp. 65-71, 78-102.).](pdfs/BT.pdf)
 
 #### Week 3 Materials
