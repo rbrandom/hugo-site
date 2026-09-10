@@ -171,6 +171,7 @@ The World as an Equipmental Totality of Functional Affordances
 ##### Supplementary
 - [Dreyfus, _Being-in-the-World_, Chapters 4, pp. 60-87.](pdfs/hubert-dreyfus-being-in-the-world.pdf)
 - [Haugeland, _Dasein Disclosed_, Chapter 4, pp. 91-120.](pdfs/Dasein_Disclosed_-_John_Haugeland.pdf)
+- [Brandom,"Some Strands of Wittgenstein's Normative Pragmatism"](pdfs/Brandom_Wittgenstein.pdf)
 - [Brandom,"Heidegger's Categories in _Being and Time_"](pdfs/Brandom_HCBT.pdf)
 
 
