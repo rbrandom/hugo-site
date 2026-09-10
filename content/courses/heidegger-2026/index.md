@@ -144,6 +144,7 @@ Fundamental Ontology is the Regional Ontology (Existential Analysis) of Dasein.
 - [Dreyfus, _Being-in-the-World_, Chapters 3, pp. 40-59.](pdfs/hubert-dreyfus-being-in-the-world.pdf)
 - [Haugeland, _Dasein Disclosed_, Chapter 3, pp. 76-90.](pdfs/Dasein_Disclosed_-_John_Haugeland.pdf)
 - [Haugeland, "Dasein's Disclosedness, pp. 17-39.](pdfs/Dasein_Disclosed_-_John_Haugeland.pdf)
+- [Brandom, "Sortals, Identity, and Modality", pp. 216-235 in _From Empiricism to Expressivism_.](pdfs/Brandom_FEE.pdf) 
 
 * * *
 
