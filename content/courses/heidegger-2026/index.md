@@ -163,8 +163,8 @@ The World as an Equipmental Totality of Functional Affordances
 #### Week 4 Materials
 
 - [Passages from _Being and Time_ §§16-18](pdfs/Passages_16-18.pdf) 
-<!---- - [Handout for Week 4]()
-- [Presentation Notes for Week 4]()
+- [Handout for Week 4](pdfs/Week_4_Handout.pdf)
+<!----- [Presentation Notes for Week 4]()
 - [Video of Week 4]()
 - [Audio of Week 4]() -->
 
