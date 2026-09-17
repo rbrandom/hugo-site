@@ -168,6 +168,11 @@ The World as an Equipmental Totality of Functional Affordances
 - [Video of Week 4](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c5e0ddc2-7d1e-4e82-a54b-b4c800082b5b)
 - [Audio of Week 4](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4b61a47e-95a5-41c5-857c-b4c8003cfc62)
 
+<div style="display: flex; gap: 10px;">
+    {{< figure src="images/Bewandtnis 3.jpg" alt="Dreyfus" width="100%" >}}
+    {{< figure src="images/Being-in-the-World 1.jpg" alt="Being-in-the-World" width="100%" >}}
+</div>
+
 ##### Supplementary
 - [Dreyfus, _Being-in-the-World_, Chapters 4, pp. 60-87.](pdfs/hubert-dreyfus-being-in-the-world.pdf)
 - [Haugeland, _Dasein Disclosed_, Chapter 4, pp. 91-120.](pdfs/Dasein_Disclosed_-_John_Haugeland.pdf)
