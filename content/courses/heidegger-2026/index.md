@@ -194,6 +194,7 @@ The Social Dimension of Dasein
 
 #### Week 5 Materials
 
+- [Passages from _Being and Time_ §§19-30](pdfs/Week_5_Passages_d.pdf) 
 <!----- [Handout for Week 5]()
 - [Presentation Notes for Week 5]()
 - [Video of Week 5]()
@@ -220,6 +221,7 @@ Understanding and Language
 - [Read Brandom, "Dasein, the Being that Thematizes" (2003).](pdfs/Brandom_DBT.pdf)
 
 #### Week 6 Materials
+
 
  <!---- - [Handout for Week 6]()
 - [Presentation Notes for Week 6]()
