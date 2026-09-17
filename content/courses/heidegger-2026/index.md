@@ -164,9 +164,9 @@ The World as an Equipmental Totality of Functional Affordances
 
 - [Passages from _Being and Time_ §§16-18](pdfs/Passages_16-18.pdf) 
 - [Handout for Week 4](pdfs/Week_4_Handout.pdf)
-<!----- [Presentation Notes for Week 4]()
-- [Video of Week 4]()
-- [Audio of Week 4]() -->
+- [Plan for Week 4](pdfs/Week_4_Plan.pdf)
+- [Video of Week 4](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c5e0ddc2-7d1e-4e82-a54b-b4c800082b5b)
+- [Audio of Week 4](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4b61a47e-95a5-41c5-857c-b4c8003cfc62)
 
 ##### Supplementary
 - [Dreyfus, _Being-in-the-World_, Chapters 4, pp. 60-87.](pdfs/hubert-dreyfus-being-in-the-world.pdf)
