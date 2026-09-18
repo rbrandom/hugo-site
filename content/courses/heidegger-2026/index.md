@@ -182,10 +182,12 @@ The World as an Equipmental Totality of Functional Affordances
 
 * * *
 
-## Week 5. September 23, 2026: Mitsein and das Man
+## Week 5. September 23, 2026: Mitsein, das Man, and Gerede 
 
 
-The Social Dimension of Dasein
+The Social Dimension: No Dasein without Mitsein 
+
+<p style="margin-left: 5%;"><img src="images/play_laps.jpg" width="100%" height="100%"></p> 
 
 <p style="margin-left: 5%;"><img src="images/MH_young.jpg" width="100%" height="100%"></p>
 
