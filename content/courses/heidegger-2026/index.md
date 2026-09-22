@@ -198,7 +198,7 @@ The Social Dimension: No Dasein without Mitsein
 
 - [Passages from _Being and Time_ §§19-30](pdfs/Week_5_Passages_d.pdf) 
 
-- [Handout for Week 5](pdfs/Week_5_Handout.pdf) 
+- [Handout for Week 5](pdfs/Week_5_Handout_2.pdf) 
 <!----- [Handout for Week 5]()
 - [Presentation Notes for Week 5]()
 - [Video of Week 5]()
