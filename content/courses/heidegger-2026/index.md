@@ -205,7 +205,7 @@ The Social Dimension: No Dasein without Mitsein
 ##### Supplementary
 - [Dreyfus, _Being-in-the-World_, Chapters 5, pp. 88-107, Chapter 8, pp. 141-162.](pdfs/hubert-dreyfus-being-in-the-world.pdf)
 - [Haugeland, _Dasein Disclosed_, Chapters 6 and 7, pp. 121-151.](pdfs/Dasein_Disclosed_-_John_Haugeland.pdf)
-
+- [Brandom, _A Spirit of Trust_, Chapter 9.](pdfs/ST_Chapter_9.pdf) 
 
 * * *
 
