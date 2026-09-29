@@ -199,8 +199,8 @@ The Social Dimension: No Dasein without Mitsein
   - [Passages from _Being and Time_ §§19-30](pdfs/Week_5_Passages_d.pdf) 
 
 - [Handout for Week 5](pdfs/Week_5_Handout_3.pdf)  
-- [Video of Week 5](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=41f6c812-1725-4caa-bd39-b4cf014272e8)
-- [Audio of Week 5](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=b1803b4d-3fb7-4f4f-b49e-b4d000325e93) 
+- [Video of Week 5](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d593a6cb-25a6-47a4-8ad6-b4d30155ae5b)
+- [Audio of Week 5](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=51b5913c-de11-4ca1-86d8-b4d40023bf54) 
 
 ##### Supplementary
 - [Dreyfus, _Being-in-the-World_, Chapters 5, pp. 88-107, Chapter 8, pp. 141-162.](pdfs/hubert-dreyfus-being-in-the-world.pdf)
@@ -226,6 +226,8 @@ Understanding and Language
 #### Week 6 Materials
 
 - [Passages from _Being and Time_ §§31-34](pdfs/Week_6_Passages_b.pdf)  
+ 
+ - [Handout for Week 6](pdfs/Week_6_Handout_c.pdf) 
  <!---- - [Handout for Week 6]()
 - [Presentation Notes for Week 6]()
 - [Video of Week 6]()
