@@ -226,12 +226,12 @@ Understanding and Language
 #### Week 6 Materials
 
 - [Passages from _Being and Time_ §§31-34](pdfs/Week_6_Passages_b.pdf)  
- - [Handout for Week 6](pdfs/Week_6_Handout_d.pdf) 
+ - [Handout for Week 6](pdfs/Week_6_Handout_e.pdf) 
  <!---- 
 - [Video of Week 6]()
 - [Audio of Week 6]() -->
 
-<center>  <img src="images/Verstehen_Rede.jpg" width="100%" height="100%" alt="Heidegger"> </center> 
+<center>  <img src="images/Verstehen_Rede_d.jpg" width="100%" height="100%" alt="Diagram"> </center> 
 
 ##### Supplementary
 - [Dreyfus, _Being-in-the-World_, Chapters 9-12, pp. 163-224.](pdfs/hubert-dreyfus-being-in-the-world.pdf)
