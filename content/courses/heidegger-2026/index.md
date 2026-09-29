@@ -231,6 +231,8 @@ Understanding and Language
 - [Video of Week 6]()
 - [Audio of Week 6]() -->
 
+<center>  <img src="images/Verstehen_Rede.jpg" width="100%" height="100%" alt="Heidegger"> </center> 
+
 ##### Supplementary
 - [Dreyfus, _Being-in-the-World_, Chapters 9-12, pp. 163-224.](pdfs/hubert-dreyfus-being-in-the-world.pdf)
 - [Haugeland, "Reading Brandom Reading Heidegger" (2005), pp. 157-166.](pdfs/Dasein_Disclosed_-_John_Haugeland.pdf)
