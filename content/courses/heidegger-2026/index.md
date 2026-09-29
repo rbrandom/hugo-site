@@ -251,6 +251,7 @@ Falling
 
 #### Week 7 Materials
 
+- [Passages from _Being and Time_ §§35-38](pdfs/Week_7_Passages_a.pdf) 
 <!---- - [Handout for Week 7]()
 - [Presentation Notes for Week 7]()
 - [Video of Week 7]()
