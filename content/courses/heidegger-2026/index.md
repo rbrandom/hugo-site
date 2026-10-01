@@ -227,9 +227,9 @@ Understanding and Language
 
 - [Passages from _Being and Time_ §§31-34](pdfs/Week_6_Passages_b.pdf)  
  - [Handout for Week 6](pdfs/Week_6_Handout_e.pdf) 
- <!---- 
-- [Video of Week 6]()
-- [Audio of Week 6]() -->
+ 
+- [Video of Week 6](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c6dae7b7-3794-47fe-b60a-b4d50148cc4e) 
+- [Audio of Week 6](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=21b5e586-d4a2-4c2a-ae1f-b4d600fa5f45) 
 
 <center>  <img src="images/Verstehen_Rede_d.jpg" width="100%" height="100%" alt="Diagram"> </center> 
 
@@ -237,6 +237,7 @@ Understanding and Language
 - [Dreyfus, _Being-in-the-World_, Chapters 9-12, pp. 163-224.](pdfs/hubert-dreyfus-being-in-the-world.pdf)
 - [Haugeland, "Reading Brandom Reading Heidegger" (2005), pp. 157-166.](pdfs/Dasein_Disclosed_-_John_Haugeland.pdf)
 - [Haugeland, "Letting Be" (2007), pp. 167-178.](pdfs/Dasein_Disclosed_-_John_Haugeland.pdf)
+- [Brandom, "The Structure of Desire and Recognition"](pdfs/Brandom_SDR.pdf) 
 
 * * *
 
