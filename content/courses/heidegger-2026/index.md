@@ -226,7 +226,7 @@ Understanding and Language
 #### Week 6 Materials
 
 - [Passages from _Being and Time_ §§31-34](pdfs/Week_6_Passages_b.pdf)  
- - [Handout for Week 6](pdfs/Week_6_Handout_e.pdf) 
+ - [Handout for Week 6](pdfs/Week_6_Handout.pdf)   
  
 - [Video of Week 6](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c6dae7b7-3794-47fe-b60a-b4d50148cc4e) 
 - [Audio of Week 6](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=21b5e586-d4a2-4c2a-ae1f-b4d600fa5f45) 
