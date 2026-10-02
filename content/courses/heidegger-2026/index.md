@@ -266,6 +266,8 @@ Falling
 
 Care as the Being of Dasein I
 
+<p style="margin-left: 5%;"><img src="images/Care.jpg" width="100%" height="100%"></p> 
+
 - [Read Heidegger, _Being and Time_ (1927) §§39-42 = MR pp. 225-244](pdfs/BT.pdf)
 
 
