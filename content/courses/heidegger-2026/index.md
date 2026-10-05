@@ -363,6 +363,8 @@ Heidegger's _Kehre_
 
 #### Week 11 Materials
 
+- [Passages from the Beiträge for Week 11](pdfs/Beitrage_Passages_a.pdf) 
+
 <!---- - [Handout for Week 11]()
 - [Presentation Notes for Week 11]()
 - [Video of Week 11]()
