@@ -254,10 +254,8 @@ Falling
 
 - [Passages from _Being and Time_ §§35-38](pdfs/Week_7_Passages_a.pdf) 
 - [Handout for Week 7](pdfs/Week_7_Handout_n.pdf)  
-<!---- - [Handout for Week 7]()
-- [Presentation Notes for Week 7]()
-- [Video of Week 7]()
-- [Audio of Week 7]() -->
+- [Video of Week 7](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=71fc53a9-eb3c-4203-9824-b4dd000d62d1)
+- [Audio of Week 7](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=04bfb124-c793-425d-a426-b4dd00fc4ddc) 
 
 ##### Supplementary
 - [Dreyfus, _Being-in-the-World_, Chapter 13, pp. 225-237.](pdfs/hubert-dreyfus-being-in-the-world.pdf)
