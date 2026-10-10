@@ -281,7 +281,8 @@ Care as the Being of Dasein I
 
 ##### Supplementary
 - [Dreyfus, _Being-in-the-World_, Chapter 14, pp. 238-245.](pdfs/hubert-dreyfus-being-in-the-world.pdf)
-
+- [Gibbard, Precis of _Thinking How to Live_, (2006)](pdfs/Gibbard_Precis.pdf) 
+- [Brandom, "A Tune Beyond Us, Yet Ourselves" (2026)](pdfs/Brandom_Topoi.pdf) 
 
 * * *
 
