@@ -274,8 +274,8 @@ Care as the Being of Dasein I
 
 - [Passages from _Being and Time_ §§39-42](pdfs/Week_8_Passages_b.pdf) 
 
-<!---- - [Handout for Week 8]()
-- [Presentation Notes for Week 8]()
+ - [Handout for Week 8](pdfs/Week_8_Handout_d.pdf) 
+<!----- [Presentation Notes for Week 8]()
 - [Video of Week 8]()
 - [Audio of Week 8]() -->
 
