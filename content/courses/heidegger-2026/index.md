@@ -228,7 +228,7 @@ Understanding and Language
 - [Passages from _Being and Time_ §§31-34](pdfs/Week_6_Passages_b.pdf)  
  - [Handout for Week 6](pdfs/Week_6_Handout.pdf)   
  
-- [Video of Week 6](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c6dae7b7-3794-47fe-b60a-b4d50148cc4e) 
+- [Video of Week 6](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3fead117-8577-44e4-a508-b4e200f694ba) 
 - [Audio of Week 6](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=21b5e586-d4a2-4c2a-ae1f-b4d600fa5f45) 
 
 <center>  <img src="images/Verstehen_Rede_d.jpg" width="100%" height="100%" alt="Diagram"> </center> 
@@ -254,7 +254,7 @@ Falling
 
 - [Passages from _Being and Time_ §§35-38](pdfs/Week_7_Passages_a.pdf) 
 - [Handout for Week 7](pdfs/Week_7_Handout_n.pdf)  
-- [Video of Week 7](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=71fc53a9-eb3c-4203-9824-b4dd000d62d1)
+- [Video of Week 7](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e8777623-d759-46d7-b6d4-b4e200ea2ecc)
 - [Audio of Week 7](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=04bfb124-c793-425d-a426-b4dd00fc4ddc) 
 
 ##### Supplementary
@@ -274,7 +274,7 @@ Care as the Being of Dasein I
 
 - [Passages from _Being and Time_ §§39-42](pdfs/Week_8_Passages_b.pdf) 
 
- - [Handout for Week 8](pdfs/Week_8_Handout_d.pdf) 
+ - [Handout for Week 8](pdfs/Week_8_Handout_e.pdf)  
 <!----- [Presentation Notes for Week 8]()
 - [Video of Week 8]()
 - [Audio of Week 8]() -->
