@@ -275,9 +275,9 @@ Care as the Being of Dasein I
 - [Passages from _Being and Time_ §§39-42](pdfs/Week_8_Passages_b.pdf) 
 
  - [Handout for Week 8](pdfs/Week_8_Handout_e.pdf)  
-<!----- [Presentation Notes for Week 8]()
-- [Video of Week 8]()
-- [Audio of Week 8]() -->
+<!----- [Presentation Notes for Week 8]() -->
+- [Video of Week 8](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f94f9710-100d-4ca3-b0ac-b4e40015748b)
+- [Audio of Week 8](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=de8adf3a-d415-4577-b96b-b4e4010a5d16)  
 
 ##### Supplementary
 - [Dreyfus, _Being-in-the-World_, Chapter 14, pp. 238-245.](pdfs/hubert-dreyfus-being-in-the-world.pdf)
@@ -299,6 +299,7 @@ Care as the Being of Dasein II
 
 #### Week 9 Materials
 
+- [Passages from _Being and Time_ §§43-44](pdfs/Passages_43-44_c.pdf)  
 <!---- - [Handout for Week 9]()
 - [Presentation Notes for Week 9]()
 - [Video of Week 9]()
