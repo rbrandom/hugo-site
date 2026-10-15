@@ -275,7 +275,6 @@ Care as the Being of Dasein I
 - [Passages from _Being and Time_ §§39-42](pdfs/Week_8_Passages_b.pdf) 
 
  - [Handout for Week 8](pdfs/Week_8_Handout_e.pdf)  
-<!----- [Presentation Notes for Week 8]() -->
 - [Video of Week 8](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f94f9710-100d-4ca3-b0ac-b4e40015748b)
 - [Audio of Week 8](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=de8adf3a-d415-4577-b96b-b4e4010a5d16)  
 
@@ -286,10 +285,11 @@ Care as the Being of Dasein I
 
 * * *
 
-## Week 9. October 21, 2026:  Care as the Being of Dasein II
+## Week 9. October 21, 2026:  Conclusion of Division One
 
 
-Care as the Being of Dasein II
+The Relation of Dasein to Being of All Kinds
+
 
 
 <p align="center"><img src="images/MH_Writing.png"></p>
