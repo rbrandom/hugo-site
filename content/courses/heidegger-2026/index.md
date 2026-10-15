@@ -165,7 +165,7 @@ The World as an Equipmental Totality of Functional Affordances
 - [Passages from _Being and Time_ §§16-18](pdfs/Passages_16-18.pdf) 
 - [Handout for Week 4](pdfs/Week_4_Handout.pdf)
 - [Plan for Week 4](pdfs/Week_4_Plan.pdf)
-- [Video of Week 4](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c5e0ddc2-7d1e-4e82-a54b-b4c800082b5b)
+- [Video of Week 4](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=349d4ea9-7ea3-4436-b1ca-b4e4012ce557) 
 - [Audio of Week 4](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4b61a47e-95a5-41c5-857c-b4c8003cfc62)
 
 <div style="display: flex; gap: 10px;">
@@ -199,7 +199,7 @@ The Social Dimension: No Dasein without Mitsein
   - [Passages from _Being and Time_ §§19-30](pdfs/Week_5_Passages_d.pdf) 
 
 - [Handout for Week 5](pdfs/Week_5_Handout_3.pdf)  
-- [Video of Week 5](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d593a6cb-25a6-47a4-8ad6-b4d30155ae5b)
+- [Video of Week 5](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7ea26f6f-695f-4bb9-8f3a-b4e40124dfe1) 
 - [Audio of Week 5](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=51b5913c-de11-4ca1-86d8-b4d40023bf54) 
 
 ##### Supplementary
@@ -228,7 +228,7 @@ Understanding and Language
 - [Passages from _Being and Time_ §§31-34](pdfs/Week_6_Passages_b.pdf)  
  - [Handout for Week 6](pdfs/Week_6_Handout.pdf)   
  
-- [Video of Week 6](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=3fead117-8577-44e4-a508-b4e200f694ba) 
+- [Video of Week 6](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a3382c7a-ef98-4ff8-a5d6-b4e4011c18f7)  
 - [Audio of Week 6](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=21b5e586-d4a2-4c2a-ae1f-b4d600fa5f45) 
 
 <center>  <img src="images/Verstehen_Rede_d.jpg" width="100%" height="100%" alt="Diagram"> </center> 
@@ -254,7 +254,7 @@ Falling
 
 - [Passages from _Being and Time_ §§35-38](pdfs/Week_7_Passages_a.pdf) 
 - [Handout for Week 7](pdfs/Week_7_Handout_n.pdf)  
-- [Video of Week 7](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e8777623-d759-46d7-b6d4-b4e200ea2ecc)
+- [Video of Week 7](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=bd8b631f-a9bb-4022-a81a-b4e400281687) 
 - [Audio of Week 7](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=04bfb124-c793-425d-a426-b4dd00fc4ddc) 
 
 ##### Supplementary
