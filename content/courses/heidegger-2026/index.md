@@ -307,7 +307,7 @@ The Relation of Dasein to Being of All Kinds
 
 ##### Supplementary
 
-
+- [Eddington, Arthur: Introduction to Gifford Lectures (1927)](pdfs/Eddingtons-Gifford-Lectures-Intro.pdf)  
 
 
 * * *
