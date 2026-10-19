@@ -326,6 +326,7 @@ Division Two of _Being and Time_
 
 #### Week 10 Materials
 
+- [Passages from _Being and Time_ Division Two](pdfs/Passages_from_Being_and_Time_Division_Two_a.pdf)   
 <!---- - [Handout for Week 10]()
 - [Presentation Notes for Week 10]()
 - [Video of Week 10]()
