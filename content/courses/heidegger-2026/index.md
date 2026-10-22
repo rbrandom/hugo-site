@@ -301,7 +301,8 @@ The Relation of Dasein to Being of All Kinds
 #### Week 9 Materials
 
 - [Passages from _Being and Time_ §§43-44](pdfs/Passages_43-44_c.pdf)  
- - [Handout for Week 9](pdfs/Week_9_Handout_o.pdf)  
+ - [Handout for Week 9](pdfs/Week_9_Handout_o.pdf)
+ - [Passages on Zuhandensein and Vorhandensein](pdfs/Z_V_passages.pdf)     
 <!----- [Presentation Notes for Week 9]()
 - [Video of Week 9]()
 - [Audio of Week 9]() -->
