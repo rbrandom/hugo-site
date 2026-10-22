@@ -293,6 +293,7 @@ The Relation of Dasein to Being of All Kinds
 
 
 <p align="center"><img src="images/MH_Writing.png"></p>
+<p align="center"><img src="images/Z-V_diagram.jpg"></p> 
 
 - [Read Heidegger, _Being and Time_ (1927) §§43-44 = MR pp. 245-273](pdfs/BT.pdf)
 
