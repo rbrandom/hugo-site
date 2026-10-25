@@ -335,6 +335,7 @@ Division Two of _Being and Time_
 
 ##### Supplementary
 - [Martin Hägglund, Précis of _This Life_ [2019].](pdfs/Hagglund_Why-Mortality-Makes-Us-Free.pdf) 
+- [Brandom, "Representation, Expression, and Recollection" ](pdfs/RER_c.pdf) 
 - [Dreyfus, _Being-in-the-World_, Appendix on Late Work, pp. 283-340.](pdfs/hubert-dreyfus-being-in-the-world.pdf)
 - [Haugeland, "Truth and Finitude: Heidegger's Transcendental Existentialism" (2000), pp. 187-220.](pdfs/Dasein_Disclosed_-_John_Haugeland.pdf)
 - [Haugeland, "Death and Dasein" (2007), pp. 179-186.](pdfs/Dasein_Disclosed_-_John_Haugeland.pdf)
