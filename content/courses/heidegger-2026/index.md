@@ -316,12 +316,13 @@ The Relation of Dasein to Being of All Kinds
 
 
 
-## Week 10. October 28, 2026 Division Two of _Being and Time_
+## Week 10. October 28, 2026 Division Two of _Being and Time_: Time
 
 Division Two of _Being and Time_
 
 <p align="center"><img src="images/Alejandro_Rodriguez_portrait.jpg" width="100%" height="100%"></p>
-
+<p align="center"><img src="images/nude2.jpg"></p> 
+## Dasein's Temporality 
 - [Read Heidegger, _Being and Time_ (1927) §45, §60, §65, §§67-69, §72, §74](pdfs/BT.pdf)
 
 
