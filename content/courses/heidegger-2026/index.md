@@ -330,10 +330,9 @@ Division Two of _Being and Time_
 #### Week 10 Materials
 
 - [Passages from _Being and Time_ Division Two](pdfs/Passages_from_Being_and_Time_Division_Two_a.pdf)   
-- [Handout for Week 10](pdfs/Week_10_Handout_h.pdf) 
-<!---- - [Presentation Notes for Week 10]()
-- [Video of Week 10]()
-- [Audio of Week 10]() -->
+- [Handout for Week 10](pdfs/Week_10_Handout_k.pdf)  
+- [Video of Week 10](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=c76cd3a5-7ac8-420f-ad36-b4f200f5c21c)
+- [Audio of Week 10](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=35e45ef0-703c-4e69-aacf-b4f2012eca40)
 
 ##### Supplementary
 - [Martin Hägglund, Précis of _This Life_ [2019].](pdfs/Hagglund_Why-Mortality-Makes-Us-Free.pdf) 
