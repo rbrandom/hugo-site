@@ -372,9 +372,8 @@ Heidegger's _Kehre_
 
 - [Passages from the Beiträge for Week 11](pdfs/Beitrage_Passages_a.pdf)
 - [Beiträge Passages mentioning Being and Time](pdfs/BT_Passages_Beitrage.pdf)  
-
-<!---- - [Handout for Week 11]()
-- [Presentation Notes for Week 11]()
+- [Handout for Week 11](pdfs/Week_11_handout_l.pdf) 
+<!---- - [Presentation Notes for Week 11]()
 - [Video of Week 11]()
 - [Audio of Week 11]() -->
 
