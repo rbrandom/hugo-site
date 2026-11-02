@@ -322,7 +322,7 @@ Division Two of _Being and Time_
 
 <p align="center"><img src="images/Alejandro_Rodriguez_portrait.jpg" width="100%" height="100%"></p>
 <p align="center"><img src="images/nude2.jpg"></p> 
-<p align="center"><img src="images/Triangle.jpg"></p> 
+<p align="center"><img src="images/Triangle_e.jpg"></p>  
 <p align="center"><img src="images/Clock_time.jpg"></p>  
 
 ## Dasein's Temporality 
@@ -372,7 +372,7 @@ Heidegger's _Kehre_
 
 - [Passages from the Beiträge for Week 11](pdfs/Beitrage_Passages_a.pdf)
 - [Beiträge Passages mentioning Being and Time](pdfs/BT_Passages_Beitrage.pdf)  
-- [Handout for Week 11](pdfs/Week_11_handout_l.pdf) 
+- [Handout for Week 11](pdfs/Week_11_handout_m.pdf)  
 <!---- - [Presentation Notes for Week 11]()
 - [Video of Week 11]()
 - [Audio of Week 11]() -->
