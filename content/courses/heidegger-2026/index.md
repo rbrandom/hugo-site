@@ -401,8 +401,8 @@ Heidegger's _Kehre_
 
 <p align="center"><img src="images/Heidegger_fetching_water.jpg" width="86.4%"></p>
 
-- [Read Heidegger, “Building, Dwelling, Thinking” (2003).](pdfs/)
-
+ 
+- [Building, Dwelling, Thinking passages](pdfs/BDT_Passages.pdf) 
 
 #### Week 12 Materials
 
