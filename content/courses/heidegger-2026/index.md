@@ -374,9 +374,9 @@ Heidegger's _Kehre_
 - [Beiträge Passages mentioning Being and Time](pdfs/BT_Passages_Beitrage.pdf)
 - [Beiträge Passages on Ereignis](pdfs/Ereignis_Passages_a.pdf)  
 - [Handout for Week 11](pdfs/Week_11_handout_m.pdf)  
-<!---- - [Presentation Notes for Week 11]()
-- [Video of Week 11]()
-- [Audio of Week 11]() -->
+
+- [Video of Week 11](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7207fb81-c48b-4d54-901c-b4fa011b70d2)
+- [Audio of Week 11](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=87abb141-80a4-470f-9847-b4fa0141efa6) 
 
 ##### Supplementary
 
