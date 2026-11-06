@@ -402,7 +402,7 @@ Heidegger's _Kehre_
 <p align="center"><img src="images/Heidegger_fetching_water.jpg" width="86.4%"></p>
 
  
-- [Read "Building, Dwelling, Thinking"](pdfs/Building_Dwelling_Thinking.pdf) 
+- [Read "Building, Dwelling, Thinking"](pdfs/BDT.pdf) 
 
 #### Week 12 Materials
 
