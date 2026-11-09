@@ -408,7 +408,9 @@ Heidegger's _Kehre_
 
 
 - [Building, Dwelling, Thinking passages](pdfs/BDT_Passages.pdf) 
-<!---- - [Handout for Week 12]()
+
+ - [Handout for Week 12](pdfs/Week_12_Handout_g.pdf)
+<!---- 
 - [Week 12 Plan]()
 - [Presentation Notes for Week 12]()
 - [Video of Week 12]()
