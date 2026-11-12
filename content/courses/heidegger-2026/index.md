@@ -410,11 +410,9 @@ Heidegger's _Kehre_
 - [Building, Dwelling, Thinking passages](pdfs/BDT_Passages.pdf) 
 
  - [Handout for Week 12](pdfs/Week_12_Handout_g.pdf)
-<!---- 
-- [Week 12 Plan]()
-- [Presentation Notes for Week 12]()
-- [Video of Week 12]()
-- [Audio of Week 12]() -->
+
+- [Video of Week 12](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ff185a47-a1f5-430b-a230-b5000113a4b4)
+- [Audio of Week 12](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=9db80e14-e2ed-4ba8-9cf7-b500015cd420) 
 
 ##### Supplementary
 - [Andrew Mitchell, _The Fourfold_: Introduction](pdfs/Mitchell_The_Fourfold.pdf)
@@ -436,8 +434,7 @@ Heidegger's _Kehre_
 </div>
 
 
-- [Read Heidegger, “The Thing”](pdfs/)
-
+- [Read Heidegger, “The Thing”](pdfs/The_Thing.pdf)
 
 
 #### Week 13 Materials
