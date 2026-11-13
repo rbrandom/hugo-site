@@ -439,6 +439,7 @@ Heidegger's _Kehre_
 
 #### Week 13 Materials
 
+- [Passages from “The Thing”](pdfs/Passages_from_The_Thing_f.pdf) 
 <!---- - [Handout for Week 13]()
 - [Presentation Notes for Week 13]()
 - [Video of Week 13]()
