@@ -436,8 +436,11 @@ Heidegger's _Kehre_
 
 - [Read Heidegger, “The Thing”](pdfs/The_Thing.pdf)
 
+<p align="center"><img src="images/Fourfold_h.jpg"></p>   
 
 #### Week 13 Materials
+
+
 
 - [Passages from “The Thing”](pdfs/Passages_from_The_Thing_f.pdf) 
 - [Handout for Week 13](pdfs/Week_13_Handout_f.pdf) 
