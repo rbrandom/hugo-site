@@ -444,6 +444,7 @@ Heidegger's _Kehre_
 
 - [Passages from “The Thing”](pdfs/Passages_from_The_Thing_f.pdf) 
 - [Handout for Week 13](pdfs/Week_13_Handout_f.pdf) 
+- [Video of Week 13](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=71c3f377-45f0-4ba5-814f-b50700fd6755) 
 <!---- - [Handout for Week 13]()
 - [Presentation Notes for Week 13]()
 - [Video of Week 13]()
