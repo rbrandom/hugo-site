@@ -446,7 +446,7 @@ Heidegger's _Kehre_
 - [Handout for Week 13](pdfs/Week_13_Handout_f.pdf) 
 - [Video of Week 13](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=71c3f377-45f0-4ba5-814f-b50700fd6755) 
 - [Audio of Week 13 (includes final 8 minutes missing from video)](https://pitt.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=7d534a33-c35c-48a9-a944-b507015f7b6c) 
-
+- [Meme Easter Egg](pdfs/Meme.pdf) 
 
 
 #### Some Further Famous Late Essays
